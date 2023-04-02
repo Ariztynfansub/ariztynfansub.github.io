@@ -1,0 +1,173 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ariztyn-Fansub'
+theme = 'hugo-themes-stack'
+
+DefaultContentLanguage = "en"
+hasCJKLanguage = false
+
+[taxonomies] 
+category = "categories"
+tag = "tags"
+
+[permalinks]
+post = "/p/:slug/"
+page = "/:slug/"
+
+[params]
+mainSections = [ "post" ]
+featuredImageField = "image"
+favicon = "/favicon.png"
+rssFullContent = true
+
+  [params.footer]
+  since = 2023
+
+  [params.dateFormat]
+  published = "02-01-2006"
+  lastUpdated = "02-01-2006 15:04 pm UTC"
+
+  [params.sidebar]
+  compact = false
+  subtitle = "Fansub hữu hạn một thành viên"
+
+    [params.sidebar.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.png"
+
+  [params.article]
+  math = false
+  toc = true
+  readingTime = true
+
+    [params.article.license]
+    enabled = true
+    default = "Licensed under CC BY-NC-SA 4.0"
+
+  [params.comments]
+  enabled = true
+  provider = "disqus"
+
+    [params.comments.disqusjs]
+
+    [params.comments.utterances]
+    issueTerm = "pathname"
+
+    [params.comments.remark42]
+
+    [params.comments.vssue]
+    autoCreateIssue = false
+
+    [params.comments.waline]
+    emoji = [ "https://unpkg.com/@waline/emojis@1.0.1/weibo" ]
+    requiredMeta = [ "name", "email", "url" ]
+
+      [params.comments.waline.locale]
+      admin = "Admin"
+
+    [params.comments.twikoo]
+
+    [params.comments.cactus]
+    defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
+    serverName = "cactus.chat"
+    siteName = ""
+
+    [params.comments.giscus]
+    reactionsEnabled = 1
+    emitMetadata = 0
+
+    [params.comments.gitalk]
+
+    [params.comments.cusdis]
+
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "archives"
+
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.homepage]]
+type = "categories"
+title = "Danh mục"
+
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+
+  [params.widgets.homepage.params]
+  limit = 100
+
+[[params.widgets.page]]
+type = "toc"
+
+[params.opengraph.twitter]
+card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+enabled = false
+local = false
+
+  [params.colorScheme]
+  toggle = true
+  default = "auto"
+
+[params.imageProcessing.cover]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+
+[menu]
+main = [ ]
+
+  [[menu.social]]
+  identifier = "discord"
+  name = "Discord"
+  url = "https://discord.gg/rYmq8tk2Ng"
+
+    [menu.social.params]
+    icon = "brand-discord"
+
+  [[menu.social]]
+  identifier = "facebook"
+  name = "Facebook"
+  url = "http://facebook.com/AriztynFansub"
+
+    [menu.social.params]
+    icon = "brand-facebook"
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = false
+
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "categories"
+  weight = 200
+
+[markup.goldmark.renderer]
+unsafe = false
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4
