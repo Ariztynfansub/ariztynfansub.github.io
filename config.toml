@@ -55,7 +55,7 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "disqus"
+  provider = "giscus"
 
     [params.comments.disqusjs]
 
