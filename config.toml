@@ -6,7 +6,7 @@ theme = 'hugo-themes-stack'
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
-googleAnalytics = 'G-C1QDVVYVGG'
+googleAnalytics = 'G-X2NQ3D3LTX'
 
 enableRobotsTXT = true
 [sitemap]
