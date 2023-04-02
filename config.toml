@@ -6,6 +6,8 @@ theme = 'hugo-themes-stack'
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
+googleAnalytics = 'G-C1QDVVYVGG'
+
 enableRobotsTXT = true
 [sitemap]
   changefreq = 'monthly'
