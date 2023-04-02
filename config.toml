@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ariztynfansub.github.io/Ariztyn-Fansub/'
 languageCode = 'en-us'
 title = 'Ariztyn-Fansub'
 theme = 'hugo-themes-stack'
