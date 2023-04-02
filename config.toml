@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Ariztyn-Fansub'
 theme = 'hugo-themes-stack'
 
+repository = "Ariztynfansub/ariztynfansub.github.io"
+
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
@@ -82,8 +84,17 @@ rssFullContent = true
     siteName = ""
 
     [params.comments.giscus]
-    reactionsEnabled = 1
-    emitMetadata = 0
+	repo = "Ariztynfansub/ariztynfansub.github.io"
+	repo-id = "R_kgDOJRqpPQ"
+	category = "Comments"
+	category-id = "DIC_kwDOJRqpPc4CVex3"
+	mapping = "title"
+	strict = "0"
+	reactions-enabled = "1"
+	emitMetadata = 0
+	theme = "dark"
+	loading = "lazy"
+	crossorigin = "anonymous"
 
     [params.comments.gitalk]
 
