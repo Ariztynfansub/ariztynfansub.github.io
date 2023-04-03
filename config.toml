@@ -24,10 +24,6 @@ tag = "tags"
 post = "/p/:slug/"
 page = "/:slug/"
 
-[module]
-[[module.imports]]
-  path = 'github.com/hugomods/giscus'
-
 [params]
 mainSections = [ "post" ]
 featuredImageField = "image"
@@ -90,12 +86,13 @@ rssFullContent = true
     [params.comments.giscus]
 	repo = "Ariztynfansub/ariztynfansub.github.io"
 	repo-id = "R_kgDOJRqpPQ"
-	category = "Comments"
+	category = "Q&A"
 	category-id = "DIC_kwDOJRqpPc4CVex3"
 	mapping = "title"
 	strict = "0"
 	reactions-enabled = "1"
 	emitMetadata = 0
+	label = "comment"
 	theme = "dark"
 	loading = "lazy"
 	crossorigin = "anonymous"
