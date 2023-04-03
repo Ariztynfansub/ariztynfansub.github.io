@@ -4,7 +4,11 @@
             {{ if eq .Parent (.GetPage "/") }}
                 {{ T "list.section" }}
             {{ else }}
-                {{ .Parent.Title }}
+				{{ if eq .Parent.Title "Categories"}}
+					{{ "Danh mục" }}
+				{{ else }}
+					{{ .Parent.Title }}
+				{{ end }}
             {{ end }}
         </h3>
 
