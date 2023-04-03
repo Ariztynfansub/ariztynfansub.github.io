@@ -1,0 +1,18 @@
+<style>
+	/// Overwrite CSS variable
+    :root {
+        --article-font-family: "Montserrat", var(--base-font-family);	
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Noto+Sans:wght@500&display=swap" rel="stylesheet"";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>

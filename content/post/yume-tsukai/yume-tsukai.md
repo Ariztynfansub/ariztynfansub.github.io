@@ -2,7 +2,7 @@
 title: "Yume Tsukai"
 date: 2023-04-01T19:37:23+07:00
 description: Yume Tsukai DVD Vietsub
-image: cover-yume-tsukai.png
+image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
 ---
@@ -13,7 +13,8 @@ tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
 **Số tập:** 12  
 **Studio:** Madhouse   
 **Năm phát sóng:** 2006   
-**Nội dung:** Noera đang đi làm sau khi uống rượu thâu đêm với một người bạn thì gặp Marsha, một cô gái trẻ đi môtô đang hướng tới Los Angeles. Họ đột ngột vướng vào một cuộc rượt đuổi ô tô và Marsha lấy được một hộp kim loại bị khóa từ một trong những phương tiện bị truy đuổi. Bên trong nó, một quả cầu tối. Nhiều người muốn có quả cầu bằng mọi giá buộc Noera và Marsha phải liều lĩnh bỏ chạy trong khi cố gắng tìm hiểu xem vật thể lạ mà họ đang mang chính xác là gì.   
+**Nội dung:**   
+Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất cũng như các cảm xúc trong tâm trí ta; nhưng khi những cảm xúc dữ dội của chúng ta vượt ra khỏi ranh giới vào thực tại, thì giấc mơ có thể trở thành một cơn ác mộng không thể kiểm soát. Touko và Rinko là hai chị em, và còn là các Yume Tsukai (Người Sử dụng Giấc mơ), và công việc của họ là xử lý những cơn ác mộng đó. Sử dụng đồ chơi làm vũ khí, hai cô gái phải tiêu diệt những cơn ác mộng và trả lại giấc mơ về đúng với chủ nhân của nó trước khi cơn ác mộng có thể gây ra bất kỳ tổn thất nghiêm trọng nào. Không có gì phải sợ, vì đã có Touko và Rinko ở đây rồi!.   
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của [Orphan](https://nyaa.si/view/860370)   
 **Định dạng & thông số:**      

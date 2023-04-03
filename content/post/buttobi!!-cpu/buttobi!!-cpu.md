@@ -2,7 +2,7 @@
 title: "Buttobi!! CPU"
 date: 2023-04-01T16:38:44+07:00
 description: Buttobi!! CPU DVD Vietsub
-image: cover-buttobi!!-cpu.png
+image: cover-buttobi!!-cpu.webp
 categories: Hentai
 tags: ['Hentai','OVA','DVD','720p','480p','10bit','8bit','AC3','x265','Hoàn thành']
 ---

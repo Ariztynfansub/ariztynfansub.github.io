@@ -2,7 +2,7 @@
 title: "Hướng dẫn xem phim"
 date: 2023-04-02T11:55:38+07:00
 slug: "guide-to-watch"
-image: cover-guide-to-watch.png
+image: cover-guide-to-watch.webp
 categories: Guide
 tags: ['Hướng dẫn xem phim']
 ---

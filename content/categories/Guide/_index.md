@@ -1,6 +1,7 @@
 ---
 title: "Hướng dẫn"
-image: cover-guide.png
+description: "Các hướng dẫn"
+image: cover-guide.webp
 style:
     background: "#FFCA2A"
     color: "#fff"

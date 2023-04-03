@@ -2,7 +2,7 @@
 title: "Bakuretsu Tenshi"
 date: 2023-04-01T16:15:06+07:00
 description: Bakuretsu Tenshi BD Vietsub
-image: cover-bakuretsu-tenshi.png
+image: cover-bakuretsu-tenshi.webp
 categories: Anime
 tags: ['Anime','OVA','BD','1080p','720p','480p','10bit','FLAC','AC3','x264','x265','Hoàn thành']
 ---

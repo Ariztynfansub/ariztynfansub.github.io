@@ -113,7 +113,7 @@ type = "search"
 type = "archives"
 
   [params.widgets.homepage.params]
-  limit = 10
+  limit = 5
 
 [[params.widgets.homepage]]
 type = "categories"
@@ -126,7 +126,7 @@ title = "Danh mục"
 type = "tag-cloud"
 
   [params.widgets.homepage.params]
-  limit = 100
+  limit = 20
 
 [[params.widgets.page]]
 type = "toc"

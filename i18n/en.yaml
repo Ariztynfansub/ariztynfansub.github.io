@@ -3,14 +3,16 @@ toggleMenu:
 
 darkMode:
     other: Dark Mode
-    
+
+#Phần List sẽ ảnh hưởng tới i18n/en.yaml    
 list:
     page:
         one: "{{ .Count }} trang"
         other: "{{ .Count }} trang"
 
+    # Section này xuất hiện ở trang Tags hay tags.md + layouts/_default/list.html
     section:
-        other: Section
+        other: Tất cả các tag #vì xuất hiện ở trang Tags nên dịch "Tất cả các tag"
 
     subsection:
         one: Subsection
