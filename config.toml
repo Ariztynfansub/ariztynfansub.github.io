@@ -57,8 +57,22 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "giscus"
+  provider = "cusdis"
 
+	[params.comments.giscus]
+		repo = "Ariztynfansub/ariztynfansub.github.io"
+		repo-id = "R_kgDOJRqpPQ"
+		category = "Q&A"
+		category-id = "DIC_kwDOJRqpPc4CVex3"
+		mapping = "title"
+		strict = "0"
+		reactions-enabled = "1"
+		emitMetadata = 0
+		label = "comment"
+		theme = "dark"
+		loading = "lazy"
+		crossorigin = "anonymous"
+	
     [params.comments.disqusjs]
 
     [params.comments.utterances]
@@ -83,23 +97,14 @@ rssFullContent = true
     serverName = "cactus.chat"
     siteName = ""
 
-    [params.comments.giscus]
-	repo = "Ariztynfansub/ariztynfansub.github.io"
-	repo-id = "R_kgDOJRqpPQ"
-	category = "Q&A"
-	category-id = "DIC_kwDOJRqpPc4CVex3"
-	mapping = "title"
-	strict = "0"
-	reactions-enabled = "1"
-	emitMetadata = 0
-	label = "comment"
-	theme = "dark"
-	loading = "lazy"
-	crossorigin = "anonymous"
+    
 
     [params.comments.gitalk]
 
     [params.comments.cusdis]
+		id = "a104c7ad-8d7e-4e9c-9a59-08b1d3ff7104"
+		
+		
 
 [[params.widgets.homepage]]
 type = "search"
