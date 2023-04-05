@@ -7,12 +7,12 @@ darkMode:
 #Phần List sẽ ảnh hưởng tới i18n/en.yaml    
 list:
     page:
-        one: "{{ .Count }} trang"
-        other: "{{ .Count }} trang"
+        one: "{{ .Count }}"
+        other: "{{ .Count }}"
 
-    # Section này xuất hiện ở trang Tags hay tags.md + layouts/_default/list.html
+    # Section này xuất hiện ở trang Tags và Pages hay tags.md + layouts/_default/list.html
     section:
-        other: Tất cả các tag #vì xuất hiện ở trang Tags nên dịch "Tất cả các tag"
+        other: Tất cả gồm #vì xuất hiện ở trang Tags/Pages nên dịch "Tất cả gồm"
 
     subsection:
         one: Subsection
@@ -65,11 +65,11 @@ search:
         other: Nhập gì đó...
 
     resultTitle:
-        other: "#PAGES_COUNT trang (#TIME_SECONDS seconds)"
+        other: "#PAGES_COUNT bài đăng (#TIME_SECONDS giây)"
 
 footer:
     builtWith:
-        other: Built with {{ .Generator }}
+        other: Xây dựng bằng {{ .Generator }}
 
     designedBy:
-        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
+        other: Theme {{ .Theme }} được thiết kế bởi {{ .DesignedBy }}

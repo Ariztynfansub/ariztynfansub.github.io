@@ -14,8 +14,29 @@
 
         <div class="section-card">
             <div class="section-details">
-                <h3 class="section-count">{{ T "list.page" (len .Pages) }}</h3>
-                <h1 class="section-term">{{ .Title }}</h1>
+                
+				{{if eq .Title "Pages"}}
+					<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " trang" }}</h3>
+					<h1 class="section-term">{{ "Trang chính của web" }}</h1>
+				{{ else }}
+					{{if eq .Title "Tags"}}
+						<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " loại"}}</h3>
+						<h1 class="section-term">{{ .Title }}</h1>
+					{{ else }}
+						{{ if eq .Title "Categories"}}
+							<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " loại"}}</h3>
+							<h1 class="section-term">{{ "Danh mục" }}</h1>
+						{{ else }}
+							{{ if eq .Parent.Title "Categories"}}
+								<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng thuộc danh mục"}}</h3>
+								<h1 class="section-term">{{ .Title }}</h1>
+							{{ else }}
+								<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng chứa tag"}}</h3>
+								<h1 class="section-term">{{ .Title }}</h1>
+							{{ end }}
+						{{ end }}
+					{{ end }}
+				{{ end }}
                 {{ with .Params.description }}
                     <h2 class="section-description">{{ . }}</h2>
                 {{ end }}
