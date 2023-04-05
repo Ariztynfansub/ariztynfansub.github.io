@@ -33,7 +33,7 @@ Sau khi bấm link tải thì bấm vào vùng khoanh đỏ như trên hình.
 {{< raw_html >}}  
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/download-subtitle-edit-1.webp" loading="lazy" title="Tải bản Subtitle Edit bản mới nhất." alt="Tải bản Subtitle Edit bản mới nhất.">
+		<img src="/download-subtitle-edit-1.webp" loading="lazy" title="Tải bản Subtitle Edit bản mới nhất." alt="Tải bản Subtitle Edit bản mới nhất.">
 		<figcaption>Tải bản Subtitle Edit bản mới nhất.</figcaption>	
 	</figure>
 </p>
@@ -42,7 +42,7 @@ Nỏ sẽ mở ra tab mới trên trình duyệt. Nếu bạn là Windows thì b
 {{< raw_html >}}  
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/download-subtitle-edit-2.webp" loading="lazy" title="Tải bản Subtitle Edit cho Windows." alt="Tải bản Subtitle Edit cho Windows.">
+		<img src="/download-subtitle-edit-2.webp" loading="lazy" title="Tải bản Subtitle Edit cho Windows." alt="Tải bản Subtitle Edit cho Windows.">
 		<figcaption>Tải bản Subtitle Edit cho Windows.</figcaption>	
 	</figure>
 </p>
@@ -54,7 +54,7 @@ Mở thư mục chứa file .iso. **Click chuột phải** vào nó. **Chọn mo
 {{< raw_html >}}  
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/right-click-iso-file-select-mount.webp" loading="lazy" title="Click chuột phải vào file .iso chọn mount." alt="Click chuột phải vào file .iso chọn mount.">
+		<img src="/right-click-iso-file-select-mount.webp" loading="lazy" title="Click chuột phải vào file .iso chọn mount." alt="Click chuột phải vào file .iso chọn mount.">
 		<figcaption>Click chuột phải vào file .iso chọn mount.</figcaption>	
 	</figure>
 </p>
@@ -63,7 +63,7 @@ xong rồi thì bấm vào **This PC** bạn sẽ thấy như hình dưới đâ
 {{< raw_html >}}  
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/mounted.webp" loading="lazy" title="Sau khi mount file .iso thành công." alt="Sau khi mount file .iso thành công.">
+		<img src="/mounted.webp" loading="lazy" title="Sau khi mount file .iso thành công." alt="Sau khi mount file .iso thành công.">
 		<figcaption>Sau khi mount file .iso thành công.</figcaption>	
 	</figure>
 </p>
@@ -72,7 +72,7 @@ Nhấp đúp mở ổ DVD Drive ta được hình như sau.
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/open-dvd-drive-1.webp" loading="lazy" title="Mở ổ đĩa dvd drive." alt="Mở ổ đĩa dvd drive.">
+		<img src="/open-dvd-drive-1.webp" loading="lazy" title="Mở ổ đĩa dvd drive." alt="Mở ổ đĩa dvd drive.">
 		<figcaption>Mở ổ đĩa dvd drive.</figcaption>	
 	</figure>
 </p>
@@ -81,7 +81,7 @@ Tiếp tục mở thư mục **VIDEO_TS** ta được như hình dưới.
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/open-dvd-drive-2.webp" loading="lazy" title="Mở thư mục VIDEO_TS." alt="Mở thư mục VIDEO_TS.">
+		<img src="/open-dvd-drive-2.webp" loading="lazy" title="Mở thư mục VIDEO_TS." alt="Mở thư mục VIDEO_TS.">
 		<figcaption>Mở thư mục VIDEO_TS.</figcaption>	
 	</figure>
 </p>
@@ -92,7 +92,7 @@ Mở file **VSRip.exe** lên. Chọn **Load IFO** như hình dưới.
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/vsrip-open.webp" loading="lazy" title="Mở VSRip và chọn Load IFO." alt="Mở VSRip và chọn Load IFO.">
+		<img src="/vsrip-open.webp" loading="lazy" title="Mở VSRip và chọn Load IFO." alt="Mở VSRip và chọn Load IFO.">
 		<figcaption>Mở VSRip và chọn Load IFO.</figcaption>	
 	</figure>
 </p>
@@ -101,7 +101,7 @@ Mở đến nơi chứa các file DVD (chứa các file .IFO). Nếu DVD là fil
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-1.webp" loading="lazy" title="Mở vị trí file.IFO trên VSRip." alt="Mở vị trí file.IFO trên VSRip.">
+		<img src="/VSRip-1.webp" loading="lazy" title="Mở vị trí file.IFO trên VSRip." alt="Mở vị trí file.IFO trên VSRip.">
 		<figcaption>Mở vị trí file.IFO trên VSRip.</figcaption>	
 	</figure>
 </p>
@@ -110,7 +110,7 @@ Có rất nhiều File .IFO để chọn vậy file nào mới là đúng? Để
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-2.webp" loading="lazy" title="Lọc các file trong thư mục chứa các file của DVD theo Size giảm dần." alt="Lọc các file trong thư mục chứa các file của DVD theo Size giảm dần.">
+		<img src="/VSRip-2.webp" loading="lazy" title="Lọc các file trong thư mục chứa các file của DVD theo Size giảm dần." alt="Lọc các file trong thư mục chứa các file của DVD theo Size giảm dần.">
 		<figcaption>Lọc các file trong thư mục chứa các file của DVD theo Size giảm dần.</figcaption>	
 	</figure>
 </p>
@@ -128,7 +128,7 @@ Chúng chính là các file phim. Vậy thì **quay lại cửa sổ VSRip** hã
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-3.webp" loading="lazy" title="Các file .IFO mà ta sẽ dùng để chuyển đổi sang .srt." alt="Các file .IFO mà ta sẽ dùng để chuyển đổi sang .srt.">
+		<img src="/VSRip-3.webp" loading="lazy" title="Các file .IFO mà ta sẽ dùng để chuyển đổi sang .srt." alt="Các file .IFO mà ta sẽ dùng để chuyển đổi sang .srt.">
 		<figcaption>Các file .IFO mà ta sẽ dùng để chuyển đổi sang .srt.</figcaption>	
 	</figure>
 </p>
@@ -138,13 +138,13 @@ Sau khi chọn file **VTS_02_0.IFO** và bấm **Open** từ cửa sổ VSRip nh
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-4.webp" loading="lazy" title="Chọn file VTS_02_0.IFO và bấm Open." alt="Chọn file VTS_02_0.IFO và bấm Open.">
+		<img src="/VSRip-4.webp" loading="lazy" title="Chọn file VTS_02_0.IFO và bấm Open." alt="Chọn file VTS_02_0.IFO và bấm Open.">
 		<figcaption>Chọn file VTS_02_0.IFO và bấm Open.</figcaption>	
 	</figure>
 </p>
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-5.webp" loading="lazy" title="Chọn nơi lưu file Vob subtitle sau khi xuất ra." alt="Chọn nơi lưu file Vob subtitle sau khi xuất ra.">
+		<img src="/VSRip-5.webp" loading="lazy" title="Chọn nơi lưu file Vob subtitle sau khi xuất ra." alt="Chọn nơi lưu file Vob subtitle sau khi xuất ra.">
 		<figcaption>Chọn nơi lưu file Vob subtitle sau khi xuất ra.</figcaption>	
 	</figure>
 </p>
@@ -156,7 +156,7 @@ Xong tiếp tục click **Next >** từ hình trên. Tại trang tiếp theo ta 
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-6.webp" loading="lazy" title="Click English(en) để bỏ chọn Japanese(jap)." alt="Click English(en) để bỏ chọn Japanese(jap).">
+		<img src="/VSRip-6.webp" loading="lazy" title="Click English(en) để bỏ chọn Japanese(jap)." alt="Click English(en) để bỏ chọn Japanese(jap).">
 		<figcaption>Click English(en) để bỏ chọn Japanese(jap).</figcaption>	
 	</figure>
 </p>
@@ -166,7 +166,7 @@ Khi **Done!** xuất hiện như hình dưới thì có nghĩa là Vob subtitle 
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-7.webp" loading="lazy" title="Quá trình tách Vob subtitle và màn hình khi quá trình hoàn tất." alt="Quá trình tách Vob subtitle và màn hình khi quá trình hoàn tất.">
+		<img src="/VSRip-7.webp" loading="lazy" title="Quá trình tách Vob subtitle và màn hình khi quá trình hoàn tất." alt="Quá trình tách Vob subtitle và màn hình khi quá trình hoàn tất.">
 		<figcaption>Quá trình tách Vob subtitle và màn hình khi quá trình hoàn tất.</figcaption>	
 	</figure>
 </p>
@@ -175,7 +175,7 @@ Mở thư mục Newfolder ở Desktop nơi lưu file subtitle sau khi tách ra t
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/VSRip-8.webp" loading="lazy" title="Thành quả sau khi tách là 2 hai file Vob subtitle .idx và .sub." alt="Thành quả sau khi tách là 2 hai file Vob subtitle .idx và .sub.">
+		<img src="/VSRip-8.webp" loading="lazy" title="Thành quả sau khi tách là 2 hai file Vob subtitle .idx và .sub." alt="Thành quả sau khi tách là 2 hai file Vob subtitle .idx và .sub.">
 		<figcaption>Thành quả sau khi tách là 2 hai file Vob subtitle .idx và .sub.</figcaption>	
 	</figure>
 </p>
@@ -186,7 +186,7 @@ Mở Subtitle Edit bằng shortcut từ Desktop. Rồi chọn **Tools** -> **Bat
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/subtitle-edit-1.webp" loading="lazy" title="Click 'Tools" rồi click 'Batch convert...'." alt="Click 'Tools" rồi click 'Batch convert...'.">
+		<img src="/subtitle-edit-1.webp" loading="lazy" title="Click 'Tools" rồi click 'Batch convert...'." alt="Click 'Tools" rồi click 'Batch convert...'.">
 		<figcaption>Click 'Tools" rồi click 'Batch convert...'.</figcaption>	
 	</figure>
 </p>
@@ -196,8 +196,8 @@ Từ cửa số window explorer của Newfolder nơi lưu Vob subtitle, click gi
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/subtitle-edit-2.webp" loading="lazy" title="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert." alt="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert.">
-		<img src="/Ariztyn-Fansub/subtitle-edit-3.webp" loading="lazy" title="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert." alt="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert.">
+		<img src="/subtitle-edit-2.webp" loading="lazy" title="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert." alt="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert.">
+		<img src="/subtitle-edit-3.webp" loading="lazy" title="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert." alt="Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert.">
 		<figcaption>Click giữ chuột trái vào file VTS_02_0.sub và kéo thả vào Batch convert.</figcaption>	
 	</figure>
 </p>
@@ -207,7 +207,7 @@ Chọn nơi lưu file .srt sau khi chuyển đổi và cài đặt thông số n
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/subtitle-edit-4.webp" loading="lazy" title="Cài đặt thông số cho file .srt sắp xuất ra." alt="Cài đặt thông số cho file .srt sắp xuất ra.">
+		<img src="/subtitle-edit-4.webp" loading="lazy" title="Cài đặt thông số cho file .srt sắp xuất ra." alt="Cài đặt thông số cho file .srt sắp xuất ra.">
 		<figcaption>Cài đặt thông số cho file .srt sắp xuất ra.</figcaption>	
 	</figure>
 </p>
@@ -219,7 +219,7 @@ Mở thư mục Newfolder ở Desktop nơi lưu file .srt mà ta đã chọn đ�
 {{< raw_html >}}
 <p align="center">
 	<figure>
-		<img src="/Ariztyn-Fansub/subtitle-edit-5.webp" loading="lazy" title="Thành quả file english subtitle VTS_02_0.srt." alt="Thành quả file english subtitle VTS_02_0.srt.">
+		<img src="/subtitle-edit-5.webp" loading="lazy" title="Thành quả file english subtitle VTS_02_0.srt." alt="Thành quả file english subtitle VTS_02_0.srt.">
 		<figcaption>Thành quả file english subtitle VTS_02_0.srt.</figcaption>	
 	</figure>
 </p>
