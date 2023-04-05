@@ -8,6 +8,7 @@ repository = "Ariztynfansub/ariztynfansub.github.io"
 DefaultContentLanguage = "en"
 hasCJKLanguage = false
 
+# start google config
 googleAnalytics = 'G-X2NQ3D3LTX'
 
 enableRobotsTXT = true
@@ -15,6 +16,8 @@ enableRobotsTXT = true
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
+# end google config
+	
 
 [taxonomies] 
 category = "categories"
@@ -23,6 +26,7 @@ tag = "tags"
 [permalinks]
 post = "/p/:slug/"
 page = "/:slug/"
+enableEmoji = true #emoj config| list emoji here:https://www.webfx.com/tools/emoji-cheat-sheet/ just copy paste to .md file to use any emoji
 
 [params]
 mainSections = [ "post" ]
