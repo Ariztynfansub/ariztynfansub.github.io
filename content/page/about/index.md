@@ -1,7 +1,7 @@
 ---
 title: "Giới thiệu & Quy định"
 date: 2023-04-01T21:16:30+07:00
-description: Giới thiệu về Ariztyn-Fansub
+description: Giới thiệu về Ariztyn-Fansub & quy định
 layout: "about"
 slug: "about"
 aliases:

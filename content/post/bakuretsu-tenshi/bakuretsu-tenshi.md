@@ -7,7 +7,7 @@ categories: Anime
 tags: ['Anime','OVA','BD','1080p','720p','480p','10bit','FLAC','AC3','x264','x265','Hoàn thành']
 ---
 ## Thông tin phim   
-**Tên phim:** Burst Angel | Bakurestu Tenshi | 爆裂天使   
+**Tên phim:** Burst Angel | Bakuretsu Tenshi | 爆裂天使   
 **Số tập:** 24 + 1 OVA   
 **Studio:** Gonzo   
 **Năm phát sóng:** 2004   
