@@ -170,10 +170,18 @@ main = [ ]
   [[menu.social]]
   identifier = "facebook"
   name = "Facebook"
-  url = "http://facebook.com/AriztynFansub"
+  url = "https://facebook.com/AriztynFansub"
 
     [menu.social.params]
     icon = "brand-facebook"
+	
+  [[menu.social]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/index.xml"
+
+    [menu.social.params]
+    icon = "rss"
 
 [related]
 includeNewer = true
