@@ -1,15 +1,15 @@
 ---
 title: "Encode Anime X265 10bit bằng phần mềm HandBrake"
-date: 2023-04-07T19:33:16+07:00
+date: 2023-04-09T10:00:00+07:00
 slug: "encode-anime-x265-10bit-with-handbrake"
 image: encode-anime-x265-10bit-with-handbrake.webp
 categories: Guide
 tags: ['Làm subtitle','HandBrake','Encode']
-lastmod: '2023-04-09T12:12:00+07:00'
+lastmod: '2023-04-09T13:13:30+07:00'
 ---
 ## Đôi lời
 Encode thường là bước cuối cùng để đưa ra sản phẩm. Mục đích Encode sẽ giúp giảm dung lượng sản phẩm đầu ra, đổi định dạng âm thanh cũng như ghép subtitle vào sản phẩm luôn ở dạng Hardsub. Ở bài viết này mình sẽ chỉ chia sẻ cài đặt thông số mà mình dùng để encode. Nên tuỳ vào cảm nhân mà bạn có thể tự lựa chọn cài đặt của riêng mình không cần phải giống mình đâu.   
-Encode rất ngốn tài nguyên máy tính nên nếu encode thì hãy tắt các cửa sổ chương trình đang chạy khác để tăng tốc độ encode.   
+Encode rất ngốn tài nguyên máy tính nên nếu encode thì hãy tắt các chương trình đang chạy khác để tăng tốc độ encode.   
 ## Các thứ cần chuẩn bị
 ### File video   
 Hãy đảm bảo file video không bị lỗi và có chất lượng cao nhất có thể. Mình thường sử dụng video định dạng .mkv hoặc là .mp4
