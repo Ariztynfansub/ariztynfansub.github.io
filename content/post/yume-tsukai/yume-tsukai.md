@@ -5,9 +5,10 @@ description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
+lastmod: '2023-04-07T22:53:00+07:00'
 ---
 ## Tiến độ   
-> 3/12 Cập nhật ngày 1/4/2023   
+> 4/12 Cập nhật ngày 7/4/2023   
 ## Thông tin phim   
 **Tên phim:** Yume Tsukai | 夢使い   
 **Số tập:** 12  
@@ -33,4 +34,8 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 ## Download   
 **Download:** [12 Tập](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
+## Những câu nói hay trong phim
+> Đối với cảm xúc của việc yêu một ai đó, thì nó đã không còn là vấn đề của đúng hay sai nữa rồi. Ta chỉ đơn giản là làm những gì có thể thôi.
+>>-Touko Mishima-   
+
 > Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶

@@ -43,7 +43,7 @@ rssFullContent = true
 
   [params.dateFormat]
   published = "02-01-2006"
-  lastUpdated = "02-01-2006 15:04 pm UTC"
+  lastUpdated = "02-01-2006 15:04 pm GMT+7"
 
   [params.sidebar]
   compact = false
