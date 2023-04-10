@@ -5,7 +5,7 @@ description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
-lastmod: '2023-04-10T11:22:20+07:00'
+lastmod: '2023-04-10T22:23:00+07:00'
 ---
 ## Tiến độ   
 > 4/12 Cập nhật ngày 7/4/2023   
