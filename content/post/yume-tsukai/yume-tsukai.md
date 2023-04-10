@@ -5,7 +5,7 @@ description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
-lastmod: '2023-04-07T22:53:00+07:00'
+lastmod: '2023-04-10T11:38:00+07:00'
 ---
 ## Tiến độ   
 > 4/12 Cập nhật ngày 7/4/2023   
@@ -31,6 +31,8 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 - Ochazuke: cơm chan trà, nó là món có thật đấy.   
 ### Tập 3   
 - Clinamen là tên mà Lucretius đã đặt cho sự chuyển hướng tự phát cực nhỏ của các nguyên tử khỏi một đường thẳng đứng khi chúng rơi xuống. Theo Lucretius, nếu không có Clinamen, tự nhiên sẽ không bao giờ tạo ra bất cứ thứ gì. Lý thuyết này là một phần của vật lý học Epicurean.   
+### Tập 5   
+- 百聞は一見にしかず[hyakubun wa ikken ni shikazu]: Thấy một lần còn hơn là được nghe một trăm lần -> do khá tương đồng nên mình dùng câu "tai nghe không bằng mắt thấy" để dịch cho câu này.   
 ## Download   
 **Download:** [12 Tập](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
