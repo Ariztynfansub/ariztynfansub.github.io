@@ -9,7 +9,7 @@ tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến h
 lastmod: '2023-04-11T23:00:00+07:00'
 ---
 ## Lưu ý    
-Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắt trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
+Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắc trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
 ## Thông tin phim   
 ### Soukihei M.D. Geist (1986) | Soukihei M.D. Geist: Original Cut (1986)
 **Tên phim:** Soukihei M.D. Geist | Sōkihei MD Gaisuto | 装鬼兵MDガイスト   

@@ -163,6 +163,7 @@ main = [ ]
   identifier = "discord"
   name = "Discord"
   url = "https://discord.gg/rYmq8tk2Ng"
+  weight = -90
 
     [menu.social.params]
     icon = "brand-discord"
@@ -171,7 +172,8 @@ main = [ ]
   identifier = "facebook"
   name = "Facebook"
   url = "https://facebook.com/AriztynFansub"
-
+  weight = -80
+  
     [menu.social.params]
     icon = "brand-facebook"
 	
@@ -179,9 +181,19 @@ main = [ ]
   identifier = "rss"
   name = "RSS"
   url = "/index.xml"
+  weight = -60
 
     [menu.social.params]
     icon = "rss"
+	
+  [[menu.social]]
+  identifier = "momo"
+  name = "Donate via Momo"
+  url = "/momo.jpg"
+  weight = -70
+
+    [menu.social.params]
+    icon = "currency-dong"
 
 [related]
 includeNewer = true

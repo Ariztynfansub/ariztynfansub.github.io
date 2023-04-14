@@ -5,10 +5,10 @@ description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
-lastmod: '2023-04-11T14:43:00+07:00'
+lastmod: '2023-04-14T23:30:00+07:00'
 ---
 ## Tiến độ   
-> 5/12 Cập nhật ngày 11/04/2023   
+> 6/12 Cập nhật ngày 14/04/2023   
 ## Thông tin phim   
 **Tên phim:** Yume Tsukai | 夢使い   
 **Số tập:** 12  
@@ -35,6 +35,8 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 - 百聞は一見にしかず[hyakubun wa ikken ni shikazu]: Thấy một lần còn hơn là được nghe một trăm lần -> do khá tương đồng nên mình dùng câu "tai nghe không bằng mắt thấy" để dịch cho câu này.   
 - Asobide: những người phụ trách các nghi thức trong tang lễ hoàng gia Nhật Bản thời Heian.   
 - Daruma: Búp bê daruma một loại búp bê truyền thống của Nhật Bản, thường phỏng theo dung mạo của Bồ-đề-đạt-ma.   
+### Tập 6
+- Tình yêu giữa chó và khỉ: trong văn hoá Nhật Bản chó với khỉ cũng giống như chó với mèo bên phương Tây vậy. Đều là cặp hai con vật không ưa gì nhau.   
 ## Download   
 **Download:** [12 Tập](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
