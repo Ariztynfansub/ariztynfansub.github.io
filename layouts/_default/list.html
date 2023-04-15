@@ -27,12 +27,17 @@
 							<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " loại"}}</h3>
 							<h1 class="section-term">{{ "Danh mục" }}</h1>
 						{{ else }}
-							{{ if eq .Parent.Title "Categories"}}
-								<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng thuộc danh mục"}}</h3>
-								<h1 class="section-term">{{ .Title }}</h1>
+							{{ if eq .Title "Posts" }}
+								<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng"}}</h3>
+								<h1 class="section-term">{{ "Trong toàn bộ website" }}</h1>
 							{{ else }}
-								<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng chứa tag"}}</h3>
-								<h1 class="section-term">{{ .Title }}</h1>
+								{{ if eq .Parent.Title "Categories"}}
+									<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng thuộc danh mục"}}</h3>
+									<h1 class="section-term">{{ .Title }}</h1>
+								{{ else }}
+									<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " bài đăng chứa tag"}}</h3>
+									<h1 class="section-term">{{ .Title }}</h1>
+								{{ end }}
 							{{ end }}
 						{{ end }}
 					{{ end }}
