@@ -38,7 +38,7 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 ### Tập 6
 - Tình yêu giữa chó và khỉ: trong văn hoá Nhật Bản chó với khỉ cũng giống như chó với mèo bên phương Tây vậy. Đều là cặp hai con vật thiên địch ~ không ưa gì nhau.   
 ### Tập 8   
-- Relay được nhắc đến trong tập này có nghĩa là chạy tiếp sức. Môn này thì hội thao ở trường Việt Nam mình cũng có
+- Relay được nhắc đến trong tập này có nghĩa là chạy tiếp sức. Môn này thì hội thao ở trường Việt Nam mình cũng có.
 - Parfait một từ tiếng Pháp ~ cũng nghĩa là Perfect trong tiếng Anh, đồng thời còn là tên một loại bánh tráng miệng có nguồn gốc từ Pháp từ những năm 1894.   
 - Do studio hết kinh phí nên cảnh đánh nhau đã bị cắt. Sasuga Madhouse. Con Cyber End Dragon ngon thế mà cảnh chiến đấu lại bị cắt mất, tiếc thật.   
 - Kuwabara, kuwabara: Xuất phát từ câu nói của người nông dân Nhật Bản. Nó thường được nói khi trời mưa để cầu Thần Sấm không đánh vào ruộng lúa. Tương tự với câu Knock on wood trong tiếng Anh. Nên mình dịch thành "lạy trời, lạy trời" cho đồng ngữ điệu với câu nói gốc trong tiếng Nhật.
