@@ -8,7 +8,7 @@ tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
 lastmod: '2023-04-18T22:40:00+07:00'
 ---
 ## Tiến độ   
-> 7/12 Cập nhật ngày 18/04/2023   
+> 8/12 Cập nhật ngày 18/04/2023   
 ## Thông tin phim   
 **Tên phim:** Yume Tsukai | 夢使い   
 **Số tập:** 12  
