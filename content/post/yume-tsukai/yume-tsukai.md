@@ -42,6 +42,8 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 - Parfait một từ tiếng Pháp ~ cũng nghĩa là Perfect trong tiếng Anh, đồng thời còn là tên một loại bánh tráng miệng có nguồn gốc từ Pháp từ những năm 1894.   
 - Do studio hết kinh phí nên cảnh đánh nhau đã bị cắt. Sasuga Madhouse. Con Cyber End Dragon ngon thế mà cảnh chiến đấu lại bị cắt mất, tiếc thật.   
 - Kuwabara, kuwabara: Xuất phát từ câu nói của người nông dân Nhật Bản. Nó thường được nói khi trời mưa để cầu Thần Sấm không đánh vào ruộng lúa. Tương tự với câu Knock on wood trong tiếng Anh. Nên mình dịch thành "lạy trời, lạy trời" cho đồng ngữ điệu với câu nói gốc trong tiếng Nhật.
+### Tập 9   
+- Tuyệt mệnh thi: Hãy là "bài thơ chết". Nó là một thể loại thơ phổ biến trong văn hoá các nước Đông Á. Nổi nhất là ở Nhật Bản.   
 ## Download   
 **Download:** [12 Tập](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
