@@ -1,0 +1,75 @@
+toggleMenu:
+    other: Toggle Menu
+
+darkMode:
+    other: Dark Mode
+
+#Phần List sẽ ảnh hưởng tới i18n/en.yaml    
+list:
+    page:
+        one: "{{ .Count }}"
+        other: "{{ .Count }}"
+
+    # Section này xuất hiện ở trang Tags và Pages hay tags.md + layouts/_default/list.html
+    section:
+        other: Tất cả gồm #vì xuất hiện ở trang Tags/Pages nên dịch "Tất cả gồm"
+
+    subsection:
+        one: Subsection
+        other: Subsections
+
+article:
+    back:
+        other: Quay lại
+
+    tableOfContents:
+        other: Mục lục
+
+    relatedContent:
+        other: Các bài đăng liên quan
+
+    lastUpdatedOn:
+        other: Được cập nhật lần cuối vào
+
+    readingTime:
+        one: "{{ .Count }} phút để đọc"
+        other: "{{ .Count }} phút để đọc"
+
+notFound:
+    title:
+        other: Không tìm thấy
+
+    subtitle:
+        other: Trang không tồn tại hoặc đã bị xoá
+
+widget:
+    archives:
+        title:
+            other: Lưu trữ
+
+        more:
+            other: Mở rộng
+
+    tagCloud:
+        title:
+            other: Tags
+    categoriesCloud:
+        title:
+            other: Danh mục
+
+search:
+    title:
+        other: Tìm kiếm
+
+    placeholder:
+        other: Nhập gì đó...
+
+    resultTitle:
+        other: "#PAGES_COUNT bài đăng (#TIME_SECONDS giây)"
+
+footer:
+    builtWith:
+        other: Xây dựng bằng {{ .Generator }}
+
+    designedBy:
+        other: Theme {{ .Theme }} được thiết kế bởi {{ .DesignedBy }}
