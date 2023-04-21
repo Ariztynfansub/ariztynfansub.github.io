@@ -1,4 +1,5 @@
 {{- $host := default "https://cusdis.com" .Site.Params.comments.cusdis.host -}}
+<style>.dark {background:#303030;}</style>
 <div id="cusdis_thread"
     data-host="{{ $host }}"
     data-app-id="{{ .Site.Params.comments.cusdis.id }}"
@@ -6,17 +7,32 @@
     data-page-url="{{ .Permalink }}"
     data-page-title="{{ .Title }}"></div>
 <script async defer src="https://cusdis.com/js/widget/lang/vi.js"></script>
-<script async defer src="{{ $host }}/js/cusdis.es.js"></script>
+<script async defer src="/js/cusdis.es.js"></script>
+<!-- Dùng 
+	<script async defer src="/Ariztyn-Fansub/js/cusdis.es.js"></script>
+	để chạy ở http://localhost:1313/Ariztyn-Fansub/
+	
+	còn
+	<script async defer src="/js/cusdis.es.js"></script>
+	là để chạy trên github pages
+	
+	=> mục tiêu của việc chạy file .../js/cusdis.es.js của riêng mình là để đổi màu background của comment
+	Để tìm màu background đó mở C:\Users\Admin\Documents\GitHub\Ariztyn-Fansub\static\js\cusdis.es.js
+	kiếm {background:#303030;}
+	----
+	code mặc định theo hugo-theme-stack ở line 9 là: 
+	<script async defer src="{{ $host }}/js/cusdis.es.js"></script>
+-->
 
 <script>
     function setCusdisTheme(theme) {
         let cusdis = document.querySelector('#cusdis_thread iframe');
         if (cusdis) {
-            window.CUSDIS.setTheme(theme)
+			window.CUSDIS.setTheme(theme);
         }
     }
 
     window.addEventListener('onColorSchemeChange', (e) => {
-        setCusdisTheme(e.detail)
+		setCusdisTheme(e.detail);
     })
 </script>

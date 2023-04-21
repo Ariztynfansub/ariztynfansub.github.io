@@ -61,7 +61,7 @@ rssFullContent = true
 
     [params.article.license]
     enabled = true
-    default = "Licensed under CC BY-NC-SA 4.0"
+    default = "Được cấp giấy phép theo CC BY-NC-SA 4.0"
 
   [params.comments]
   enabled = true

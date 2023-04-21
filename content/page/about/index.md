@@ -8,7 +8,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+license: Được cấp giấy phép theo CC BY-NC-ND
 lastmod: '2023-04-01'
 menu:
     main: 
