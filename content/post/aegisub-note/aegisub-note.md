@@ -17,5 +17,5 @@ Tương tự ta sẽ có các cặp điểm:
 - 73 411
 - 159 410
 - 162 372
-Có thể áp thêm thẻ **\c[màu]** sau **\p1** để đổi màu hình vẽ ra.
-## Đang cập nhật
+Có thể áp thêm thẻ **\c[màu]** sau **\p1** để đổi màu hình vẽ ra.   
+## Đang cập nhật   
