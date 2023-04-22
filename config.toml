@@ -1,15 +1,16 @@
 baseURL = 'https://ariztynfansub.github.io/Ariztyn-Fansub/'
-languageCode = 'vn'
+languageCode = 'vi'
 title = 'Ariztyn-Fansub'
 theme = 'hugo-themes-stack'
 
 copyright = 'Bài viết này được cấp phép theo Giấy phép Quốc tế Creative Commons Attribution-ShareAlike 4.0.'
-[author]
+[Author]
   name = 'Ariztyno'
+  email = 'ariztynfansub@gmail.com'  
 
 repository = "Ariztynfansub/ariztynfansub.github.io"
 
-DefaultContentLanguage = "vn"
+DefaultContentLanguage = "vi"
 hasCJKLanguage = false
 
 # start google config
