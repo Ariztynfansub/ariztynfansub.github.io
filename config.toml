@@ -181,7 +181,7 @@ main = [ ]
   identifier = "rss"
   name = "RSS"
   url = "/index.xml"
-  weight = -60
+  weight = -50
 
     [menu.social.params]
     icon = "rss"
@@ -190,10 +190,19 @@ main = [ ]
   identifier = "momo"
   name = "Donate via Momo"
   url = "/momo.jpg"
-  weight = -70
+  weight = -60
 
     [menu.social.params]
     icon = "currency-dong"
+
+  [[menu.social]]
+  identifier = "email"
+  name = "Email"
+  url = "mailto:ariztynfansub@gmail.com"
+  weight = -70
+
+    [menu.social.params]
+    icon = "mail"
 
 [related]
 includeNewer = true
