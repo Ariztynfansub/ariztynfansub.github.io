@@ -193,12 +193,12 @@ main = [ ]
   weight = -60
 
     [menu.social.params]
-    icon = "currency-dong"
+    icon = "momo"
 
   [[menu.social]]
   identifier = "email"
   name = "Email"
-  url = "mailto:ariztynfansub@gmail.com"
+  url = "mailto:ariztynfansub@gmail.com?subject=%5BFeedback%5D%5Bariztynfansub.github.io%5D"
   weight = -70
 
     [menu.social.params]
