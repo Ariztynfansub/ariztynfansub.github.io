@@ -21,4 +21,4 @@ tags: ['Anime','OVA','VHS','480p','8bit','AAC','x264','Hoàn thành']
 **Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
 > Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶
 ## Thông tin bên lề
-Studio chịu trách nhiệm sản suất của bộ này đã phá sản ngay sau khi làm xong bộ phim nên nó sẽ không tiếp theo
+Studio chịu trách nhiệm sản suất của bộ này đã phá sản ngay sau khi làm xong bộ phim nên nó sẽ không có phần tiếp theo.   
