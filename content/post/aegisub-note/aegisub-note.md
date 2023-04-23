@@ -1,5 +1,5 @@
 ---
-title: "Aegisub - sổ tay ghi chú"
+title: "Aegisub - Sổ tay ghi chú"
 date: 2023-04-13T22:57:42+07:00
 slug: "aegisub-note"
 image: aegisub-note.webp
