@@ -14,5 +14,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |----------|-----------|-------------|
 |参りました|Mairimashita|Tôi chịu thua.|
 |のんびり|Nonbiri|Thong dong, rảnh rỗi.|
+|責める|Semeru|Kết án, kết tội, chỉ trích, đổ lỗi|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
