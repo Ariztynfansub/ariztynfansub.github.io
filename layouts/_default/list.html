@@ -16,8 +16,8 @@
             <div class="section-details">
                 
 				{{if eq .Title "Pages"}}
-					<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " trang" }}</h3>
-					<h1 class="section-term">{{ "Trang chính của web" }}</h1>
+					<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " trang chính" }}</h3>
+					<h1 class="section-term">{{ "Trong toàn bộ website" }}</h1>
 				{{ else }}
 					{{if eq .Title "Tags"}}
 						<h3 class="section-count">{{ T "list.page" (len .Pages) }}{{ " loại"}}</h3>
