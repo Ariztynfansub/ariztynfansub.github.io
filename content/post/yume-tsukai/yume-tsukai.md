@@ -4,22 +4,21 @@ date: 2023-04-01T19:37:23+07:00
 description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
-tags: ['Anime','DVD','480p','10bit',AAC','x264','Đang tiến hành']
-lastmod: '2023-04-23T13:16:00+07:00'
----
-## Tiến độ   
-> 10/12 Cập nhật ngày 23/04/2023   
+tags: ['Anime','DVD','480p','10bit',AAC','x264','Hoàn thành']
+lastmod: '2023-04-24T23:00:00+07:00'
+---  
 ## Thông tin phim   
 **Tên phim:** Yume Tsukai | 夢使い   
 **Số tập:** 12  
 **Studio:** Madhouse   
 **Năm phát sóng:** 2006   
 **Nội dung:**   
-Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất cũng như các cảm xúc trong tâm trí ta; nhưng khi những cảm xúc dữ dội của chúng ta vượt ra khỏi ranh giới vào thực tại, thì giấc mơ có thể trở thành một cơn ác mộng không thể kiểm soát. Touko và Rinko là hai chị em, và còn là các Yume Tsukai (Người Sử dụng Giấc mơ), và công việc của họ là xử lý những cơn ác mộng đó. Sử dụng đồ chơi làm vũ khí, hai cô gái phải tiêu diệt những cơn ác mộng và trả lại giấc mơ về đúng với chủ nhân của nó trước khi cơn ác mộng có thể gây ra bất kỳ tổn thất nghiêm trọng nào. Không có gì phải sợ, vì đã có Touko và Rinko ở đây rồi!.   
-**Nhân sự:** Ariztyno   
+Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất cũng như các cảm xúc trong tâm trí ta; nhưng khi những cảm xúc dữ dội của chúng ta vượt ra khỏi ranh giới vào thực tại, thì giấc mơ có thể trở thành một cơn ác mộng không thể kiểm soát. Touko và Rinko là hai chị em, và còn là các Yume Tsukai (Người Sử dụng Giấc mơ), và công việc của họ là xử lý những cơn ác mộng đó. Sử dụng đồ chơi làm vũ khí, hai cô gái phải tiêu diệt những cơn ác mộng và trả lại giấc mơ về đúng với chủ nhân của nó trước khi cơn ác mộng có thể gây ra bất kỳ tổn thất nghiêm trọng nào. Không có gì phải sợ, vì đã có Touko và Rinko ở đây rồi!   
+(Nguồn: Anime-Planet)   
+**Nhân sự:** Ariztyno (Tất cả typeset đều thuộc vể [Orphan](https://collectr.blogspot.com/), mình chỉ dịch sang tiếng Việt thôi)  
 **Nguồn phim:** Dịch từ eng sub của [Orphan](https://nyaa.si/view/860370)   
 **Định dạng & thông số:**      
-12 Tập: [DVD 480p x264 10bit AAC][Softsub].mkv   
+12 Tập + NCOP/NCED + Một số bonus khác: [DVD 480p x264 10bit AAC][Softsub].mkv   
 ## Chú thích bên lề
 ### Tập 1   
 - Hanabirazaka Jogakyuin là tên trường của nhân vật trong phim nên mới gọi là "các cô gái Hana."   
@@ -45,10 +44,16 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 ### Tập 9   
 - Tuyệt mệnh thi: Hãy là "bài thơ chết". Nó là một thể loại thơ phổ biến trong văn hoá các nước Đông Á. Nổi nhất là ở Nhật Bản.   
 ## Download   
-**Download:** [12 Tập](https://terabox.com/) Chưa cập nhật.   
-**Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
-## Những câu nói hay trong phim
-> Đối với cảm xúc của việc yêu một ai đó, thì nó đã không còn là vấn đề của đúng hay sai nữa rồi. Ta chỉ đơn giản là làm những gì có thể thôi.
->>-Touko Mishima-   
-
+**Download:** [12 Tập + Bonus](https://terabox.com/) Chưa cập nhật.   
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/YT-s-fonts/archive/refs/heads/main.zip)   
+## Opening  
+"Yume Meikyuu ~Hikari to Yami no Dance~ (夢迷宮～光と闇のダンス～)" trình bày bởi Yoko Ueno.  
+{{< youtube _NDrSLWhQeE >}}
+## Ending  
+"Kodou (鼓動)" trình bày bởi [Ayako Kawasumi](https://myanimelist.net/people/13/Ayako_Kawasumi)(Người lồng tiến cho Touko) và [Kei Shindou](https://myanimelist.net/people/594/Kei_Shindou)(Người lồng tiến cho Rinko).  
+{{< youtube cRyxTkJ_NDQ >}}
+## Những câu nói hay trong phim   
+{{< quote author="Touko Mishima" source="Yume Tsukai - Ep 4" url="#">}}
+Đối với cảm xúc của việc yêu một ai đó, thì nó đã không còn là vấn đề của đúng hay sai nữa rồi. Ta chỉ đơn giản là làm những gì có thể thôi.
+{{< /quote >}}
 > Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶
