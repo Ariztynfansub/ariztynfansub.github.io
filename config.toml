@@ -199,7 +199,7 @@ main = [ ]
   [[menu.social]]
   identifier = "email"
   name = "Email"
-  url = "mailto:ariztynfansub@gmail.com?subject=%5BFeedback%5D%5Bariztynfansub.github.io%5D"
+  url = "mailto:ariztynfansub@gmail.com"
   weight = -70
 
     [menu.social.params]
