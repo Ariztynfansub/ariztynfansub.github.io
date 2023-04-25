@@ -16,7 +16,7 @@ lastmod: '2023-04-24T23:00:00+07:00'
 **Nội dung:**   
 Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất cũng như các cảm xúc trong tâm trí ta; nhưng khi những cảm xúc dữ dội của chúng ta vượt ra khỏi ranh giới vào thực tại, thì giấc mơ có thể trở thành một cơn ác mộng không thể kiểm soát. Touko và Rinko là hai chị em, và còn là các Yume Tsukai (Người Sử dụng Giấc mơ), và công việc của họ là xử lý những cơn ác mộng đó. Sử dụng đồ chơi làm vũ khí, hai cô gái phải tiêu diệt những cơn ác mộng và trả lại giấc mơ về đúng với chủ nhân của nó trước khi cơn ác mộng có thể gây ra bất kỳ tổn thất nghiêm trọng nào. Không có gì phải sợ, vì đã có Touko và Rinko ở đây rồi!   
 (Nguồn: Anime-Planet)   
-**Nhân sự:** Ariztyno (Tất cả typeset đều thuộc vể [Orphan](https://collectr.blogspot.com/), mình chỉ dịch sang tiếng Việt thôi)  
+**Nhân sự:** Ariztyno (Tất cả typeset đều thuộc về [Orphan](https://collectr.blogspot.com/), mình chỉ dịch sang tiếng Việt thôi)  
 **Nguồn phim:** Dịch từ eng sub của [Orphan](https://nyaa.si/view/860370), bonus thì từ [DVD](https://nyaa.si/view/63555)   
 **Định dạng & thông số:**      
 12 Tập + Bonus: [DVD 480p x264 10bit AAC][Softsub].mkv   
@@ -53,7 +53,7 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 ## Ending  
 "Kodou (鼓動)" trình bày bởi [Ayako Kawasumi](https://myanimelist.net/people/13/Ayako_Kawasumi)(Người lồng tiến cho Touko) và [Kei Shindou](https://myanimelist.net/people/594/Kei_Shindou)(Người lồng tiến cho Rinko).  
 {{< youtube cRyxTkJ_NDQ >}}
-## Những câu nói hay trong phim   
+## Quote   
 {{< quote author="Touko Mishima" source="Yume Tsukai - Ep 4" url="#">}}
 Đối với cảm xúc của việc yêu một ai đó, thì nó đã không còn là vấn đề của đúng hay sai nữa rồi. Ta chỉ đơn giản là làm những gì có thể thôi.
 {{< /quote >}}
