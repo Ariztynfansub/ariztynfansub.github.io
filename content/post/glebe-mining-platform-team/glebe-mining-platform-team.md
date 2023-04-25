@@ -13,12 +13,12 @@ Các team đã sử dụng để clear Glebe Mining Platform lấy secret medal 
 ### Level 1 Team    
 ![glebe mining platform team 1 level 1-25 03 2023 21:38 pm](glebe-mining-platform-team-1-level-1-25-03-2023-21-38.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/nQpsdyX">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://imgur.com/nQpsdyX" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}
 ### Level 8 Team
 ![glebe mining platform team 1 level 8 25-03-2023 21:38 pm](glebe-mining-platform-team-1-level-8-25-03-2023-21-38.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/1IVipMY">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://imgur.com/1IVipMY" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
 
 
