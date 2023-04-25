@@ -16,9 +16,9 @@ lastmod: '2023-04-24T23:00:00+07:00'
 Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất cũng như các cảm xúc trong tâm trí ta; nhưng khi những cảm xúc dữ dội của chúng ta vượt ra khỏi ranh giới vào thực tại, thì giấc mơ có thể trở thành một cơn ác mộng không thể kiểm soát. Touko và Rinko là hai chị em, và còn là các Yume Tsukai (Người Sử dụng Giấc mơ), và công việc của họ là xử lý những cơn ác mộng đó. Sử dụng đồ chơi làm vũ khí, hai cô gái phải tiêu diệt những cơn ác mộng và trả lại giấc mơ về đúng với chủ nhân của nó trước khi cơn ác mộng có thể gây ra bất kỳ tổn thất nghiêm trọng nào. Không có gì phải sợ, vì đã có Touko và Rinko ở đây rồi!   
 (Nguồn: Anime-Planet)   
 **Nhân sự:** Ariztyno (Tất cả typeset đều thuộc vể [Orphan](https://collectr.blogspot.com/), mình chỉ dịch sang tiếng Việt thôi)  
-**Nguồn phim:** Dịch từ eng sub của [Orphan](https://nyaa.si/view/860370)   
+**Nguồn phim:** Dịch từ eng sub của [Orphan](https://nyaa.si/view/860370), bonus thì từ [DVD](https://nyaa.si/view/63555)   
 **Định dạng & thông số:**      
-12 Tập + NCOP/NCED + Một số bonus khác: [DVD 480p x264 10bit AAC][Softsub].mkv   
+12 Tập + Bonus: [DVD 480p x264 10bit AAC][Softsub].mkv   
 ## Chú thích bên lề
 ### Tập 1   
 - Hanabirazaka Jogakyuin là tên trường của nhân vật trong phim nên mới gọi là "các cô gái Hana."   
