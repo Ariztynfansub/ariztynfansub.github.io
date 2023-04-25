@@ -8,6 +8,7 @@ tags: ['Anime','DVD','480p','10bit',AAC','x264','Hoàn thành']
 lastmod: '2023-04-24T23:00:00+07:00'
 ---  
 ## Thông tin phim   
+![yume-tsukai-vietsub](yume-tsukai-1.webp)
 **Tên phim:** Yume Tsukai | 夢使い   
 **Số tập:** 12  
 **Studio:** Madhouse   
@@ -44,7 +45,7 @@ Khi chúng ta mơ, giấc mơ của ta sẽ phản ánh ham muốn lớn nhất 
 ### Tập 9   
 - Tuyệt mệnh thi: Hãy là "bài thơ chết". Nó là một thể loại thơ phổ biến trong văn hoá các nước Đông Á. Nổi nhất là ở Nhật Bản.   
 ## Download   
-**Download:** [12 Tập + Bonus](https://terabox.com/) Chưa cập nhật.   
+**Download:** [12 Tập + Bonus](https://terabox.com/s/1TwRZrdPtwWUg9VEtjQvk-Q).   
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/YT-s-fonts/archive/refs/heads/main.zip)   
 ## Opening  
 "Yume Meikyuu ~Hikari to Yami no Dance~ (夢迷宮～光と闇のダンス～)" trình bày bởi Yoko Ueno.  

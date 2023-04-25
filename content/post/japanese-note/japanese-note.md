@@ -16,6 +16,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |のんびり|Nonbiri|Thong dong, rảnh rỗi.|
 |責める|Semeru|Kết án, kết tội, chỉ trích, đổ lỗi.|
 |たまたま|Tamatama|casually; unexpectedly; accidentally; by chance/đôi khi; vô tình; không ngờ; bằng cách nào đó.|
+|初回限定版|Shokai genteiban|phiên bản giới hạn đầu tiên|
+|登場|Toujo|Ra mắt|
+|美味しいところを持っていく|oishii tokoro wo motte-iku|chiếm phần hay/ngon|
 |仕舞い|Jimai|Động từ: kết thúc gì đó, rốt cuộc lại không làm gì đó. Danh từ: kết luận, sự tiêu diệt, kết thúc|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
