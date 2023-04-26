@@ -9,7 +9,7 @@ tags: ['Arknights']
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Glebe Mining Platform lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (25-03-2023)
+## Team 1 (25-04-2023)
 ### Level 1 Team    
 ![glebe mining platform team 1 level 1-25 03 2023 21:38 pm](glebe-mining-platform-team-1-level-1-25-03-2023-21-38.webp)
 {{< raw_html >}} 
