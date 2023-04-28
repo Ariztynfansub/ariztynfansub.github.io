@@ -9,7 +9,7 @@ tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến h
 lastmod: '2023-04-28T16:50:00+07:00'
 ---
 ## Tiến độ   
-28/04 Soukihei M.D. Geist (1986).   
+- 28/04 Soukihei M.D. Geist (1986). ![10%](https://progress-bar.dev/10?title=tiến-độ)
 ## Lưu ý    
 Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắc trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
 ## Thông tin phim   
@@ -55,8 +55,12 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 ## Download    
 **Download:** [3 Tập OVA](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/m.d.g-s-fonts/archive/refs/heads/main.zip) Sẽ còn cập nhật thêm.
+## Opening   
+"Merciless Soilder" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama)  
+{{< youtube 9W0V7nA_7Os >}}
 ## Thông tin bên lề
 - Bộ phim này còn có một bản truyện tranh của Mỹ với tựa là **M.D. Geist: Ground Zero** với bối cảnh diễn ra trước tập OVA đầu tiên.
 - Soukihei M.D. Geist có nghĩa tiếng Anh là Demon-Garbed Soldier M.D. Geist dịch sang tiếng Việt là **người lính mặt đồ quỷ Nguy hiểm. Nhất. Geist**.
 - Do phần đầu khá làm nên ăn ra tại Mỹ, nên Central Park Media đã hợp tác với nhà đồng sáng tạo Koichi Oohata (đại khái là ông ấy phụ trách vẽ mecha và bối cảnh truyện cho phim gốc aka đạo diễn) để làm Phần 2 và Phần Director’s Cut cho phần đầu. Phần Director’s Cut được cho thêm 5 phút thời lượng - thay đổi đoạn giới thiệu mở đầu và đoạn kết khác để mở đường cho phần 2.   
+- Bài hát opening của phần 1 được trình bảy bởi Hironobu Kageyama. Cũng là người đã hát bài CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme) đấy. Hỏi sao mà nghe hay thật.
 > Chúc mọi người xem phim vui vẻ! 😘
