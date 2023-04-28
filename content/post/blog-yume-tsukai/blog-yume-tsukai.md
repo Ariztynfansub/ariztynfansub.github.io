@@ -62,41 +62,25 @@ Mình thấy bác ấy vẽ đẹp (nhìn mấy ảnh bên dưới rồi tự đ
 - Và siêu phẩm nổi tiếng một thời (Tiếng Việt) [Mysterious Girlfriend X](https://blogtruyen.vn/1056/mysterious-girlfriend-x). Bộ này có cả Anime.
 
 Các ảnh trích từ manga của Riichi Ueshiba:   
-      
+        
 {{< raw_html >}}  
 <p align="center">
 	<figure>
 		<img src="/discommunication-1.webp" loading="lazy" title="Ảnh manga của Discommunication." alt="Ảnh manga của Discommunication.">
 		<figcaption>Ảnh manga của Discommunication.</figcaption>	
 	</figure>
-</p>
-{{< /raw_html >}}   
-{{< raw_html >}}  
-<p align="center">
 	<figure>
 		<img src="/discommunication-2.webp" loading="lazy" title="Ảnh manga của Discommunication." alt="Ảnh manga của Discommunication.">
 		<figcaption>Ảnh manga của Discommunication.</figcaption>	
 	</figure>
-</p>
-{{< /raw_html >}}   
-{{< raw_html >}}  
-<p align="center">
 	<figure>
 		<img src="/mysteriouskanojox.webp" loading="lazy" title="Ảnh manga của Mysterious Kanojo X." alt="Ảnh manga của Mysterious Kanojo X.">
 		<figcaption>Ảnh manga của Mysterious Kanojo X.</figcaption>	
 	</figure>
-</p>
-{{< /raw_html >}}   
-{{< raw_html >}}  
-<p align="center">
 	<figure>
 		<img src="/yume-tsukai-2.webp" loading="lazy" title="Ảnh manga của Yume Tsukai." alt="Ảnh manga của Yume Tsukai.">
 		<figcaption>Ảnh manga của Yume Tsukai.</figcaption>	
 	</figure>
-</p>
-{{< /raw_html >}}   
-{{< raw_html >}}  
-<p align="center">
 	<figure>
 		<img src="/yume-tsukai-3.webp" loading="lazy" title="Ảnh manga của Yume Tsukai." alt="Ảnh manga của Yume Tsukai.">
 		<figcaption>Ảnh manga của Yume Tsukai.</figcaption>	
