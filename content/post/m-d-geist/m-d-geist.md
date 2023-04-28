@@ -6,8 +6,10 @@ slug: "m-d-geist"
 image: cover-m-d-geist.webp
 categories: Anime
 tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến hành']
-lastmod: '2023-04-11T23:00:00+07:00'
+lastmod: '2023-04-28T16:50:00+07:00'
 ---
+## Tiến độ   
+28/04 Soukihei M.D. Geist (1986).   
 ## Lưu ý    
 Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắc trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
 ## Thông tin phim   
@@ -52,7 +54,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 1 Tập OVA: [DVD 480p x264 8bit AC3][Softsub].mkv   
 ## Download    
 **Download:** [3 Tập OVA](https://terabox.com/) Chưa cập nhật.   
-**Fonts:** [Fonts](https://drive.google.com/drive/folders/1wMAKrmEmGwdhmbKR30JouurNBqGUrbnF?usp=share_link)
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/m.d.g-s-fonts/archive/refs/heads/main.zip) Sẽ còn cập nhật thêm.
 ## Thông tin bên lề
 - Bộ phim này còn có một bản truyện tranh của Mỹ với tựa là **M.D. Geist: Ground Zero** với bối cảnh diễn ra trước tập OVA đầu tiên.
 - Soukihei M.D. Geist có nghĩa tiếng Anh là Demon-Garbed Soldier M.D. Geist dịch sang tiếng Việt là **người lính mặt đồ quỷ Nguy hiểm. Nhất. Geist**.
