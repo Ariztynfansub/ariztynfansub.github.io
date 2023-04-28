@@ -20,5 +20,8 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |登場|Toujo|Ra mắt|
 |美味しいところを持っていく|oishii tokoro wo motte-iku|chiếm phần hay/ngon|
 |仕舞い|Jimai|Động từ: kết thúc gì đó, rốt cuộc lại không làm gì đó. Danh từ: kết luận, sự tiêu diệt, kết thúc|
+|化けて + 出る|bakete + deru|ma lảng vảng, xuất hiện dưới dạng linh hồn|
+|願い下げだ|negaiaseda|làm ơn, cầu, mong muốn, xin kiếu, xin chừa mình ra, từ chối. Danh từ: Huỷ bỏ, rút lui|
+|憐れみ|Awaremi|nhân từ, thương xót|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
