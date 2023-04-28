@@ -2,6 +2,7 @@
 title: "Cảm nhận về Anime Yume Tsukai"
 date: 2023-04-26T14:47:24+07:00
 description: Nếu một ngày ác mộng trở thành "hiện thực"
+slug: "blog-yume-tsukai"
 image: cover-blog-yume-tsukai.webp
 categories: Blog
 tags: ['Anime','Cảm nhận']
