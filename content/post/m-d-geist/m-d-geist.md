@@ -32,6 +32,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 **Nội dung:** *(Tương tự bản gốc 1986)* Sẽ khác vài cảnh và được thêm đoạn giới thiệu cũng như đoạn kết thúc để mở đầu sang phần 2.   
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của [Fatcatofalltime](https://nyaa.si/view/1606672)   
+**Nguồn Kara Effect:** [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
 **Định dạng & thông số:**      
 1 Tập OVA: [DVD 480p x264 8bit AC3][Softsub].mkv   
 ### Soukihei M.D. Geist 2 Death Force (1996)
