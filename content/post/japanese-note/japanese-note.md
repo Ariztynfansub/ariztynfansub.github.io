@@ -24,5 +24,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |願い下げだ|negaiaseda|làm ơn, cầu, mong muốn, xin kiếu, xin chừa mình ra, từ chối. Danh từ: Huỷ bỏ, rút lui|
 |憐れみ|Awaremi|nhân từ, thương xót|
 |地平線|Chiheisen|Đường chân trời|
+|宿無し|Yadonashi|kẻ lang thang, không nhà cửa, vô gia cư|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
