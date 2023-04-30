@@ -26,5 +26,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |地平線|Chiheisen|Đường chân trời|
 |宿無し|Yadonashi|kẻ lang thang, không nhà cửa, vô gia cư|
 |不自由|fujiyū|bất tiện, nghèo, cơ cực, khuyết tật (tinh thần, thể xác)|
+|こう見えても|kō miete mo|Trông vầy thôi...|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
