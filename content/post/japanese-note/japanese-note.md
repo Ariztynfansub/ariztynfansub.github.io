@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-04-24T13:16:00+07:00'
+lastmod: '2023-04-30T23:00:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim.   
@@ -28,5 +28,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |不自由|fujiyū|bất tiện, nghèo, cơ cực, khuyết tật (tinh thần, thể xác)|
 |こう見えても|kō miete mo|Trông vầy thôi...|
 |分かんのさ。|Wakanosa|không cần biết|
+|開発中|Kaihatsu-chū|đang trong quá trình phát triển|
+|優誠|yusei|dịu dàng, tử tế, ưu việt.|
+|並みのやつ|nami no yatsu|đàn ông bình thường|
+|証拠だ|shōkoda|bằng chứng, minh chứng|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
