@@ -9,7 +9,7 @@ tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến h
 lastmod: '2023-04-28T16:50:00+07:00'
 ---
 ## Tiến độ   
-- 28/04 Soukihei M.D. Geist (1986). ![10%](https://progress-bar.dev/10?title=tiến-độ)
+- 01-05-2023 Soukihei M.D. Geist (1986). ![10%](https://progress-bar.dev/90?title=tiến-độ)
 ## Lưu ý    
 Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắc trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
 ## Thông tin phim   
@@ -19,7 +19,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 **Số tập:** 1 OVA  
 **Studio:** Zero-G Room, Production Wave   
 **Năm phát sóng:** 1986   
-**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi Quân đội Cầm quyền Jerran đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerran đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **M.D.**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, tên Geist. Cũng do vấn đề đó nên Geist đã bị cho ngủ đông trong một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. (Và giờ là lúc xà lơ do dịch tiếp spoil nhiều quá :v)Kiểu thanh niên Geist bị ban hơi bị lâu nhưng đăng nhập lại sau nhiều năm vẫn mà chỉ số vẫn thuộc hàng top thế là anh bắt đầu solo rồi lập party kiếm đồ, rồi buộc phải hợp tác với chính quyền năm xưa, những kẻ đã khiến anh bị ban ngoài vũ trụ để ngăn chặn món vũ khí của quân nổi dạy có tên gọi Death Force. Một thứ có thể huỷ diệt toàn bộ sự sống trên Hành tinh Jerra.  
+**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerra đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, tên Geist. Cũng do vấn đề đó nên Geist đã bị cho ngủ đông trong một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. (Và giờ là lúc xà lơ do dịch tiếp spoil nhiều quá :v)Kiểu thanh niên Geist bị ban hơi bị lâu nhưng đăng nhập lại sau nhiều năm vẫn mà chỉ số vẫn thuộc hàng top thế là anh bắt đầu solo rồi lập party kiếm đồ, rồi buộc phải hợp tác với chính quyền năm xưa, những kẻ đã khiến anh bị ban ngoài vũ trụ để ngăn chặn món vũ khí của quân nổi dạy có tên gọi Death Force. Một thứ có thể huỷ diệt toàn bộ sự sống trên Hành tinh Jerra.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa LD Jap của [Macross 2012](https://nyaa.si/view/860370)   
 **Định dạng & thông số:**      
@@ -57,8 +57,11 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 **Download:** [3 Tập OVA](https://terabox.com/) Chưa cập nhật.   
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/m.d.g-s-fonts/archive/refs/heads/main.zip) Sẽ còn cập nhật thêm.
 ## Opening   
-"Merciless Soilder" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama)  
+"Merciless Soilder (非情のソルジャー | Hijou no Soldier)" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama)  
 {{< youtube 9W0V7nA_7Os >}}
+## Ending   
+"Violence Of Flames (炎のバイオレンス | Honō no Baiorensu)" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama)  
+{{< youtube FDFD7RcBIHM >}}
 ## Thông tin bên lề
 - Bộ phim này còn có một bản truyện tranh của Mỹ với tựa là **M.D. Geist: Ground Zero** với bối cảnh diễn ra trước tập OVA đầu tiên.
 - Soukihei M.D. Geist có nghĩa tiếng Anh là Demon-Garbed Soldier M.D. Geist dịch sang tiếng Việt là **người lính mặt đồ quỷ Nguy hiểm. Nhất. Geist**.
