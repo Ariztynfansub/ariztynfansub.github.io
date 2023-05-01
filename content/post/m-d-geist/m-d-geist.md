@@ -11,7 +11,7 @@ lastmod: '2023-04-28T16:50:00+07:00'
 ## Tiến độ   
 - 01-05-2023 Soukihei M.D. Geist (1986). ![90%](https://progress-bar.dev/90?title=tiến-độ)
 ## Lưu ý    
-Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy cân nhắc trước khi xem. Còn thứ tự xem giữa bản 1986 và bản Director’s Cut thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut sẽ có thêm cảnh nhiều hơn, và giải thích cho phần 2 dễ hiểu hơn.   
+Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì giữa bản 1986 và bản Director’s Cut 1996 thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut 1996 sẽ có thêm cảnh nhiều hơn, và giải thích để phần 2 xem dễ hiểu hơn.   
 ## Thông tin phim   
 ![m-d-geist-vietsub](m-d-geist-1.webp)
 ### Soukihei M.D. Geist (1986) | Soukihei M.D. Geist: Original Cut (1986)
@@ -22,6 +22,10 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 **Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerra đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, tên Geist. Cũng do vấn đề đó nên Geist đã bị cho ngủ đông trong một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. (Và giờ là lúc xà lơ do dịch tiếp spoil nhiều quá :v)Kiểu thanh niên Geist bị ban hơi bị lâu nhưng đăng nhập lại sau nhiều năm vẫn mà chỉ số vẫn thuộc hàng top thế là anh bắt đầu solo rồi lập party kiếm đồ, rồi buộc phải hợp tác với chính quyền năm xưa, những kẻ đã khiến anh bị ban ngoài vũ trụ để ngăn chặn món vũ khí của quân nổi dạy có tên gọi Death Force. Một thứ có thể huỷ diệt toàn bộ sự sống trên Hành tinh Jerra.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa LD Jap của [Macross 2012](https://nyaa.si/view/860370)   
+**Nguồn Kara Effect:**   
+- Opening: [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
+- Ending: [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
+
 **Định dạng & thông số:**      
 1 Tập OVA: [LD 640x480p x264 8bit AAC][Softsub].mkv 
 ### Soukihei M.D. Geist: Director’s Cut (1996)
@@ -32,7 +36,10 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung nên hãy c
 **Nội dung:** *(Tương tự bản gốc 1986)* Sẽ khác vài cảnh và được thêm đoạn giới thiệu cũng như đoạn kết thúc để mở đầu sang phần 2.   
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của [Fatcatofalltime](https://nyaa.si/view/1606672)   
-**Nguồn Kara Effect:** [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
+**Nguồn Kara Effect:**   
+- Opening: [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
+- Ending: [Ndzora Kodo](https://www.youtube.com/watch?v=Tqan1oLmwzw&list=PLVZ3mcYoEp6Eo35_OWghJVzaTb5xkGEwq&index=5)   
+
 **Định dạng & thông số:**      
 1 Tập OVA: [DVD 480p x264 8bit AC3][Softsub].mkv   
 ### Soukihei M.D. Geist 2 Death Force (1996)
