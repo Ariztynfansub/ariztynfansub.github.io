@@ -32,5 +32,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |優誠|yusei|dịu dàng, tử tế, ưu việt.|
 |並みのやつ|nami no yatsu|đàn ông bình thường|
 |証拠だ|shōkoda|bằng chứng, minh chứng|
+|直ちに|Tadachini|Tới/làm ngay|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
