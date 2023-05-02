@@ -9,9 +9,13 @@ tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến h
 lastmod: '2023-04-28T16:50:00+07:00'
 ---
 ## Tiến độ   
-- 01-05-2023 Soukihei M.D. Geist (1986). ![90%](https://progress-bar.dev/90?title=tiến-độ)
+- Soukihei M.D. Geist (1986). ![100%](https://progress-bar.dev/100?title=tiến-độ)
+- Soukihei M.D. Geist: Director’s Cut (1996). ![2%](https://progress-bar.dev/2?title=tiến-độ)
+- Soukihei M.D. Geist 2 Death Force (1996). ![0%](https://progress-bar.dev/0?title=tiến-độ)   
 ## Lưu ý    
-Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì giữa bản 1986 và bản Director’s Cut 1996 thì xem bản nào trước phần 2 cũng được vì cơ bản chúng là như nhau. Khác biệt thì bản Director’s Cut 1996 sẽ có thêm cảnh nhiều hơn, và giải thích để phần 2 xem dễ hiểu hơn.   
+Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì như sau:
+1. bản (1986) hoặc Director’s Cut (1996). Bản Director’s Cut (1996) sẽ có thêm cảnh để giới thiệu cho phần 2 Death Force.   
+2. Phần 2 Death Force (1996).      
 ## Thông tin phim   
 ![m-d-geist-vietsub](m-d-geist-1.webp)
 ### Soukihei M.D. Geist (1986) | Soukihei M.D. Geist: Original Cut (1986)
@@ -19,7 +23,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 **Số tập:** 1 OVA  
 **Studio:** Zero-G Room, Production Wave   
 **Năm phát sóng:** 1986   
-**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerra đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, tên Geist. Cũng do vấn đề đó nên Geist đã bị cho ngủ đông trong một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. (Và giờ là lúc xà lơ do dịch tiếp spoil nhiều quá :v)Kiểu thanh niên Geist bị ban hơi bị lâu nhưng đăng nhập lại sau nhiều năm vẫn mà chỉ số vẫn thuộc hàng top thế là anh bắt đầu solo rồi lập party kiếm đồ, rồi buộc phải hợp tác với chính quyền năm xưa, những kẻ đã khiến anh bị ban ngoài vũ trụ để ngăn chặn món vũ khí của quân nổi dạy có tên gọi Death Force. Một thứ có thể huỷ diệt toàn bộ sự sống trên Hành tinh Jerra.  
+**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerra đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, Geist nhân vật chính của chúng ta. Cũng do vấn đề kể trên nên Geist đã bị giam trong buồng ngủ đông của một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. Và cuộc hành trình loot đồ, chém giết của anh bắt đầu từ đây.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa LD Jap của [Macross 2012](https://nyaa.si/view/860370)   
 **Nguồn Kara Effect:**   
@@ -70,8 +74,9 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 "Violence Of Flames (炎のバイオレンス | Honō no Baiorensu)" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama)  
 {{< youtube FDFD7RcBIHM >}}
 ## Thông tin bên lề
-- Bộ phim này còn có một bản truyện tranh của Mỹ với tựa là **M.D. Geist: Ground Zero** với bối cảnh diễn ra trước tập OVA đầu tiên.
+- Bộ phim này còn có một bản truyện tranh với tựa là **M.D. Geist: Ground Zero** với bối cảnh diễn ra trước tập OVA (1986) đầu tiên.
 - Soukihei M.D. Geist có nghĩa tiếng Anh là Demon-Garbed Soldier M.D. Geist dịch sang tiếng Việt là **người lính mặt đồ quỷ Nguy hiểm. Nhất. Geist**.
 - Do phần đầu khá làm nên ăn ra tại Mỹ, nên Central Park Media đã hợp tác với nhà đồng sáng tạo Koichi Oohata (đại khái là ông ấy phụ trách vẽ mecha và bối cảnh truyện cho phim gốc aka đạo diễn) để làm Phần 2 và Phần Director’s Cut cho phần đầu. Phần Director’s Cut được cho thêm 5 phút thời lượng - thay đổi đoạn giới thiệu mở đầu và đoạn kết khác để mở đường cho phần 2.   
-- Bài hát opening của phần 1 được trình bảy bởi Hironobu Kageyama. Cũng là người đã hát bài CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme) đấy. Hỏi sao mà nghe hay thật.
+- Bài hát opening lẫn ending của phần 1 được trình bảy bởi Hironobu Kageyama. Cũng là người đã hát bài CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme).
+- Artbook: [link](https://archive.org/details/mdgeistspecial/mode/2up).
 > Chúc mọi người xem phim vui vẻ! 😘
