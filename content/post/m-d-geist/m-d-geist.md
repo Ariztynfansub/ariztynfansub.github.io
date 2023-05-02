@@ -9,7 +9,7 @@ tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Đang tiến h
 lastmod: '2023-04-28T16:50:00+07:00'
 ---
 ## Tiến độ   
-- Soukihei M.D. Geist (1986). ![100%](https://progress-bar.dev/100?title=tiến-độ)
+- Soukihei M.D. Geist (1986). ![100%](https://progress-bar.dev/100?title=hoàn-thành)
 - Soukihei M.D. Geist: Director’s Cut (1996). ![2%](https://progress-bar.dev/2?title=tiến-độ)
 - Soukihei M.D. Geist 2 Death Force (1996). ![0%](https://progress-bar.dev/0?title=tiến-độ)   
 ## Lưu ý    
