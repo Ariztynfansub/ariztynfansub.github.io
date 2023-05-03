@@ -34,5 +34,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |証拠だ|shōkoda|bằng chứng, minh chứng|
 |証, あかし|Akashi|bằng chứng, minh chứng, lời khai|
 |直ちに|Tadachini|Tới/làm ngay|
+|切りたて|Kiri-tate|mớt cắt, tự thân|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
