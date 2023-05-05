@@ -35,5 +35,8 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |証, あかし|Akashi|bằng chứng, minh chứng, lời khai|
 |直ちに|Tadachini|Tới/làm ngay|
 |切りたて|Kiri-tate|mớt cắt, tự thân|
+|セイゾンシャ|Seizonsha|Người sống sót|
+|いかり|Ikari|Giận, Điên|
+|群れ|Mure|Đàn, bày, đám đông, nhóm, bè lũ|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 

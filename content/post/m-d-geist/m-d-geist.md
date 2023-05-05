@@ -11,7 +11,7 @@ lastmod: '2023-04-28T16:50:00+07:00'
 ## Tiến độ   
 - Soukihei M.D. Geist (1986). ![100%](https://progress-bar.dev/100?title=hoàn-thành)
 - Soukihei M.D. Geist: Director’s Cut (1996). ![100%](https://progress-bar.dev/100?title=hoàn-thành)
-- Soukihei M.D. Geist 2 Death Force (1996). ![0%](https://progress-bar.dev/0?title=tiến-độ)   
+- Soukihei M.D. Geist 2 Death Force (1996). ![10%](https://progress-bar.dev/10?title=tiến-độ)   
 ## Lưu ý    
 Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì như sau:
 1. bản (1986) hoặc Director’s Cut (1996). Bản Director’s Cut (1996) sẽ có thêm cảnh để giới thiệu cho phần 2 Death Force.   
