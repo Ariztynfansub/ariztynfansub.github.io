@@ -1,5 +1,4 @@
 ---
-Author: Ariztyno
 title: "Arknights - Annihilation 16 - Penumbra Shipyard"
 date: 2023-05-02T23:32:47+07:00
 slug: "annihilation-16-penumbra-shipyard"
