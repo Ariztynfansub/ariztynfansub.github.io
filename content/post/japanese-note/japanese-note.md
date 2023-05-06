@@ -49,5 +49,8 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |関わり|Kakawari|liên hệ, quan hệ|
 |消化|shouka|dập tắt; thổi tắt; tắt; vô hiệu hoá; huỷ|
 |射殺|Shasatsu|Bắn chết|
+|不可欠です|Fukaketsudesu|thiết yếu|
+|誕生|Tanjo|thành lập, sinh ra|
+|新たな|aratana|mới,tươi|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
