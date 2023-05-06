@@ -45,6 +45,12 @@
                 </time>
             </div>
         {{ end }}
+			<div>
+                {{ partial "helper/icon" "user" }}
+                <time class="article-time--reading">
+                    {{ .Site.Author.name }}
+                </time>
+            </div>
     </footer>
     {{ end }}
 

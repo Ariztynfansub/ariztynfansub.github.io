@@ -8,7 +8,7 @@ tags: ['Tiếng Nhật']
 lastmod: '2023-04-30T23:00:00+07:00'
 ---
 ## Đôi lời   
-Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim.   
+Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được.   
 ## Bảng danh sách   
 |Tiếng Nhật |Rōmaji      |Nghĩa         |
 |----------|-----------|-------------|
@@ -38,5 +38,16 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |セイゾンシャ|Seizonsha|Người sống sót|
 |いかり|Ikari|Giận, Điên|
 |群れ|Mure|Đàn, bày, đám đông, nhóm, bè lũ|
+|親衛隊|shinetai|vệ binh|
+|狂える|Kurueru|Điên loạn|
+|おりてい|Oritei |mặt đất|
+|立場|Tachiba|Vị trí|
+|余計な|yokeina|quá nhiều, không quan trọng/liên quan, dồi dào, số dư, thặng dư, dư thừa|
+|しばらく|Shibaraku |Một lúc, một ít lâu/khoảng thời gian dài|
+|見覚え|Mioboe|nhớ, hồi tưởng, ký ức, nhân ra|
+|うってつけ|uttetsuke|lý tưởng, phù hợp nhất|
+|関わり|Kakawari|liên hệ, quan hệ|
+|消化|shouka|dập tắt; thổi tắt; tắt; vô hiệu hoá; huỷ|
+|射殺|Shasatsu|Bắn chết|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
