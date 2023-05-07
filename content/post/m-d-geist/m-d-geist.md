@@ -13,8 +13,8 @@ lastmod: '2023-04-28T16:50:00+07:00'
 - Soukihei M.D. Geist: Director’s Cut (1996). ![Soukihei M.D. Geist: Director’s Cut (1996) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 - Soukihei M.D. Geist 2 Death Force (1996). ![Soukihei M.D. Geist 2 Death Force (1996) - 100%](https://progress-bar.dev/100?title=hoàn-thành)   
 ## Lưu ý    
-Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì như sau:
-1. bản (1986) hoặc Director’s Cut (1996). Bản Director’s Cut (1996) sẽ có thêm cảnh để giới thiệu cho phần 2 Death Force.   
+Phim khá nhiều cảnh bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì như sau:
+1. bản (1986) hoặc Director’s Cut (1996). Bản Director’s Cut (1996) sẽ có thêm cảnh với thay đổi lời thoại để giới thiệu cho phần 2 Death Force.   
 2. Phần 2 Death Force (1996).      
 ## Thông tin phim   
 ![m-d-geist-vietsub](m-d-geist-1.webp)
@@ -23,7 +23,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 **Số tập:** 1 OVA  
 **Studio:** Zero G-Room, Production Wave   
 **Năm phát sóng:** 1986   
-**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Trái đất nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như Hành tinh Jerra. Quân đội Jerra đã đưa ra giải pháp để dập tắt nổi loạn đó là phát triển lực lượng gọi là **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, Geist nhân vật chính của chúng ta. Cũng do vấn đề kể trên nên Geist đã bị giam trong buồng ngủ đông của một vệ tinh quay quanh quỹ đạo Hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống Hành tinh Jerra. Và cuộc hành trình loot đồ, chém giết của anh bắt đầu từ đây.  
+**Nội dung:** Bối cảnh phim là một thế giới giả tưởng nơi con người đã có thể chinh phục được các hành tinh ngoài vũ trụ. Và tại Hành tinh Jerra nơi quân đội chính quyền Jerra đang kẹt trong một cuộc chiến không hồi kết với quân nổi dậy Nexrum, những người phản đối việc Địa cầu nắm quyền kiểm soát các hành tinh thuộc địa ngoài vụ trụ như hành tinh Jerra. Quân đội chính quyền Jerra đã đưa ra giải pháp để dập tắt quân nổi loạn, đó là phát triển lực lượng **Most Dangerous Soldier** - **MDS**, nhưng vấn đề là lực lượng này tàn sát mà không hề phân biệt đồng minh với kẻ địch, và trong đó có MD-02, Geist nhân vật chính của chúng ta. Cũng do vấn đề kể trên nên Geist đã bị giam trong buồng ngủ đông của một vệ tinh quay quanh quỹ đạo hành tinh Jerra. Rồi nhiều năm sau hành vệ tinh của anh rơi xuống hành tinh Jerra. Và cuộc hành trình loot đồ, chém giết của anh bắt đầu từ đây.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa LD Jap của [Macross 2012](https://nyaa.si/view/860370)   
 **Nguồn Kara Effect:**   
@@ -56,7 +56,7 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 {{< raw_html >}}  
 <details> 
   <summary>Cảnh báo spoiler!!! Hãy coi phần 1986 hoặc Director’s Cut (1996) trước:</summary>
-   Trong chưa đầy một năm sau khi Geist kích hoạt Death Force, thứ đã quét sạch phần lớn dân cư trên Hành tinh Jerra. Để không cảm thấy nhàn rỗi Geist đã quyết định sẽ đi tùng xẻo lũ máy móc Death Force. Tàn dư của dân số trên Jerra đã bó trốn đến một khu vực hẻo lánh nằm dưới sự kiểm soát của kẻ từng thuộc lực lượng MDS, là Krauser hay MD-01. Gã ta đã sống sót khỏi Death Force nhờ công nghệ tích hợp trong pháo đài của mình. Và rồi chuyện gì đến cũng đến Geist đã chạm trán với Krauser và bị hắn đánh bại te tua. Cay cú Geist quyết định báo thù, còn kết cục của việc báo thù thế nào thì mời bạn xem phim để biết chứ kể mất hay.
+   Trong chưa đầy một năm sau khi Geist kích hoạt Death Force, thứ đã quét sạch phần lớn nhân loại trên Hành tinh Jerra. Để không cảm thấy nhàn rỗi Geist đã quyết định sẽ đi tùng xẻo lũ máy móc Death Force (thật ra tên này thấy giết người thì dễ quá đâm ra chán nên ở phần trước mới khởi động Death Force để có đồ chơi giải trí). Tàn dư của nhân loại trên Jerra đã tập trung đến một khu vực hẻo lánh nằm dưới sự kiểm soát của kẻ từng thuộc lực lượng MDS như Geist, là Krauser hay MD-01. Gã ta đã sống sót khỏi Death Force nhờ công nghệ tích hợp trong pháo đài của mình. Và rồi chuyện gì đến cũng đến Geist đã chạm trán với Krauser và bị hắn đánh bại cho te tua. Cay cú Geist quyết định báo thù.
 </details>
 {{< /raw_html >}} 
 
@@ -68,8 +68,8 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 **Định dạng & thông số:**      
 1 Tập OVA: [DVD 480p x264 8bit AC3][Softsub].mkv   
 ## Download    
-**Download:** [3 Tập OVA](https://terabox.com/) Chưa cập nhật.   
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/m.d.g-s-fonts/archive/refs/heads/main.zip) Sẽ còn cập nhật thêm.
+**Download:** [3 Tập OVA + Extra(artbook, etc)](https://terabox.com/s/1QEU5Lqd4jXTlMHjZoqPs5w).   
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/m.d.g-s-fonts/archive/refs/heads/main.zip).
 ## Opening   
 ### opening phần 1
 "Merciless Soilder (非情のソルジャー | Hijou no Soldier)" được trình bày bởi [Hironobu Kageyama](https://en.wikipedia.org/wiki/Hironobu_Kageyama).  
@@ -89,5 +89,5 @@ Phim khá bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nu
 - Soukihei M.D. Geist có nghĩa tiếng Anh là Demon-Garbed Soldier M.D. Geist dịch sang tiếng Việt là **người lính mặt đồ quỷ Nguy hiểm. Nhất. Geist**.
 - Do phần đầu khá làm nên ăn ra tại Mỹ, nên Central Park Media đã hợp tác với nhà đồng sáng tạo Koichi Oohata (đại khái là ông ấy phụ trách vẽ mecha và bối cảnh truyện cho phim gốc aka đạo diễn) để làm Phần 2 Death Force và Phần Director’s Cut cho phần đầu. Phần Director’s Cut được cho thêm 5 phút thời lượng - thay đổi đoạn giới thiệu mở đầu và đoạn kết khác để mở đường cho phần 2, và có thay đổi về lời thoại cũng như diễn viên lòng tiến.   
 - Bài hát opening lẫn ending của phần 1 được trình bảy bởi Hironobu Kageyama. Cũng là người đã hát bài CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme).
-- Artbook: [link](https://archive.org/details/mdgeistspecial/mode/2up).
+- Artbook [JP]: [link](https://archive.org/details/mdgeistspecial/mode/2up).
 > Chúc mọi người xem phim vui vẻ! 😘
