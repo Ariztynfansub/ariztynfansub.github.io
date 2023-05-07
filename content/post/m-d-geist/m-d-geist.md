@@ -6,7 +6,7 @@ slug: "m-d-geist"
 image: cover-m-d-geist.webp
 categories: Anime
 tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Hoàn hành']
-lastmod: '2023-04-28T16:50:00+07:00'
+lastmod: '2023-05-07T16:59:00+07:00'
 ---
 ## Tiến độ   
 - Soukihei M.D. Geist (1986). ![Soukihei M.D. Geist (1986) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
