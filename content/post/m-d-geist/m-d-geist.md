@@ -6,16 +6,18 @@ slug: "m-d-geist"
 image: cover-m-d-geist.webp
 categories: Anime
 tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Hoàn hành']
-lastmod: '2023-05-07T16:59:00+07:00'
+lastmod: '2023-05-08T22:47:00+07:00'
 ---
+## Lưu ý (bạo lực)   
+> Phim khá nhiều cảnh bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem.
 ## Tiến độ   
 - Soukihei M.D. Geist (1986). ![Soukihei M.D. Geist (1986) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 - Soukihei M.D. Geist: Director’s Cut (1996). ![Soukihei M.D. Geist: Director’s Cut (1996) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- Soukihei M.D. Geist 2 Death Force (1996). ![Soukihei M.D. Geist 2 Death Force (1996) - 100%](https://progress-bar.dev/100?title=hoàn-thành)   
-## Lưu ý    
-Phim khá nhiều cảnh bạo lực máu me, ruột gan phèo phổi bay tứ tung + cảnh nude của nhân vật nữ nên hãy cân nhắc trước khi xem. Còn thứ tự xem thì như sau:
+- Soukihei M.D. Geist 2 Death Force (1996). ![Soukihei M.D. Geist 2 Death Force (1996) - 100%](https://progress-bar.dev/100?title=hoàn-thành)     
+## Thứ tự xem   
+Thứ tự xem thì như sau:
 1. bản (1986) hoặc Director’s Cut (1996). Bản Director’s Cut (1996) sẽ có thêm cảnh với thay đổi lời thoại để giới thiệu cho phần 2 Death Force.   
-2. Phần 2 Death Force (1996).      
+2. Phần 2 Death Force (1996).    
 ## Thông tin phim   
 ![m-d-geist-vietsub](m-d-geist-1.webp)
 ### Soukihei M.D. Geist (1986) | Soukihei M.D. Geist: Original Cut (1986)
