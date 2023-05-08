@@ -1,12 +1,12 @@
 ---
 title: "Cảm nhận về M.D. Geist"
-date: 2023-04-24T10:47:01+07:00
+date: 2023-05-08T14:40:00+07:00
 description: Anh lính nguy hiểm
-slug: "test-post"
+slug: "blog-m-d-geist"
 image: cover-blog-m-d-geist.webp
 categories: Blog
 tags: ['Anime','Cảm nhận']
-draft: true
+lastmod: '2023-05-08T14:52:00+07:00'
 ---
 Nguồn ảnh cover bài đăng: [themoviedb.org](https://www.themoviedb.org/t/p/original/zJUGlUzoeKg50y1RJPkoYQuj73H.jpg)   
 ## Đôi lời   
@@ -34,12 +34,15 @@ Nếu phần 1 tệ đến mức muốn khen cũng khó (nếu không tính mấ
  Cũng là một kẻ có số phận bi kịch không kém, khi vừa có bản chất bạo lực của một MDS, nhưng lại có ham muốn của một con người. Cả đời hắn sống chỉ vì muốn được yêu thương, công nhận bởi người khác nhưng bản chất của hắn lại là thứ ngăn cản hắn có được điều đó. Một thứ công cụ chiến tranh chỉ bị lợi dụng và vứt bỏ khi những kẻ cai trị không cần đến nữa, như Geist. Việc sử dụng một nhân vật vừa tương phản vừa tương đồng với Geist khiến bộ phim trở nên hay hơn khi ta có thể hiểu hơn về sự bi kịch của Geist thông qua Krauser. Ngoài ra cái kết của phần 2 cũng thật sự trọn vẹn khi nó đã giải quyết tất cả mọi mâu thuẩn của các nhân vật trong phim. Chứ không như Bakurestu Tenshi dù cũng được đạo diễn bởi Koichi Oohata, nhưng lại bị cái kết cụt lủn rồi chẳng có thêm phần 2.
 ## Cảm nhận về nhân vật   
 ### Geist
+![Geist](blog-m-d-geist-1-geist.webp)  
 Geist được xây dựng khá đơn giản và nhà sản xuất chẳng thèm thay đổi điều đó xuyên suốt hết 2 phần phim. Một gã thích đánh nhau và giết chóc, chỉ luôn tìm cách để đánh nhau và không quan tâm tới ai cả.
 Ờ nhưng đâu phải cứ gặp ai thì hắn cũng giết hết đâu mà nhỉ? Chắc là do nếu bạn chẳng đáng để khiến Geist chiến đấu thì hắn cũng chẳng thèm giết bạn làm gì. Cơ mà tóm gọn lại thì Geist không phải là một anh hùng, cái này thì chắc chắn. Nhưng cũng chính vì thế mà cuộc đời của Geist cũng bi kịch chẳng khác gì Krauser ở phần 2, một kẻ không tình yêu, hay bất kỳ thứ gì khác ngoài ham muốn chiến đấu. Có khác chăng là Geist không cảm thấy đau khổ hay gì về bi kịch của bản thân cả.
 ### Các nhân vật khác   
 #### Vaiya (Chị đại)   
+![Vaiya](blog-m-d-geist-2-vaiya.webp)  
 Mình thấy kì lạ là suốt hai phần phim ở bản Nhật thì tên của nhân vật này không được nhắc đến. Đây là nhân vật xuất hiện ở cả hai phần phim. Một cô gái làm giang hồ để có thể sống lây lất qua ngày, nhưng xui rủi lại gặp Geist. Không có gì để nói nhiều về nhân vật này ngoại trừ cái số phận hay gặp bọn đàn ông xấu xa cả. Ngoài ra cô ấy cũng phản ánh phần nào sự bất lực của người dân khi đứng trong hoàn cảnh đứng giữa cuộc chiến của chính quyền và quân nổi dạy, lẫn các MDS.
-#### Krauser (phần 2)
+#### Krauser (phần 2)   
+![Krauser](blog-m-d-geist-3-krauser.webp)  
 Do đã nói ở phần [Phần 2 Death Force](https://ariztynfansub.github.io/p/blog-m-d-geist/#ph%E1%BA%A7n-2-death-force), nên ở đây mình chỉ nhắc lại thôi. Krauser là một MDS nhưng lại có ham muốn của người bình thường chứ không như Geist. Hắn muốn được sự yêu thương của người khác và sự công nhận của mọi người. Nhưng bên trong hắn cũng chỉ ích kỷ và bạo lực chẳng khác gì Geist, kẻ mà hắn vô cùng khinh thường. Nếu Geist là một hổ, giết để thoả mãn cơn đói thì Krauser là một con Gorila giết, đánh đập để thị uy và áp đặt quyền lực thống trị của hắn. Sự bi kịch của hắn đến từ chính việc tham vọng của hắn bị bản chất bạo lực của mình phủ nhận. Mặc dù luôn một mực khẳng định mình không hề giống như Geist ở bản chất đó.
 ## Ưu & nhược điểm của bộ phim   
 Mình sẽ đánh giá chung cả hai phần phim 1 và 2 Death Force ở đây.
@@ -55,52 +58,3 @@ Nếu bạn là một người thích thể loại anime bạo lực ruột gan 
 ## Link đến cả 2 phần của Anime M.D. Geist do mình dịch   
 [link](https://ariztynfansub.github.io/p/m-d-geist/)   
 > Cảm ơn đã đọc bài blog của mình. Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶
-## Spotify markdown short code  
-My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
-llllsnkenfnew.
-## Progress bar mardown
-![50%](https://progress-bar.dev/50)
-
-![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
-
-![Progress](https://progress-bar.dev/28/?title=progress)
-https://progress-bar.dev/28/?title=progress
-
-![Progress](https://progress-bar.dev/58/)
-https://progress-bar.dev/58/
-
-![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
-
-![Progress](https://progress-bar.dev/91/)
-https://progress-bar.dev/91/
-
-![Progress](https://progress-bar.dev/91/?title=done)
-https://progress-bar.dev/91/?title=done
-
-![Progress](https://progress-bar.dev/7/?scale=10&title=mark&suffix=X)
-https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
-
-![Progress](https://progress-bar.dev/420/?scale=500&title=funds&width=200&color=babaca&suffix=$)
-https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
-
-Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io    
-
-## Sơ lược   
-Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (02-05-2023)
-### Level 1 Team    
-![torron mine team 1 level 1 02-05-2023 22:18 pm](torron-mine-team-1-level-1-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/6Mq0IVs" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}
-### Level 8 Team
-![torron mine team 1 level 8 02-05-2023 22:18 pm](torron-mine-team-1-level-8-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}   
-
-
-> Xoá draft: true để test trên localhost

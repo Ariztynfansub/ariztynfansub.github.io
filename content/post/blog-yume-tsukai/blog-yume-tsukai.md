@@ -89,5 +89,5 @@ Các ảnh trích từ manga của Riichi Ueshiba:
 </p>
 {{< /raw_html >}}   
 ## Link đến Anime Yume Tsukai do mình dịch   
-[link](http://localhost:1313/Ariztyn-Fansub/p/yume-tsukai/)   
+[link](https://ariztynfansub.github.io/p/yume-tsukai/)   
 > Cảm ơn đã đọc bài blog của mình. Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶
