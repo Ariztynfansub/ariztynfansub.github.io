@@ -55,6 +55,7 @@ Mình sẽ đánh giá chung cả hai phần phim 1 và 2 Death Force ở đây.
 - Thời lượng thấp, tầm 40-60 phút. Nếu được đâu tư về nội dung và kéo dài thành một movie như hoạt hình Disney thì phim có thể sẽ hay hơn.  
 ## Kết luận  
 Nếu bạn là một người thích thể loại anime bạo lực ruột gan phèo phổi bay tứ tung của những năm 80, 90 thì bạn nên coi thử bộ anime này. Nhưng nếu bạn là một người xem khó tính với hi vọng một phim với cốt truyện liền mạch được kể tốt thì chắc đây không phải là phim dành cho bạn. Và nhược điểm đó chỉ được cải thiện (ở mức khá) ở phần 2, mà nếu đâm đầu coi phần 2 không thì trải nghiệm sẽ không được trọn vẹn. Nên tóm lại nếu có coi thì coi hết cả hai phần vì đằng nào thời lượng nó cũng không dài bằng movie 1 tiếng rưỡi của Disney đâu. Ngoài ra dù phần 2 có thông điệp ý nghĩa về chiến tranh cũng như chiều sâu về nhân vật nhưng chúng rất dễ bị người xem bỏ qua do tiết tấu của phim thiên về hành động khá nhiều và thời lượng cũng không dài.
+ Điểm số thì phần 1 1986 (5/10), phần 1 1996 (5.2/10), phần 2 Death Force nếu để riêng nó không thì là (6/10) nhưng với trải nghiệm coi gộp từ phần 1 sang phần 2 thì (6.9/10). 
 ## Link đến cả 2 phần của Anime M.D. Geist do mình dịch   
 [link](https://ariztynfansub.github.io/p/m-d-geist/)   
 > Cảm ơn đã đọc bài blog của mình. Chúc mọi người xem phim vui vẻ! ٩(＾◡＾)۶
