@@ -20,6 +20,8 @@ Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002
 **Nội dung:** Như tiêu đề "Episode 0" thì tập OVA lấy bối cảnh diễn ra trước khi các sự kiện bộ truyện cùng tên và bản live action diễn ra. Nội dung xay quanh quá trình "đào tạo hồi còn trẻ" để tạo cổ máy giết người Ichi sau này.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa DVD của một trang web torrent Nga nào đó, mà giờ mình kiếm lại không được nên quăng tạm file torrent của nó lên đây cho ai cần. [Download torrent file](/torrent/ICHI_THE_KILLER.torrent)   
+**Định dạng & thông số:**      
+1 Tập OVA: [DVD 480p 8bit AC3][Softsub].mkv  
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/ichi-za-laki/archive/refs/heads/main.zip) (còn cập nhật thêm)  
