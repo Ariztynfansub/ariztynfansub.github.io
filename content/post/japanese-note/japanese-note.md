@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-04-30T23:00:00+07:00'
+lastmod: '2023-05-10T23:00:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được.   
@@ -53,5 +53,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |誕生|Tanjo|thành lập, sinh ra|
 |新たな|aratana|mới,tươi|
 |片付け|Katazuke|làm gọn,kết thúc|
+|なれた|nareta|quen với (gì đó)|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
