@@ -52,5 +52,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |不可欠です|Fukaketsudesu|thiết yếu|
 |誕生|Tanjo|thành lập, sinh ra|
 |新たな|aratana|mới,tươi|
+|片付け|Katazuke|làm gọn,kết thúc|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
