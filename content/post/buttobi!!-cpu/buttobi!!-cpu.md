@@ -5,6 +5,7 @@ description: Buttobi!! CPU DVD Vietsub
 image: cover-buttobi!!-cpu.webp
 categories: Hentai
 tags: ['Hentai','OVA','DVD','720p','480p','10bit','8bit','AC3','x265','Hoàn thành']
+keywords: ['Buttobi!! CPU','I Dream of Mimi','hentai','hentai vietsub''anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 ---
 ## Lưu ý 18+   
 > Lưu ý: Đây là anime dành cho độ tuổi 18+ do có các yếu tố liên quan đến tình dục nên hãy cân nhắc trước khi xem. Thân!   

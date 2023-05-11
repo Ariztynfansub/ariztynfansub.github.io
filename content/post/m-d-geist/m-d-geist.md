@@ -6,6 +6,7 @@ slug: "m-d-geist"
 image: cover-m-d-geist.webp
 categories: Anime
 tags: ['Anime','OVA','DVD','LD','480p','8bit','AC3','AAC','x264','Hoàn hành']
+keywords: ['Soukihei M.D. Geist','M.D. Geist','Soukihei M.D. Geist 2 Death Force','Soukihei M.D. Geist: Director’s Cut','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 lastmod: '2023-05-08T22:47:00+07:00'
 ---
 ## Lưu ý (bạo lực)   

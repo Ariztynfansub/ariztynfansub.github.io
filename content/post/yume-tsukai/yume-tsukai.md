@@ -5,6 +5,7 @@ description: Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Hoàn thành']
+keywords: ['Yume Tsukai','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 lastmod: '2023-04-24T23:00:00+07:00'
 ---  
 ## Thông tin phim   

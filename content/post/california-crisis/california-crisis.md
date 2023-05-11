@@ -5,6 +5,7 @@ description: 'California Crisis: Tsuigeki no Juuka [Hibana] VHS Vietsub'
 image: cover-california-crisis-tsuigeki-no-juuka-[hibana].webp
 categories: Anime
 tags: ['Anime','OVA','VHS','480p','8bit','AAC','x264','Hoàn thành']
+keywords: ['California Crisis: Tsuigeki no Juuka Hibana','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 ---
 ## Thông tin phim   
 **Tên phim:** California Crisis: Tsuigeki no Juuka [Hibana] | カリフォルニア・クライシス 追撃の銃火[ひばな]   
