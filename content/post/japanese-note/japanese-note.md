@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-05-10T23:00:00+07:00'
+lastmod: '2023-05-11T22:00:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được.   
@@ -56,5 +56,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |なれた|nareta|quen với (gì đó)|
 |昨日|kinou|ngày hôm qua|
 |気のせい|kinose|trí tưởng tượng của ai đó|
+|うんこ|Unko|Cứt|
+|隠し事|kakushigoto|bí mật. tuỳ theo trường hợp có thể hiểu là che giấu|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 

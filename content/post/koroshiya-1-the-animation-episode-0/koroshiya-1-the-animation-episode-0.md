@@ -7,11 +7,12 @@ image: cover-koroshiya-ichi-the-animation-episode-0.webp
 categories: Anime
 tags: ['Anime','OVA','DVD','480p','8bit','AC3','Đang tiến hành']
 keywords: ['Ichi The Killer','Koroshiya 1','Koroshiya 1 The Animation Episode 0','Ichi The Killer The Animation Episode 0','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
+lastmod: '2023-05-11T23:40:00+07:00'
 ---
 ## Lưu ý 18+ (bạo lực, máu me) nặng đô
 > Phim này động chạm đến các vấn đề vô cùng bạo lực đầy cảnh tra tấn giết người vô cùng dã man và có hơi hướng tâm thần khá nặng nên. Vui lòng không xem nếu cảm thấy không hợp hoặc chưa 18 tuổi
 ## Tiến độ   
-Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002) - 20%](https://progress-bar.dev/20?title=tiến-độ)  
+Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002) - 30%](https://progress-bar.dev/30?title=tiến-độ)  
 ## Thông tin phim   
 ![Koroshiya 1 The Animation Episode 0 Vietsub](koroshiya-ichi-the-animation-episode-0-1.webp)  
 **Tên phim:** Koroshiya 1 The Animation Episode 0 | Ichi The Killer The Animation Episode 0 | 殺し屋1 THE ANIMATION EPISODE 0   
