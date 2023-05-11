@@ -54,5 +54,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |新たな|aratana|mới,tươi|
 |片付け|Katazuke|làm gọn,kết thúc|
 |なれた|nareta|quen với (gì đó)|
+|昨日|kinou|ngày hôm qua|
+|気のせい|kinose|trí tưởng tượng của ai đó|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
