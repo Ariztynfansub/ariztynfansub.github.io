@@ -57,6 +57,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |昨日|kinou|ngày hôm qua|
 |気のせい|kinose|trí tưởng tượng của ai đó|
 |うんこ|Unko|Cứt|
+|汗ったら|Asettara|Đổ mồ hôi/làm việc chăm chỉ/miệt mài. Thiếu kiên nhẫn/nóng vội|
 |隠し事|kakushigoto|bí mật. tuỳ theo trường hợp có thể hiểu là che giấu|
+|盗んだ|Nusunda|trộm|
+|出演者|Shutsuen-sha|người biểu diễn, diễn viên|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
