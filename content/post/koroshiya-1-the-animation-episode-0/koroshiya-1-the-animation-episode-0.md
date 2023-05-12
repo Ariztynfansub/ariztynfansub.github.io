@@ -30,5 +30,6 @@ Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002
 ## Thông tin bên lề  
 - [Việt] Manga Ichi the killer [blogtruyen](https://blogtruyen.vn/4913/ichi-the-killer).   
 - Seiza thuật ngữ để chỉ cách ngồi, nhưng trong bối cảnh Karate thì nó còn để chỉ cách cúi đầu nữa. Trong phim Ichi đã nhầm từ Seiza với Seshimashita (do bối rối quá nên Ichi đọc đại); Seshimashita có là một phần của câu "Omata se shimashita" nghĩa là xin lỗi vì đã khiến bạn phải chờ.
+- Uchi no Sensei: "Kỹ thuật phòng thủ của Sensei," ở bối cảnh trong phim là lớp học Karate thì Uchi có nghĩa là kỹ thuật phòng thủ.
 - Quả sub Anh bị thiếu khá nhiều line và dịch không đúng, đã thế gặp chủ để phim nặng đô làm mình dịch mệt óc thật sự~
 > Chúc mọi người xem phim vui vẻ! 🙂 Mà bộ này chắc chẳng ai vui nổi đâu nhỉ? 😅

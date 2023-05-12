@@ -62,5 +62,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |盗んだ|Nusunda|trộm|
 |出演者|Shutsuen-sha|người biểu diễn, diễn viên|
 |霊気|Reiki|Năng lượng/sức mạnh trong võ thuật|
+|下手(へた)|Heta|{{< raw_html >}}&bull; Thận trọng.<br/>&bull; không khéo léo; nghèo; vụng về.{{< /raw_html >}}|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
