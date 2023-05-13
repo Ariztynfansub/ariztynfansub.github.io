@@ -12,7 +12,7 @@ lastmod: '2023-05-13T23:36:00+07:00'
 ## Lưu ý 18+ (bạo lực, máu me, tình dục) nặng đô
 > Phim này động chạm đến các vấn đề vô cùng bạo lực đầy cảnh tình dục, tra tấn, giết người vô cùng dã man và có hơi hướng tâm thần khá nặng nên. Vui lòng không xem nếu cảm thấy không hợp hoặc chưa 18 tuổi
 ## Tiến độ   
-Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002) - 100%](https://progress-bar.dev/100?title=tiến-độ)  
+Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 ## Thông tin phim   
 ![Koroshiya 1 The Animation Episode 0 Vietsub](koroshiya-ichi-the-animation-episode-0-1.webp)  
 **Tên phim:** Koroshiya 1 The Animation Episode 0 | Ichi The Killer The Animation Episode 0 | 殺し屋1 THE ANIMATION EPISODE 0   
