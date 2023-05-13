@@ -63,5 +63,8 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |出演者|Shutsuen-sha|người biểu diễn, diễn viên|
 |霊気|Reiki|Năng lượng/sức mạnh trong võ thuật|
 |下手(へた)|Heta|{{< raw_html >}}&bull; Thận trọng.<br/>&bull; không khéo léo; nghèo; vụng về.{{< /raw_html >}}|
+|横(よこ)|Yoko ni|Bên cạnh, kế bên|
+|側(そば)|Soba ni|gần|
+|妄想|Bousou|{{< raw_html >}}&bull; Hoang tưởng, ý tưởng điên khùng.<br/>&bull; Ảo giác, tưởng tượng.<br/>&bull; Rối loạn tâm thần (có niềm tin về thứ gì đó không thực tế).{{< /raw_html >}}|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
