@@ -26,7 +26,8 @@ Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002
 1 Tập OVA: [DVD 480p 8bit AC3][Softsub].mkv  
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/s/1iJ1ap9xWuRZBu7LjoglQ3w).  
-> Nhớ tải cả file **[Ariztyn-Fansub] Koroshiya 1 The Animation Episode 0 [DVD 480p 8bit AC3][32572BC5].ass** về đổi tên cho giống file phim được giải nén, rồi đặt cả hai file .ass với .mkv chung một thư mục. Sau đó mở file .mkv bằng K-Lite Codec Pack Media Player Classic hoặc bất kỳ phần mềm Media Player nào có hỗ trợ subtitle .ass.   
+> Nhớ tải cả file **[Ariztyn-Fansub] Koroshiya 1 The Animation Episode 0 [DVD 480p 8bit AC3][32572BC5].ass** về đổi tên cho giống file phim được giải nén, rồi đặt cả hai file .ass với .mkv chung một thư mục. Sau đó mở file .mkv bằng K-Lite Codec Pack Media Player Classic hoặc bất kỳ phần mềm Media Player nào có hỗ trợ subtitle .ass.  
+ 
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/ichi-za-laki/archive/refs/heads/main.zip)  
 ## Thông tin bên lề  
 - [Việt] Manga Ichi the killer [blogtruyen](https://blogtruyen.vn/4913/ichi-the-killer).   
