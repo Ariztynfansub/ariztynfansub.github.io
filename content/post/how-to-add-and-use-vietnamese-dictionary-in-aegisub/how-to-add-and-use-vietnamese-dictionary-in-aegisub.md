@@ -1,12 +1,10 @@
 ---
 title: "Cách cài và dùng (cơ bản) bộ kiểm tra lỗi chính tả tiếng Việt trong Aegisub"
-date: 2023-05-14T14:42:00+07:00
+date: 2023-05-14T16:23:36+07:00
 description: Hướng dẫn cài từ điển tiếng Việt và xài để check lỗi chính tả trong Aegisub
-slug: "test-post"
 image: cover-how-to-add-and-use-vietnamese-dictionary-in-aegisub.webp
 categories: Guide
 tags: ['Làm subtitle','Aegisub']
-draft: true
 ---
 ## Đôi lời  
 Trước giờ do xài google ngu nên thành ra lỗi chính tả nhiều quá, nên hôm nay mới tìm được cái này để check chính tả cho Aegisub. Bài viết sẽ hướng dẫn cách cài bộ từ điển tiếng Việt cũng như cách xài nó để check chính tả trong Aegisub.  
@@ -115,53 +113,3 @@ Bây giờ mình sẽ giải thích các nút bấm trên cửa sổ này nhìn 
 
 Sau khi nắm hết các chức năng đó rồi thì bạn chỉ việc chọn các chức năng đó trên cửa sổ Spell Checker cho tới nó chạy hết các line trong file sub và hiện thông báo "... script gì gì đó" là xong chúc mừng bạn đã check lỗi chính tả hết file sub của mình rồi.  
 > Cảm ơn các bạn đã đọc bài viết của mình! 🙂
-
-## Spotify markdown short code  
-My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
-llllsnkenfnew.
-## Progress bar mardown
-![50%](https://progress-bar.dev/50)
-
-![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
-
-![Progress](https://progress-bar.dev/28/?title=progress)
-https://progress-bar.dev/28/?title=progress
-
-![Progress](https://progress-bar.dev/58/)
-https://progress-bar.dev/58/
-
-![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
-
-![Progress](https://progress-bar.dev/91/)
-https://progress-bar.dev/91/
-
-![Progress](https://progress-bar.dev/91/?title=done)
-https://progress-bar.dev/91/?title=done
-
-![Progress](https://progress-bar.dev/7/?scale=10&title=mark&suffix=X)
-https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
-
-![Progress](https://progress-bar.dev/420/?scale=500&title=funds&width=200&color=babaca&suffix=$)
-https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
-
-Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io    
-
-## Sơ lược   
-Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (02-05-2023)
-### Level 1 Team    
-![torron mine team 1 level 1 02-05-2023 22:18 pm](torron-mine-team-1-level-1-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/6Mq0IVs" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}
-### Level 8 Team
-![torron mine team 1 level 8 02-05-2023 22:18 pm](torron-mine-team-1-level-8-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}   
-
-
-> Xoá draft: true để test trên localhost
