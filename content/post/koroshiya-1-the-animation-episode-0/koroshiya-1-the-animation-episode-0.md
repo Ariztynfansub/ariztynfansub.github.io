@@ -10,7 +10,7 @@ keywords: ['Ichi The Killer','Koroshiya 1','Koroshiya 1 The Animation Episode 0'
 lastmod: '2023-05-13T23:36:00+07:00'
 ---
 ## Lưu ý 18+ (bạo lực, máu me, tình dục) nặng đô
-> Phim này động chạm đến các vấn đề vô cùng bạo lực đầy cảnh tình dục, tra tấn, giết người vô cùng dã man và có hơi hướng tâm thần khá nặng nên. Vui lòng không xem nếu cảm thấy không hợp hoặc chưa 18 tuổi
+> Phim này động chạm đến các vấn đề vô cùng bạo lực đầy cảnh tình dục, tra tấn, giết người vô cùng dã man và có hơi hướng tâm thần khá nặng nên. Vui lòng không xem nếu cảm thấy không hợp hoặc chưa 18 tuổi.
 ## Tiến độ   
 Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 ## Thông tin phim   
@@ -19,13 +19,14 @@ Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002
 **Số tập:** 1 OVA  
 **Studio:** AIC   
 **Năm phát hành:** 2002   
-**Nội dung:** Như tiêu đề "Episode 0" thì tập OVA lấy bối cảnh diễn ra trước khi các sự kiện bộ truyện và bản live action cùng tên diễn ra. Nội dung xay quanh quá trình "đào tạo hồi còn trẻ" để tạo cổ máy giết người Ichi sau này.  
+**Nội dung:** Như tiêu đề "Episode 0" thì tập OVA lấy bối cảnh diễn ra trước khi các sự kiện bộ truyện và bản live action cùng tên diễn ra. Nội dung xoay quanh quá trình "đào tạo hồi còn trẻ" để tạo cỗ máy giết người Ichi sau này.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub từ đĩa DVD gốc của một trang web torrent Nga nào đó, mà giờ mình kiếm lại không được nên quăng tạm file torrent của nó lên đây cho ai cần. [Download torrent file DVD Koroshiya 1 The Animation Episode 0](/torrent/ICHI_THE_KILLER.torrent)   
 **Định dạng & thông số:**      
 1 Tập OVA: [DVD 480p 8bit AC3][Softsub].mkv  
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/s/1iJ1ap9xWuRZBu7LjoglQ3w).  
+> Nhớ tải cả file **[Ariztyn-Fansub] Koroshiya 1 The Animation Episode 0 [DVD 480p 8bit AC3][32572BC5].ass** về đổi tên cho giống file phim được giải nén, rồi đặt cả hai file .ass với .mkv chung một thư mục. Sau đó mở file .mkv bằng K-Lite Codec Pack Media Player Classic hoặc bất kỳ phần mềm Media Player nào có hỗ trợ subtitle .ass.   
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/ichi-za-laki/archive/refs/heads/main.zip)  
 ## Thông tin bên lề  
 - [Việt] Manga Ichi the killer [blogtruyen](https://blogtruyen.vn/4913/ichi-the-killer).   
