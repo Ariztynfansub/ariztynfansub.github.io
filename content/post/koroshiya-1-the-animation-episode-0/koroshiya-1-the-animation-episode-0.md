@@ -29,6 +29,12 @@ Koroshiya 1 The Animation Episode 0. ![Koroshiya 1 The Animation Episode 0 (2002
 > Nhớ tải cả file **[Ariztyn-Fansub] Koroshiya 1 The Animation Episode 0 [DVD 480p 8bit AC3][32572BC5].ass** về đổi tên cho giống file phim được giải nén, rồi đặt cả hai file .ass với .mkv chung một thư mục. Sau đó mở file .mkv bằng K-Lite Codec Pack Media Player Classic hoặc bất kỳ phần mềm Media Player nào có hỗ trợ subtitle .ass.  
  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/ichi-za-laki/archive/refs/heads/main.zip)  
+## Opening
+Opening được làm bởi [Yui Takase](https://anidb.net/creator/20088).  
+{{< youtube ajCprKXkQJA >}}
+## Ending
+Ending được làm bởi [Yui Takase](https://anidb.net/creator/20088).  
+{{< youtube Nn9XV-jUqbo >}}
 ## Thông tin bên lề  
 - [Việt] Manga Ichi the killer [blogtruyen](https://blogtruyen.vn/4913/ichi-the-killer).   
 - Seiza thuật ngữ để chỉ cách ngồi, nhưng trong bối cảnh Karate thì nó còn để chỉ cách cúi đầu nữa. Trong phim Ichi đã nhầm từ Seiza với Seshimashita (do bối rối quá nên Ichi đọc đại); Seshimashita có là một phần của câu "Omata se shimashita" nghĩa là xin lỗi vì đã khiến bạn phải chờ.
