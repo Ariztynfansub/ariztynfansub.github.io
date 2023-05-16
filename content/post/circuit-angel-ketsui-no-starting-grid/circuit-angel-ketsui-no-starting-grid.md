@@ -23,7 +23,7 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 1 Tập OVA: [DVD 480p 8bit PCM][Softsub].mkv  
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/ichi-za-laki/archive/refs/heads/main.zip) (sẽ còn cập nhật)  
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Circuit-Angel-Ketsui-no-Starting-Grid/archive/refs/heads/main.zip) (sẽ còn cập nhật)  
 ## Opening
 "Generation" được trình bày bởi [Moriguchi Hiroko](https://anidb.net/creator/8776), cũng là người lồng tiếng cho Hiroko (ひろこ) trong phim.  
 {{< youtube b0CPeUbFaF4 >}}
