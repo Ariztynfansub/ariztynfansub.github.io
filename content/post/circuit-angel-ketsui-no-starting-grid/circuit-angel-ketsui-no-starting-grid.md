@@ -1,13 +1,12 @@
 ---
 title: "Circuit Angel: Ketsui no Starting Grid"
-date: 2023-05-14T14:42:00+07:00
+date: 2023-05-16T13:39:24+07:00
 description: "Circuit Angel: Ketsui no Starting Grid Vietsub"
-slug: "test-post"
+slug: "circuit-angel-ketsui-no-starting-grid"
 image: cover-circuit-angel-ketsui-no-starting-grid.webp
 categories: Anime
 tags: ['Anime','OVA','VHS','480p','8bit','PCM','Đang tiến hành']
 keywords: ['Circuit Angel: Ketsui no Starting Grid','Circuit Angel: Resolving Starting Grid','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-draft: true
 ---
 ## Tiến độ   
 Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid (1987) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
@@ -35,52 +34,3 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 - Đây là bộ anime duy nhất mà ca sĩ [Moriguchi Hiroko](https://anidb.net/creator/8776) tham gia lồng tiếng.   
 > Chúc mọi người xem phim vui vẻ! 🙂
 
-## Spotify markdown short code  
-My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
-llllsnkenfnew.
-## Progress bar mardown
-![50%](https://progress-bar.dev/50)
-
-![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
-
-![Progress](https://progress-bar.dev/28/?title=progress)
-https://progress-bar.dev/28/?title=progress
-
-![Progress](https://progress-bar.dev/58/)
-https://progress-bar.dev/58/
-
-![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
-
-![Progress](https://progress-bar.dev/91/)
-https://progress-bar.dev/91/
-
-![Progress](https://progress-bar.dev/91/?title=done)
-https://progress-bar.dev/91/?title=done
-
-![Progress](https://progress-bar.dev/7/?scale=10&title=mark&suffix=X)
-https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
-
-![Progress](https://progress-bar.dev/420/?scale=500&title=funds&width=200&color=babaca&suffix=$)
-https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
-
-Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io    
-
-## Sơ lược   
-Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (02-05-2023)
-### Level 1 Team    
-![torron mine team 1 level 1 02-05-2023 22:18 pm](torron-mine-team-1-level-1-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/6Mq0IVs" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}
-### Level 8 Team
-![torron mine team 1 level 8 02-05-2023 22:18 pm](torron-mine-team-1-level-8-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}   
-
-
-> Xoá draft: true để test trên localhost
