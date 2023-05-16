@@ -1,12 +1,11 @@
 ---
-title: "Arknights - Słoma Processing Platform"
-date: 2023-05-14T14:42:00+07:00
+title: "Arknights - Słoma Processing Platform Team"
+date: 2023-05-16T23:22:10+07:00
 description: "Arknights - Słoma Processing Platform Team"
-slug: "test-post"
+slug: "słoma-processing-platform-team"
 image: cover-słoma-processing-platform-team.webp
 categories: Gaming
 tags: ['Arknights']
-draft: true
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Słoma Processing Platform lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
@@ -32,7 +31,7 @@ Core damage: Goldenglow.
 Core line holding: Gavial the F****** Invicible, Blaze.  
 ![słoma processing platform team 1 level 8 strategy 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-strategy-16-05-2023-11-47.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://i.imgur.com/37JSZch.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/2L2mDPM.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
 #### Result  
 ![słoma processing platform team 1 level 8 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-16-05-2023-11-47.webp)
@@ -40,54 +39,3 @@ Core line holding: Gavial the F****** Invicible, Blaze.
 <p style="text-align: center;"><a class="link" href="https://i.imgur.com/37JSZch.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
 
-
-
-## Spotify markdown short code  
-My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
-llllsnkenfnew.
-## Progress bar mardown
-![50%](https://progress-bar.dev/50)
-
-![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
-
-![Progress](https://progress-bar.dev/28/?title=progress)
-https://progress-bar.dev/28/?title=progress
-
-![Progress](https://progress-bar.dev/58/)
-https://progress-bar.dev/58/
-
-![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
-
-![Progress](https://progress-bar.dev/91/)
-https://progress-bar.dev/91/
-
-![Progress](https://progress-bar.dev/91/?title=done)
-https://progress-bar.dev/91/?title=done
-
-![Progress](https://progress-bar.dev/7/?scale=10&title=mark&suffix=X)
-https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
-
-![Progress](https://progress-bar.dev/420/?scale=500&title=funds&width=200&color=babaca&suffix=$)
-https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
-
-Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io    
-
-## Sơ lược   
-Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (02-05-2023)
-### Level 1 Team    
-![torron mine team 1 level 1 02-05-2023 22:18 pm](torron-mine-team-1-level-1-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/6Mq0IVs" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}
-### Level 8 Team
-![torron mine team 1 level 8 02-05-2023 22:18 pm](torron-mine-team-1-level-8-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}   
-
-
-> Xoá draft: true để test trên localhost
