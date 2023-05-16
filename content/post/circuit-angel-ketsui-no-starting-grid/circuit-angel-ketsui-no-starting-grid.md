@@ -25,9 +25,11 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 **Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Circuit-Angel-Ketsui-no-Starting-Grid/archive/refs/heads/main.zip) (sẽ còn cập nhật)  
 ## Opening
+![Circuit Angel: Ketsui no Starting Grid song album cover](circuit-angel-ketsui-no-starting-grid-song-album.webp)  
 "Generation" được trình bày bởi [Moriguchi Hiroko](https://anidb.net/creator/8776), cũng là người lồng tiếng cho Hiroko (ひろこ) trong phim.  
 {{< youtube b0CPeUbFaF4 >}}
 ## Ending
+![Circuit Angel: Ketsui no Starting Grid song album cover](circuit-angel-ketsui-no-starting-grid-song-album.webp)  
 "Still Love You···" được trình bày bởi [Moriguchi Hiroko](https://anidb.net/creator/8776), cũng là người lồng tiếng cho Hiroko (ひろこ) trong phim.  
 {{< youtube CflqXNp_nFY >}}
 ## Thông tin bên lề  
