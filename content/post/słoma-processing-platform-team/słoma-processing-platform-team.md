@@ -23,7 +23,7 @@ Hoặc nên pick nhiều specialist như `Gravel`, `Projekt Red`,... => Để re
 
 ## Team 1 (16-05-2023)
 ### Level 1 Team    
-![słoma processing platform team 1 level 1 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-1-16-05-2023-11-47.webp)
+![słoma processing platform team 1 level 1 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-1-16-05-2023-21-13.webp)
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://i.imgur.com/RgbA9Qa.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}
@@ -31,13 +31,31 @@ Hoặc nên pick nhiều specialist như `Gravel`, `Projekt Red`,... => Để re
 #### Strategy  
 Core damage: `Goldenglow`.  
 Core line holding: `Gavial the F****** Invicible` & `Blaze`.  
-![słoma processing platform team 1 level 8 strategy 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-strategy-16-05-2023-11-47.webp)
+![słoma processing platform team 1 level 8 strategy 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-strategy-16-05-2023-21-13.webp)
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://i.imgur.com/2L2mDPM.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
 #### Result  
-![słoma processing platform team 1 level 8 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-16-05-2023-11-47.webp)
+![słoma processing platform team 1 level 8 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-16-05-2023-21-13.webp)
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://i.imgur.com/37JSZch.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
-
+## Team 2 (17-05-2023)
+### Level 1 Team    
+![słoma processing platform team 2 level 1 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-1-17-05-2023-10-39.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/RgbA9Qa.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+### Level 8 Team
+#### Strategy  
+Core damage: `Goldenglow`.  
+Core line holding: `Gavial the F****** Invicible` & `Mudrock`.  
+![słoma processing platform team 2 level 8 strategy 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-8-strategy-17-05-2023-10-39.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/2L2mDPM.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}   
+#### Result  
+![słoma processing platform team 2 level 8 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-8-17-05-2023-10-39.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/37JSZch.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}   
