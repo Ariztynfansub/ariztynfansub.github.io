@@ -16,7 +16,7 @@ Các team đã sử dụng để clear `Słoma Processing Platform` lấy secret
 Hoặc nên pick nhiều specialist như `Gravel`, `Projekt Red`,... => Để reset nếu không may op thủ line bị defeat mà đặt vào để không mất stack và deploy lại sau.
 - Lưu ý hướng quay mặt của OP đặc biệt là đánh LT-5 (Whitered Knight), LT-6 (Tola)
 - LT-4 Con sói (Teary Detective) nhảy qua một op đầu tiên mà nó bị block phải => dàn hàng hai op melee sát nhau để không bị xổng.
-- LT-4 Tytus Topola đánh đau có thể đánh op ranged => dùng lồng chim của `Nightgale` để dụ nó.
+- LT-4 Tytus Topola đánh đau có thể đánh op ranged => dùng lồng chim của `Nightingale` để dụ nó.
 - LT-5 cố gắng đặt ranged op damage ở line giữa map để burst chết Whitered Knight.
 - LT-6 cố gắng đặt các op ranged ở ô giữa map để burst damage nhiều địch nhất có thể.
 - LT-8 đánh BOSS thì chọn option `High-Efficiency Baking Powder`.
