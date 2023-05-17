@@ -6,6 +6,7 @@ slug: "słoma-processing-platform-team"
 image: cover-słoma-processing-platform-team.webp
 categories: Gaming
 tags: ['Arknights']
+lastmod: '2023-05-17T09:00:00+07:00'
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Słoma Processing Platform lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
@@ -17,7 +18,7 @@ Hoặc nên pick nhiều specialist như Gravel, Projekt Red,... => Để reset 
 - LT-4 Con sói (Teary Detective) nhảy qua một op đầu tiên mà nó bị block phải => dàn hàng hai op melee sát nhau để không bị xổng.
 - LT-4 Tytus Topola đánh đau có thể đánh op ranged => dùng lồng chim của Nightgale để dụ nó.
 - LT-5 cố gắng đặt ranged op damage ở line giữa map để burst chết Whitered Knight.
-- LT-6 cố gắng đặt các op ranged ở ô giữa map để burt damage nhiều địch nhất có thể.
+- LT-6 cố gắng đặt các op ranged ở ô giữa map để burst damage nhiều địch nhất có thể.
 
 ## Team 1 (16-05-2023)
 ### Level 1 Team    
@@ -28,7 +29,7 @@ Hoặc nên pick nhiều specialist như Gravel, Projekt Red,... => Để reset 
 ### Level 8 Team
 #### Strategy  
 Core damage: Goldenglow.  
-Core line holding: Gavial the F****** Invicible, Blaze.  
+Core line holding: Gavial the F****** Invicible & Blaze.  
 ![słoma processing platform team 1 level 8 strategy 16-05-2023 21:13 pm](słoma-processing-platform-team-1-level-8-strategy-16-05-2023-11-47.webp)
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://i.imgur.com/2L2mDPM.png" target="_blank" rel="noopener">Nguồn HD</a></p>
