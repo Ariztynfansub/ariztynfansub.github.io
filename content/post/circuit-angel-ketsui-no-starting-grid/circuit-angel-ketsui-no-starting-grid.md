@@ -33,6 +33,7 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 "Still Love You···" được trình bày bởi [Moriguchi Hiroko](https://anidb.net/creator/8776), cũng là người lồng tiếng cho Hiroko (ひろこ) trong phim.  
 {{< youtube CflqXNp_nFY >}}
 ## Thông tin bên lề  
-- Đây là bộ anime duy nhất mà ca sĩ [Moriguchi Hiroko](https://anidb.net/creator/8776) tham gia lồng tiếng.   
+- Đây là bộ anime duy nhất mà ca sĩ [Moriguchi Hiroko](https://anidb.net/creator/8776) tham gia lồng tiếng.
+- Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định   
 > Chúc mọi người xem phim vui vẻ! 🙂
 
