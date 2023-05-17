@@ -65,6 +65,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |下手(へた)|Heta|{{< raw_html >}}&bull; Thận trọng.<br/>&bull; không khéo léo; nghèo; vụng về.{{< /raw_html >}}|
 |横(よこ)|Yoko ni|Bên cạnh, kế bên|
 |側(そば)|Soba ni|gần|
+|翳し/翳す|Kazashi/Kazasu|{{< raw_html >}}&bull; Che mắt/mặt.<br/>&bull; giữ tay cao/giơ tay qua khỏi đầu.<br/>&bull; Đưa tay ra.{{< /raw_html >}}|
 |妄想|Bousou|{{< raw_html >}}&bull; Hoang tưởng, ý tưởng điên khùng.<br/>&bull; Ảo giác, tưởng tượng.<br/>&bull; Rối loạn tâm thần (có niềm tin về thứ gì đó không thực tế).{{< /raw_html >}}|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 

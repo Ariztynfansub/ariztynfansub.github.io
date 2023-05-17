@@ -34,6 +34,6 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 {{< youtube CflqXNp_nFY >}}
 ## Thông tin bên lề  
 - Đây là bộ anime duy nhất mà ca sĩ [Moriguchi Hiroko](https://anidb.net/creator/8776) tham gia lồng tiếng.
-- Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định   
+- Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định.   
 > Chúc mọi người xem phim vui vẻ! 🙂
 
