@@ -5,7 +5,7 @@ slug: "annihilation-16-penumbra-shipyard"
 description: Arknights - Annihilation 16 - Penumbra Shipyard
 image: cover-annihilation-penumbra-shipyard.webp
 categories: Gaming
-tags: ['Arknights']
+tags: ['Arknights','Annihilation']
 ---
 ## Sơ lược   
 Team đã sử dụng để clear Annihilation 16 - Penumbra Shipyard lấy medal 400 kill.

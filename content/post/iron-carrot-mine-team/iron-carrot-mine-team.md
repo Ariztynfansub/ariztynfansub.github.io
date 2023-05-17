@@ -5,7 +5,7 @@ slug: "iron-carrot-mine-team"
 description: Arknights - Iron Carrot Mine Team
 image: iron-carrot-mine-team.webp
 categories: Gaming
-tags: ['Arknights']
+tags: ['Arknights','Stationary Security Service']
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Iron Carrot Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).

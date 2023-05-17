@@ -5,7 +5,7 @@ slug: "torron-mine-team"
 description: Arknights - Torron Mine Team
 image: cover-torron-mine-team.webp
 categories: Gaming
-tags: ['Arknights']
+tags: ['Arknights','Stationary Security Service']
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).

@@ -5,7 +5,7 @@ slug: "glebe-mining-platform-team"
 description: Arknights - Glebe Mining Platform Team
 image: glebe-mining-platform-team.webp
 categories: Gaming
-tags: ['Arknights']
+tags: ['Arknights','Stationary Security Service']
 lastmod: '2023-05-03T11:34:00+07:00'
 ---
 ## Sơ lược   

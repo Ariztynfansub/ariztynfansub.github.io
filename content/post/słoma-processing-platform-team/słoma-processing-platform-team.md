@@ -5,7 +5,7 @@ description: "Arknights - Słoma Processing Platform Team"
 slug: "słoma-processing-platform-team"
 image: cover-słoma-processing-platform-team.webp
 categories: Gaming
-tags: ['Arknights']
+tags: ['Arknights','Stationary Security Service']
 lastmod: '2023-05-17T09:00:00+07:00'
 ---
 ## Sơ lược   
@@ -44,7 +44,7 @@ Core line holding: `Gavial the F****** Invicible` & `Blaze`.
 ### Level 1 Team    
 ![słoma processing platform team 2 level 1 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-1-17-05-2023-10-39.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://i.imgur.com/RgbA9Qa.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/ZFrG0fg.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}
 ### Level 8 Team
 #### Strategy  
@@ -52,10 +52,10 @@ Core damage: `Goldenglow`.
 Core line holding: `Gavial the F****** Invicible` & `Mudrock`.  
 ![słoma processing platform team 2 level 8 strategy 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-8-strategy-17-05-2023-10-39.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://i.imgur.com/2L2mDPM.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/AbpewVg.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
 #### Result  
 ![słoma processing platform team 2 level 8 17-05-2023 10:39 am](słoma-processing-platform-team-2-level-8-17-05-2023-10-39.webp)
 {{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://i.imgur.com/37JSZch.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/K9lV3Ij.png" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
