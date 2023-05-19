@@ -7,9 +7,10 @@ image: cover-circuit-angel-ketsui-no-starting-grid.webp
 categories: Anime
 tags: ['Anime','OVA','VHS','480p','8bit','PCM','Đang tiến hành']
 keywords: ['Circuit Angel: Ketsui no Starting Grid','Circuit Angel: Resolving Starting Grid','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
+lastmod: '2023-05-19T17:39:00+07:00'
 ---
 ## Tiến độ   
-Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid (1987) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid (1987) - 38%](https://progress-bar.dev/38?title=tiến-độ)  
 ## Thông tin phim   
 ![Circuit Angel: Ketsui no Starting Grid Vietsub](circuit-angel-ketsui-no-starting-grid.webp)  
 **Tên phim:** Circuit Angel: Ketsui no Starting Grid | Circuit Angel: Resolving Starting Grid | サーキットエンジェル　決意のスターティング・グリッド   
@@ -34,6 +35,7 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 {{< youtube CflqXNp_nFY >}}
 ## Thông tin bên lề  
 - Đây là bộ anime duy nhất mà ca sĩ [Moriguchi Hiroko](https://anidb.net/creator/8776) tham gia lồng tiếng.
-- Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định.   
+- Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định.
+- Lá bùa của Mariko treo trên mô tô là bùa cầu tình duyên Enmusubi (縁結び） hay Enmusubi Omamori.     
 > Chúc mọi người xem phim vui vẻ! 🙂
 

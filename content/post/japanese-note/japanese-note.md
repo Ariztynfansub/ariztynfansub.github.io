@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-05-12T23:00:00+07:00'
+lastmod: '2023-05-19T17:39:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -66,6 +66,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |横(よこ)|Yoko ni|Bên cạnh, kế bên|
 |側(そば)|Soba ni|gần|
 |翳し/翳す|Kazashi/Kazasu|{{< raw_html >}}&bull; Che mắt/mặt.<br/>&bull; giữ tay cao/giơ tay qua khỏi đầu.<br/>&bull; Đưa tay ra.{{< /raw_html >}}|
+|下品|gehin|bậy bạ|
+|がさつ|gasatsu|thô lỗ, bất lịch sự, không khéo léo, thô thiển, thô (đồ vật nói chung)|
+|こそこそ|kosokoso|Lén lút|
 |妄想|Bousou|{{< raw_html >}}&bull; Hoang tưởng, ý tưởng điên khùng.<br/>&bull; Ảo giác, tưởng tượng.<br/>&bull; Rối loạn tâm thần (có niềm tin về thứ gì đó không thực tế).{{< /raw_html >}}|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
