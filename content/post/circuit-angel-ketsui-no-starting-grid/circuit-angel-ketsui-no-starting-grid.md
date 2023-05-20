@@ -38,6 +38,6 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 - Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định.
 - Lá bùa của Mariko treo trên mô tô là bùa cầu tình duyên Enmusubi (縁結び） hay Enmusubi Omamori.
 - Xe hơi của Sho chạy là một chiếc Supra trắng, có vẻ như nguyên mẫu của nó ngoài đời là Toyota Supra 1987.
-- Xe mô tô dùng để đua có cách vào số ngược so với xe mô tô bình thường (chạy ngoài đường phố), nó được gọi là gp shift hoặc race shift. Mục đích của nó là giúp người đua mô tô sang số lúc ôm cua sát mặt đường tốt hơn và dễ dàng hơn. (Mình không rành nên cũng không rõ nguyên lý hoạt động của nó lắm chỉ biết là nó ngược với cách vào số trên thông thường)     
+- Xe mô tô dùng để đua có cách vào số ngược so với xe mô tô bình thường (chạy ngoài đường phố), nó được gọi là gp shift hoặc race shift. Mục đích của nó là giúp người đua mô tô sang số lúc ôm cua sát mặt đường tốt hơn và dễ dàng hơn. (Mình không rành nên cũng không rõ nguyên lý hoạt động của nó lắm chỉ biết là nó ngược với cách vào số trên mô tô thông thường)     
 > Chúc mọi người xem phim vui vẻ! 🙂
 
