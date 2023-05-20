@@ -10,7 +10,7 @@ keywords: ['Circuit Angel: Ketsui no Starting Grid','Circuit Angel: Resolving St
 lastmod: '2023-05-19T17:39:00+07:00'
 ---
 ## Tiến độ   
-Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid (1987) - 83%](https://progress-bar.dev/83?title=tiến-độ)  
+Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid (1987) - 96%](https://progress-bar.dev/96?title=tiến-độ)  
 ## Thông tin phim   
 ![Circuit Angel: Ketsui no Starting Grid Vietsub](circuit-angel-ketsui-no-starting-grid.webp)  
 **Tên phim:** Circuit Angel: Ketsui no Starting Grid | Circuit Angel: Resolving Starting Grid | サーキットエンジェル　決意のスターティング・グリッド   
@@ -38,6 +38,6 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 - Tựa tiếng Việt dịch thô của phim: Đường đua Thiên thần: Vạch xuất phát Quyết định.
 - Lá bùa của Mariko treo trên mô tô là bùa cầu tình duyên Enmusubi (縁結び） hay Enmusubi Omamori.
 - Xe hơi của Sho chạy là một chiếc Supra trắng, có vẻ như nguyên mẫu của nó ngoài đời là Toyota Supra 1987.
-- Xe mô tô dùng để đua có cách vào số ngược so với xe mô tô bình thường (chạy ngoài đường phố), nó được gọi là gp shift hoặc race shift. Mục đích của nó là giúp người đua mô tô sang số lúc ôm cua sát mặt đường tốt hơn và dễ dàng hơn. (Mình không rành nên cũng không rõ nguyên lý hoạt động của nó lắm chỉ biết là nó ngược với cách vào số trên mô tô thông thường)     
+- Xe mô tô dùng để đua có cách vào số ngược so với xe mô tô bình thường (chạy ngoài đường phố), nó được gọi là gp shift hoặc race shift. Mục đích của nó là giúp người đua mô tô sang số lúc ôm cua sát mặt đường tốt hơn và dễ dàng hơn. (Mình không rành nên cũng không rõ nguyên lý hoạt động của nó lắm chỉ biết là nó ngược với cách vào số trên mô tô thông thường).       
 > Chúc mọi người xem phim vui vẻ! 🙂
 
