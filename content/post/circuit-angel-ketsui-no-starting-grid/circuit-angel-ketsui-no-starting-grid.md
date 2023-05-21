@@ -1,7 +1,7 @@
 ---
 title: "Circuit Angel: Ketsui no Starting Grid"
 date: 2023-05-16T13:39:24+07:00
-description: "Anime Circuit Angel: Ketsui no Starting Grid Vietsub"
+description: "Anime Circuit Angel: Ketsui no Starting Grid VHS Vietsub"
 slug: "circuit-angel-ketsui-no-starting-grid"
 image: cover-circuit-angel-ketsui-no-starting-grid.webp
 categories: Anime

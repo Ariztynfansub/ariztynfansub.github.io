@@ -1,7 +1,7 @@
 ---
 title: "Koroshiya 1 The Animation Episode 0"
 date: 2023-05-08T23:41:15+07:00
-description: Koroshiya 1 The Animation Episode 0 Vietsub
+description: Anime Koroshiya 1 The Animation Episode 0 DVD Vietsub
 slug: "koroshiya-ichi-the-animation-episode-0"
 image: cover-koroshiya-ichi-the-animation-episode-0.webp
 categories: Anime

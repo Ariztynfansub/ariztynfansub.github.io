@@ -1,7 +1,7 @@
 ---
 title: "Soukihei M.D. Geist: Director’s Cut (1996) + Original Cut (1986) & Soukihei M.D. Geist 2 Death Force (1996)"
 date: 2023-04-06T09:52:00+07:00
-description: "Soukihei M.D. Geist: Director’s Cut (1996) + Original Cut (1986) & Soukihei M.D. Geist 2 Death Force (1996) DVD/LD Vietsub"
+description: "Anime Soukihei M.D. Geist: Director’s Cut (1996) + Original Cut (1986) & Soukihei M.D. Geist 2 Death Force (1996) DVD/LD Vietsub"
 slug: "m-d-geist"
 image: cover-m-d-geist.webp
 categories: Anime

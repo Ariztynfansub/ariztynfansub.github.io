@@ -1,7 +1,7 @@
 ---
 title: "Samurai 7"
 date: 2023-04-01T16:18:51+07:00
-description: Samurai 7 BD Vietsub
+description: Anime Samurai 7 BD Vietsub
 image: cover-samurai-7.webp
 categories: Anime
 tags: ['Anime','BD','1080p','10bit','AAC 5.1','x265','Hoàn thành']

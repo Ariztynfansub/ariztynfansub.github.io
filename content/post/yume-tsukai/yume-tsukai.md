@@ -1,7 +1,7 @@
 ---
 title: "Yume Tsukai"
 date: 2023-04-01T19:37:23+07:00
-description: Yume Tsukai DVD Vietsub
+description: Anime Yume Tsukai DVD Vietsub
 image: cover-yume-tsukai.webp
 categories: Anime
 tags: ['Anime','DVD','480p','10bit',AAC','x264','Hoàn thành']

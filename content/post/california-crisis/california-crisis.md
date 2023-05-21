@@ -1,7 +1,7 @@
 ---
 title: "California Crisis: Tsuigeki no Juuka [Hibana]"
 date: 2023-04-01T16:46:51+07:00
-description: 'California Crisis: Tsuigeki no Juuka [Hibana] VHS Vietsub'
+description: 'Anime California Crisis: Tsuigeki no Juuka [Hibana] VHS Vietsub'
 image: cover-california-crisis-tsuigeki-no-juuka-[hibana].webp
 categories: Anime
 tags: ['Anime','OVA','VHS','480p','8bit','AAC','x264','Hoàn thành']
