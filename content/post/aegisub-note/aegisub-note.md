@@ -5,6 +5,7 @@ slug: "aegisub-note"
 image: aegisub-note.webp
 categories: Guide
 tags: ['Làm subtitle','Aegisub']
+lastmod: '2023-05-21T23:00:00+07:00'
 ---
 ## Đôi lời   
 Ghi chú về mấy thứ linh tinh(lỗi, cách sử dụng này kia,...) trong aegisub mà mình gặp phải. Sẽ update đều đặn (chắc thế 😇).   
@@ -18,4 +19,6 @@ Tương tự ta sẽ có các cặp điểm:
 - 159 410
 - 162 372
 Có thể áp thêm thẻ **\c[màu]** sau **\p1** để đổi màu hình vẽ ra.   
+## Chứ nghiêng sang trái {\fax0.3}  
+Tăng 0.3 lên 0.4,0.5,... để tăng độ nghiêng sang trái của chữ đứng sau tag {\fax0.3}.
 ## Đang cập nhật   
