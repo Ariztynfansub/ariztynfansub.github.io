@@ -17,7 +17,7 @@ Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title
 **Studio:** Pierrot   
 **Năm phát hành:** 1986   
 **Nội dung:** Maris là một người thuộc chủng tộc Thanatosian tị nạn sau khi hành tinh quê nhà đã bị phá huỷ. Dù có một người cha nghiện rượu và một người mẹ khờ nhwung vấn đề lớn nhất của cô lại chính là sức mạnh gấp 6 lần người Trái Đất của mình do là một Thanatosian. Sức mạnh + sự xui rủi đã khiến bất cứ thứ gì cô ấy đụng vào thì cũng đều hư hoặc vỡ nát cả. Nên cô luôn sống trong nợ nầng, chưa kể bất kỳ nhiệm vụ nào cô tham gia theo chỉ định của Đội Tuần tra Không gian Xuyên Thiên hà đều chỉ khiến hầu bao của cô thâm hụt nhiều hơn vì đền bù tổn thất gây ra. Nhưng may mắn là cơ hội đổi đời của cô cũng đã tới, khi được chỉ định đi giải cứu Koganemaru một anh chàng sexy, siêu giàu bị bắt cóc. Với lòng biết ơn khôn xiết của mình anh ta nhất định sẽ kết hôn với cô => cô sẽ không còn phải sống trong nỗi lo tài chính. (dịch từ [Anidb](https://anidb.net/anime/1035))  
-**Nhân sự:** Ariztyno   
+**Nhân sự:** Ariztyno (Tất cả typeset đều thuộc về [Orphan](https://collectr.blogspot.com/), mình chỉ dịch sang tiếng Việt thôi)   
 **Nguồn phim:** Dịch từ eng sub [[Orphan]](https://nyaa.si/view/1400827)     
 **Định dạng & thông số:**      
 1 Tập OVA: [LD 480p x264 10bit FLAC][Softsub].mkv  
@@ -29,5 +29,5 @@ Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title
 {{< youtube rf5o0i2tg2M >}}
 ## Thông tin bên lề  
 - Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
-- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo.
+- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo ở U.S.
 > Chúc mọi người xem phim vui vẻ! 🙂
