@@ -5,7 +5,7 @@ description: "Anime Maris the Chojo LD Vietsub"
 slug: "maris-the-chojo"
 image: cover-maris-the-chojo.webp
 categories: Anime
-tags: ['Anime','OVA','LD','480p','8bit','PCM','Đang tiến hành']
+tags: ['Anime','OVA','LD','480p','10bit','FLAC','x264','Đang tiến hành']
 keywords: ['Maris the Chojo','The Supergal','Supergal','za chō onna ( sūpā gyaru )','ザ・超女(スーパーギャル','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 ---
 ## Tiến độ   
