@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-05-23T23:08:00+07:00'
+lastmod: '2023-05-23T23:18:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -71,5 +71,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |こそこそ|kosokoso|Lén lút|
 |妄想|Bousou|{{< raw_html >}}&bull; Hoang tưởng, ý tưởng điên khùng.<br/>&bull; Ảo giác, tưởng tượng.<br/>&bull; Rối loạn tâm thần (có niềm tin về thứ gì đó không thực tế).{{< /raw_html >}}|
 |休暇だ|kyūkada|Ngày lễ, Kỳ nghỉ, ngày nghỉ, vắng mặt khỏi nơi làm việc|
+|中尉|Chūi|Thiếu uý|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
