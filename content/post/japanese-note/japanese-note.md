@@ -73,5 +73,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |休暇だ|kyūkada|Ngày lễ, Kỳ nghỉ, ngày nghỉ, vắng mặt khỏi nơi làm việc|
 |中尉|Chūi|Thiếu uý|
 |大佐|Taisa|Đại tá|
+|弁償, べんしょう|benshō|bồi thường, đền bù|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
