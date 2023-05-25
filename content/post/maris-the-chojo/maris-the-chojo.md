@@ -24,6 +24,9 @@ Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Maris-za-Chojo/archive/refs/heads/main.zip) (chưa cập nhật)  
+## Opening
+"buin buin buin (ブイン ブイン ブイン)" được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
+{{< youtube 79EykGyHFQE >}}  
 ## Ending
 " Binbo'86 " được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
 {{< youtube rf5o0i2tg2M >}}
