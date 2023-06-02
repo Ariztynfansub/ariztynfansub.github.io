@@ -28,6 +28,6 @@ Yay hôm nay trời lại mưa~ Bộ Golden Time bị lỗi Ep 2, `Unexpected en
 ## Ngày 02-06-2023  
 Đã hoàn thành việc Back up... Về bộ Genshiken Nidaime thì mình sé up thêm bảo raw 1080p kèm subtitle của KOGA cho các tập bị lỗi (lưu ý là vì sẽ không có OP,ED Kara effect cho các ep này, do trong file sub gốc tách ra không có chúng).   
 ## Link down toàn bộ những anime đã down và upload được  
-[Download](https://terabox.com/).
+[Download](https://terabox.com/s/1WhWPq_O6CULTe95YA1jV8A).
 Nếu giải nén file mà có bị yêu cầu pass thì cứ điền `KOGA` hoặc `olshiro`.    
 > Cuối cùng cũng xong! 😢
