@@ -182,7 +182,7 @@ main = [ ]
   identifier = "rss"
   name = "RSS"
   url = "/index.xml"
-  weight = -50
+  weight = -40
 
     [menu.social.params]
     icon = "rss"
@@ -191,7 +191,7 @@ main = [ ]
   identifier = "momo"
   name = "Donate via Momo"
   url = "/momo.jpg"
-  weight = -60
+  weight = -50
 
     [menu.social.params]
     icon = "momo"
@@ -200,10 +200,19 @@ main = [ ]
   identifier = "email"
   name = "Email"
   url = "mailto:ariztynfansub@gmail.com"
-  weight = -70
+  weight = -60
 
     [menu.social.params]
     icon = "mail"
+	
+  [[menu.social]]
+  identifier = "youtube"
+  name = "Youtube"
+  url = "https://www.youtube.com/channel/UCSfsIcVzB9ttJv_CkZLegfw"
+  weight = -70
+
+    [menu.social.params]
+    icon = "brand-youtube"
 
 [related]
 includeNewer = true
