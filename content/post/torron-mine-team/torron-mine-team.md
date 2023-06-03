@@ -20,4 +20,15 @@ Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt q
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}   
+## Team 2 (03-06-2023)
+### Level 1 Team    
+![torron mine team 1 level 1 03-06-2023 21:15 pm](torron-mine-team-1-level-1-03-06-2023-21-15.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/Gsg8vrb.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+### Level 8 Team
+![torron mine team 1 level 8 03-06-2023 21:15 pm](torron-mine-team-1-level-8-03-06-2023-21-15.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/bclBzkq.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}   
 
