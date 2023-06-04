@@ -5,7 +5,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-05-23T23:28:00+07:00'
+lastmod: '2023-06-04T22:09:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -74,5 +74,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |中尉|Chūi|Thiếu uý|
 |大佐|Taisa|Đại tá|
 |弁償, べんしょう|benshō|bồi thường, đền bù|
+|連邦|Renpou,renpō|Liên bang,Liên hiệp|
+|誘拐|yūkai|Bị bắt cóc|
+|正しく|Masashiku|Chắc chắn, Không còn nghi ngờ gì nữa|
+|健闘を祈る|kentō o inoru|Chúc/Cầu may mắn/chiến đấu tốt| 
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
