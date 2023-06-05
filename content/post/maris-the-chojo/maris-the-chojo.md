@@ -10,7 +10,7 @@ keywords: ['Maris the Chojo','The Supergal','Supergal','za chō onna ( sūpā gy
 lastmod: '2023-06-04T22:42:00+07:00'
 ---
 ## Tiến độ   
-Maris the Chojo. ![Maris the Chojo (1986) - 34%](https://progress-bar.dev/34?title=tiến-độ)  
+Maris the Chojo. ![Maris the Chojo (1986) - 57%](https://progress-bar.dev/57?title=tiến-độ)  
 ## Thông tin phim   
 ![Maris the Chojo Vietsub](maris-the-chojo.webp)  
 **Tên phim:** Maris the Chojo | The Supergal | Supergal | za chō onna ( sūpā gyaru ) | ザ・超女(スーパーギャル)   

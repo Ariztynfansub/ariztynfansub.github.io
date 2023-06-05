@@ -86,5 +86,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |使い捨て|tsukaisute|tốt thí, có thể vứt bỏ, đồ bỏ đi|
 |以外|Igai|Không ngờ, bất ngờ, không tính/bàn/kể đến, ngoại lệ/trừ|
 |速やか|Sumiyaka|Nhanh nhất có thẻ, tốc độ vào, ngay lập tức, trôi chảy nhất có thể|
+|作戦|Sakusen|Kế hoạch, chiến dịch, chiến lược|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
