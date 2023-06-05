@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-05T16:00:00+07:00'
+lastmod: '2023-06-05T16:11:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -82,5 +82,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |身分|Mibun|Vai vế, thân phận, danh/thân phận|
 |脆い|Moroi|Mong manh dễ vỡ, giòn, dịu dàng| 
 |要塞|yōsai|Pháo đài|
+|鬱陶しい|uttōshī|Buồn tẻ, u ám, khó chịu, phiền toái|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
