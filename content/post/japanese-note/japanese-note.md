@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-05T21:49:00+07:00'
+lastmod: '2023-06-05T22:19:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -85,5 +85,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |鬱陶しい|uttōshī|Buồn tẻ, u ám, khó chịu, phiền toái|
 |使い捨て|tsukaisute|tốt thí, có thể vứt bỏ, đồ bỏ đi|
 |以外|Igai|Không ngờ, bất ngờ, không tính/bàn/kể đến, ngoại lệ/trừ|
+|速やか|Sumiyaka|Nhanh nhất có thẻ, tốc độ vào, ngay lập tức, trôi chảy nhất có thể|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
