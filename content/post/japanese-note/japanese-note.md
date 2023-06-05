@@ -1,11 +1,12 @@
 ---
 title: "Tiếng Nhật - Sổ tay ghi chú"
 date: 2023-04-22T23:19:00+07:00
+description: "Nghĩa của mấy từ tiếng Nhật mà mình gặp phải trong khi dịch phim"
 slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-04T22:09:00+07:00'
+lastmod: '2023-06-05T16:00:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -77,6 +78,9 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |連邦|Renpou,renpō|Liên bang,Liên hiệp|
 |誘拐|yūkai|Bị bắt cóc|
 |正しく|Masashiku|Chắc chắn, Không còn nghi ngờ gì nữa|
-|健闘を祈る|kentō o inoru|Chúc/Cầu may mắn/chiến đấu tốt| 
+|健闘を祈る|kentō o inoru|Chúc/Cầu may mắn/chiến đấu tốt|
+|身分|Mibun|Vai vế, thân phận, danh/thân phận|
+|脆い|Moroi|Mong manh dễ vỡ, giòn, dịu dàng| 
+|要塞|yōsai|Pháo đài|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 

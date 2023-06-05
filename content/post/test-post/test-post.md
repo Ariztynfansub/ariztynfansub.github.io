@@ -4,7 +4,7 @@ date: 2023-06-01T22:47:00+07:00
 description: "Chỉ là clip mình clear Stage IS-EX-8 của Game Arknights của event Il Siracusano"
 slug: "test-post"
 image: cover-arknights-is-ex-8-normal-mode-and-challenge-mode.webp
-categories: Blog
+categories: Gaming
 tags: ['Arknights','Il Siracusano']
 draft: true
 ---
