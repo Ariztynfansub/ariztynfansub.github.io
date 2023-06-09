@@ -7,7 +7,7 @@ image: cover-maris-the-chojo.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','FLAC','x264','Hoàn thành']
 keywords: ['Maris the Chojo','The Supergal','Supergal','za chō onna ( sūpā gyaru )','ザ・超女(スーパーギャル','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-06-09T13:51:00+07:00'
+lastmod: '2023-06-09T23:06:00+07:00'
 ---
 ## Tiến độ   
 Maris the Chojo. ![Maris the Chojo (1986) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
@@ -42,4 +42,5 @@ Maris the Chojo. ![Maris the Chojo (1986) - 100%](https://progress-bar.dev/100?t
 - Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
 - Phim có rẩt nhiều easter egg của các phim/tuyện khác như Star War, Hàm Cá mập cùng với Cameo của các nhân vật từ truyện khác do [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) sáng tác.
 - Để tránh bị dính bản quyền với nhân vật "Supergirl" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo ở U.S.
+- Người lồng tiếng cho Maris chính là [Koyama Mami](https://anidb.net/creator/407), bà cũng là người lồng tiếng cho Big Mom (One Piece), Balalaika (Black Lagoon), Nữ hoàng Serenity (Sailor Moon), Popuko (Pop Team Epic),...
 > Chúc mọi người xem phim vui vẻ! 🙂

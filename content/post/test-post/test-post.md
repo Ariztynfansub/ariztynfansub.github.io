@@ -1,66 +1,27 @@
 ---
-title: "Arknights - IS-EX-8 Normal Mode & Challenge Mode"
-date: 2023-06-01T22:47:00+07:00
-description: "Chỉ là clip mình clear Stage IS-EX-8 của Game Arknights của event Il Siracusano"
+title: "Cảm nhận về Maris the Chojo"
+date: 2023-06-09T22:45:00+07:00
+description: "Nghèo đúng là cái tội mà!"
 slug: "test-post"
-image: cover-arknights-is-ex-8-normal-mode-and-challenge-mode.webp
-categories: Gaming
-tags: ['Arknights','Il Siracusano']
+image: cover-blog-maris-the-chojo.webp
+categories: Blog
+tags: ['Anime','Cảm nhận']
 draft: true
 ---
-## Đôi lời  
-Module của các op trong clip đều là lv 3.
-## IS-EX-8 - Broken Rain - Normal Mode  
-{{< youtube pHXu77O7_Qs >}}  
-## IS-EX-8 - Broken Rain - Challenge Mode  
-Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
-{{< youtube LL6i3oXys6A >}}  
-> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
-
-## Tiến độ   
-Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
-## Thông tin phim   
-![Maris the Chojo Vietsub](maris-the-chojo.webp)  
-**Tên phim:** Maris the Chojo | The Supergal | Supergal | za chō onna ( sūpā gyaru ) | ザ・超女(スーパーギャル)   
-**Số tập:** 1 OVA  
-**Studio:** Pierrot   
-**Năm phát hành:** 1986   
-**Nội dung:** Maris là một người thuộc chủng tộc Thanatosian tị nạn sau khi hành tinh quê nhà đã bị phá huỷ. Dù có một người cha nghiện rượu và một người mẹ khờ nhwung vấn đề lớn nhất của cô lại chính là sức mạnh gấp 6 lần người Trái Đất của mình do là một Thanatosian. Sức mạnh + sự xui rủi đã khiến bất cứ thứ gì cô ấy đụng vào thì cũng đều hư hoặc vỡ nát cả. Nên cô luôn sống trong nợ nầng, chưa kể bất kỳ nhiệm vụ nào cô tham gia theo chỉ định của Đội Tuần tra Không gian Xuyên Thiên hà đều chỉ khiến hầu bao của cô thâm hụt nhiều hơn vì đền bù tổn thất gây ra. Nhưng may mắn là cơ hội đổi đời của cô cũng đã tới, khi được chỉ định đi giải cứu Koganemaru một anh chàng sexy, siêu giàu bị bắt cóc. Với lòng biết ơn khôn xiết của mình anh ta nhất định sẽ kết hôn với cô => cô sẽ không còn phải sống trong nỗi lo tài chính. (dịch từ [Anidb](https://anidb.net/anime/1035))  
-**Nhân sự:** Ariztyno   
-**Nguồn phim:** Dịch từ eng sub [[Orphan]](https://nyaa.si/view/1400827)     
-**Định dạng & thông số:**      
-1 Tập OVA: [LD 480p x264 10bit FLAC][Softsub].mkv  
-## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Maris-za-Chojo/archive/refs/heads/main.zip) (chưa cập nhật)  
-## Ending
-" Binbo'86 " được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
-{{< youtube rf5o0i2tg2M >}}
-## Thông tin bên lề  
-- Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
-- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo.
-> Chúc mọi người xem phim vui vẻ! 🙂
-
----
+Nguồn ảnh cover bài đăng (đã cố tìm page của artist gốc nhưng với quả chữ ký đó thì tôi chịu): [pinterest](https://co.pinterest.com/pin/715790934511982175/)  
 ## Đôi lời
-Lại là một bộ anime của những năm 80 mà mình dịch. Khác với mấy bộ trước mình dịch được ra mắt ở cùng thập kỷ này thì bộ này khá là family friendly. Đùa thôi chứ nó cũng có mấy cảnh ecchi (không che) (độ bạo thì vẫn nhẹ hơn High School DxD). Do tên phim khá dài nên mình sẽ gọi tắt nó là Ciruit Angel cho ngắn.   
-## Sơ lược về Ciruit Angel: Ketsui no Starting Grid   
-Bộ phim đưa ta theo chân Mariko, một cô gái mạnh mẽ mới học cấp 3, là một người có tài năng lái mô tô phân khối lớn (cụ thể là loại 250cc). Trong một lần đi phượt (cho hoa mỹ chứ thực ra trong phim là đi du ngoạn suối nước nóng) thì tài năng của Mariko vô tình lọt vào mắt xanh của Sho một gã công tử ăn chơi, đua xe nhà giàu, khi người. Thế không biết vì lý do gì gã quyết định cà khịa (gạ đua, cướp đồ,k quấy rối các kiểu) Mariko, đỉnh điểm là khiến Keiichi, bạn thơ ấu của Mariko xém ngắm gà khoả thân. Tức giận và muốn trả thù Sho vì thái độ khi người của hắn, nên Mariko đã chấp nhận đua với hắn trong một cuộc đua 1 chọi 1 chính thức.    
+Mình tốn 2 tuần mới có thể hoàn thành việc dịch bộ này do bận việc upload anime rồi đùng một cái mới bị covid nữa chứ. Nay tạm thời là hết sốt rồi nên mới quởn viết bài này sau khi đã update link download cho Maris the Chojo xong.  
+## Sơ lược về Maris the Chojo   
+OVA `Maris the Chojo` có nguồn gốc từ oneshot của [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) tác giả của `Ranma ½` và `Inuyasha`. Tựa tiếng Anh gốc của phim lẽ ra sẽ là `Supergal` nhưng vì sợ dính lùm xùm bản quyền về tên của nhân vật `Supergirl` của Warner Bros nên anime mới lấy tên là `Maris the Chojo` - `Maris Siêu phàm`. Đại khái thì câu chuyện xoay quanh Maris, một cô gái người Thanatos thuộc Đội Tuần tra Không gian Xuyên Thiên hà. Cô luôn phải sống trong khó khăn về tài chính khi phải gòng gánh người cha bợm nhậu và người mẹ khờ khạo, cũng như những khoảng nợ mà cô cùng hai người họ gây ra khi vô tình phá huỷ đồ đạc của công do thứ sức mạnh người Thanatos của họ. Do phải luôn khốn khổ vì chuyện tiền bạc, nên khi được giao nhiệm vụ giải cứu Koganemaru một anh chàng đẹp trai giàu có, nhà hành tinh phố bố làm to, cô vô cùng phấn khích khi cơ hội thoát nghèo cuối cùng cũng tới. Cô ảo tưởng rằng nếu mình giải cứu Koganemaru thì anh ta sẽ cưới mình và cô sẽ chính thức thoát cái nghèo.
 ## Cảm nhận về nội dung   
-Chà nếu mấy người hoạt động phong trào nữ quyền mà xem được phim này thì chắc sẽ thích lắm đây. Nội dung Circuit Angel chuẩn chỉ nữ nhân tự cường đứng lên đòi công bằng thế này cơ mà. Nói thế thôi chứ Circuit Angel sẽ khiến bạn thấy Cringe như mấy bộ phim nữ quyền nói chung đâu. Cốt truyện phim tuy ngắn nhưng đã khai thác rất tốt những khía cạnh tốt của Mariko, qua đó truyền tải những thông điệp ý nghĩa, như là:
-- Không bỏ cuộc, không khuất phục trước nghịch cảnh, những kẻ bẩn tính.
-- Biết quan tâm, lắng nghe và thấu hiểu người khác.
-- Sức mạnh của sự cố gắng, niềm tin, tình bạn, tình cảm gia đình...  
-
-Ngoài ra phim còn có vài điểm sáng khác như là:
-- Xây dựng phản diện tốt (vừa trái ngược nhưng cũng tương đồng với nhân vật chính diện Mariko)
-- Animation hài hước của Wansuke (chú chó của Mariko).
+Đọc xong phần sơ lược thì chắc bạn cũng phần nào hình dung được tông màu chủ đạo của bộ anime này sẽ là `hài hước` rồi nhỉ? Ừ đúng rồi đấy, bộ phim xoay quanh một chủ đề rất chi là gần gũi mà hầu như ai cũng có thể hiểu được, chính là `Nghèo`, và câu chuyện hài nào thì cũng cần có nạn nhân nên theo chân Maris, cô gái xấu số nghèo khổ, ngập trong nợ nầng và hành trình theo đuổi cái ảo tưởng `Lấy chồng giàu` phải nói là vô cùng giải trí, hài hước. Xuyên suốt bộ phim ta sẽ được quan sát biểu cảm Maris thay đổi liên tục từ hi vọng rồi đến thất vọng, từ đau đớn đến chập nhận, nguyền rủa cuộc đời (coi đến kết phim thì bạn sẽ hiểu). Giúp cho hình ảnh Maris trở nên gần gũi hơn với người xem và giúp ta cảm thông được những khó khăn mà cô đang gặp phải. Dĩ nhiên phim không chỉ đơn giản là để cười trên cái nghèo của người khác, mà bên cạnh đó phim cũng gửi gấm những thông điệp về lòng hiếu thảo, cũng như nổi khổ gánh nặng của những đứa con phải ra đời bươn chải, kiếm tiền phụ giúp cha mẹ, khát vọng đổi đời.   
+Nên tóm lại thì về mặc nội dung dù là một bộ phim hài dựa trên `Cái tội của việc nghèo`, nhưng cái hài được diễn đạt trong phim lại `không mang tính giễu cợt` mà nó khiến cảm thấy giống như cười trong chấp nhận hơn hay giống như thiên hạ hay gọi là `cười trừ` ấy. Và phim cũng mang theo nhiều thông điệp mà mình nghĩ rằng chúng chưa bao giờ là lỗi thời hay đúng hơn là nó ngày càng hiện hữu rõ ràng hơn trong xã hội ngày nay, như `lòng hiếu thảo, gánh nặng tài chính của người trẻ, khát vọng thoát nghèo`.  
 ## Cảm nhận về nhân vật  
-Mình sẽ chỉ tập trung nói về mấy nhân vật mà mình cảm thấy có sức ảnh hưởng lớn tới nội dung bộ phim ở phần này thôi.
-### Mariko  
-Ngay từ nội dung phim thì ta đã biết được Mariko đã là một cô gái có cá tính mạnh mẽ rồi. Chứ con gái mà lái mô tô ở cái thời 80 ở một đất nước như Nhật Bản thì chắc chắn không phải loại chân yếu tay mềm. Cô có tay lái cứng nhất trong số mấy đứa bạn của mình, có lẽ vì điều đó mà cô có phần kiêu ngạo, nhưng điều này chỉ thể hiện trong lúc lái xe thôi. Nhưng ngoài những mặc cá tính đó ra cô cũng có những đặc điểm của một đứa con gái bình thường như hay xấu hổ, thuỳ mị nế na (chí ít là khi cô ấy không lái xe 😏) cũng như khá chú trọng vẻ bề ngoài của mình. Một phần dẫn đến việc cô có cá tính mạnh mẽ như vậy là đến từ việc cô mất mẹ (có vẻ là từ nhỏ) và phải chung sống với một người cha khá nghiêm khắc, cộng với việc thiếu sự ảnh hưởng từ mẹ. Điều đó được thể hiện qua lời thoại của cô như sau:  
-{{< quote author="Mariko" source="Circuit Angel: Ketsui no Starting Grid - OVA" url="#">}}
-Chẳng phải hồi con còn nhỏ ba đã dặn con là nếu đánh nhau thì đừng về nhà nếu thua đó sao?!
+### Maris  
+![Maris](blog-m-d-geist-1-geist.webp)  
+Đúng như tựa tiếng Nhật gốc `za chō onna ( sūpā gyaru )` thì Maris thật sự có tính cách của một `Gyaru` nếu đặt vào bối cảnh những năm 80 của Nhật Bản khi slogan của một nhãn hiệu quần Jeanne Gal, trong giới Gyaru là `“Tôi không thể sống mà thiếu đàn ông”`. Cô ăn mặc rất sành điệu vào kỳ nghỉ phép và làm tiền từ lũ đàn ông háo sắc bằng cách `chặt chém` họ thông qua dịch vụ `taxi người` của mình. Và dĩ nhiên khi con mồi đã lọt bẫy thì cô liền giở giọng gian hồ chợ búa để đe doạ mấy gã đàn ông xấu số + Murphy quảng cáo cô là một người Thanatos (mạnh gấp 6 lần người Trái Đất) thì con mồi chỉ có nước nôn tiền ra thôi. Đủ để thấy cô là một người có cá tính mạnh mẽ, không ngại va chạm. Đúng như ông bà ta từng nói `Bần cùng sanh đạo tặc` Ngay từ mở đầu phim ta đã thấy được sự bất tiện trong sức mạnh của cô rồi. Nếu bạn để ý thì Maris có đeo một cái kẹp tóc có hình `¥` cho thấy rằng cô rất yêu tiền
+{{< quote author="Maris" source="Maris the Chojo - OVA" url="#">}}
+Nghèo đúng là cái tội mà!
 {{< /quote >}}
 Nuôi dạy kiểu đó thì chẳng trách sao mà Mariko lại khá gan lì, mạnh mẽ như vậy. Cũng chính vì vậy nên cô không ngần ngại tập luyện bất chấp việc nó sẽ khiến ngoại hình của mình bớt nữ tính chỉ để có thể đánh bại Sho. Và động lực để cô phấn đấu cho điều đó không đến từ sự ích kỷ của bản thân cô mà nó xuất phát từ `lẽ phải` hay `công lý` trong cô khi phải chứng kiến sự ngang ngược của Sho. Có thể thấy sự đa dạng trong con người của Mariko đã giúp nhân vật của cô trở nên rất thú vị (có cả ưu điểm, lẫn nhược điểm), và không bị một màu hoặc "nam tính" quá mức, xứng đáng là một tấm gương về công lý đáng để ta noi theo.
 ### Sho 
@@ -103,9 +64,45 @@ Không hiểu sao nhưng khi coi mình cảm thấy Circuit Angel khá tương �
 > Nhìn chung thì nhược điểm của phim có thể được giải quyết nếu họ thêm kinh phí để tăng thời lượng của phim lên.
 ## Kết luận
 Nếu bạn thích Car (của Disney) hoặc mấy anime shonen kiểu nhân vật chính tập luyện rồi đánh bại phản diện, thì đây sẽ là bộ phim giải trí ngắn đáng để xem vì thời lượng nó chỉ tầm 40 phút. Nhưng lưu ý nó có vài cảnh ecchi (không che) nên không phù hợp cho con nít coi đâu. Điểm số thì mình sẽ cho nó là 6.5/10, và sẽ là 7/10 nếu nó giải quyết được nhược điểm kể trên.  
-## Link đến Anime Circuit Angel: Ketsui no Starting Grid do mình dịch
-[link](https://ariztynfansub.github.io/p/circuit-angel-ketsui-no-starting-grid/).
+## Link đến Anime Maris the Chojo do mình dịch
+[link](https://ariztynfansub.github.io/p/maris-the-chojo/).
 > Cảm ơn các bạn đã đọc bài blog của mình! 🙂
+
+---
+## Đôi lời  
+Module của các op trong clip đều là lv 3.
+## IS-EX-8 - Broken Rain - Normal Mode  
+{{< youtube pHXu77O7_Qs >}}  
+## IS-EX-8 - Broken Rain - Challenge Mode  
+Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
+{{< youtube LL6i3oXys6A >}}  
+> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
+---  
+## Tiến độ   
+Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+## Thông tin phim   
+![Maris the Chojo Vietsub](maris-the-chojo.webp)  
+**Tên phim:** Maris the Chojo | The Supergal | Supergal | za chō onna ( sūpā gyaru ) | ザ・超女(スーパーギャル)   
+**Số tập:** 1 OVA  
+**Studio:** Pierrot   
+**Năm phát hành:** 1986   
+**Nội dung:** Maris là một người thuộc chủng tộc Thanatosian tị nạn sau khi hành tinh quê nhà đã bị phá huỷ. Dù có một người cha nghiện rượu và một người mẹ khờ nhwung vấn đề lớn nhất của cô lại chính là sức mạnh gấp 6 lần người Trái Đất của mình do là một Thanatosian. Sức mạnh + sự xui rủi đã khiến bất cứ thứ gì cô ấy đụng vào thì cũng đều hư hoặc vỡ nát cả. Nên cô luôn sống trong nợ nầng, chưa kể bất kỳ nhiệm vụ nào cô tham gia theo chỉ định của Đội Tuần tra Không gian Xuyên Thiên hà đều chỉ khiến hầu bao của cô thâm hụt nhiều hơn vì đền bù tổn thất gây ra. Nhưng may mắn là cơ hội đổi đời của cô cũng đã tới, khi được chỉ định đi giải cứu Koganemaru một anh chàng sexy, siêu giàu bị bắt cóc. Với lòng biết ơn khôn xiết của mình anh ta nhất định sẽ kết hôn với cô => cô sẽ không còn phải sống trong nỗi lo tài chính. (dịch từ [Anidb](https://anidb.net/anime/1035))  
+**Nhân sự:** Ariztyno   
+**Nguồn phim:** Dịch từ eng sub [[Orphan]](https://nyaa.si/view/1400827)     
+**Định dạng & thông số:**      
+1 Tập OVA: [LD 480p x264 10bit FLAC][Softsub].mkv  
+## Download  
+**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Maris-za-Chojo/archive/refs/heads/main.zip) (chưa cập nhật)  
+## Ending
+" Binbo'86 " được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
+{{< youtube rf5o0i2tg2M >}}
+## Thông tin bên lề  
+- Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
+- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo.
+> Chúc mọi người xem phim vui vẻ! 🙂
+
+---
 
 ## Spotify markdown short code  
 My mix tape  
