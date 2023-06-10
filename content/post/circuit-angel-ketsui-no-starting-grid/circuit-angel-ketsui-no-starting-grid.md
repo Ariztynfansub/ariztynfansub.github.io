@@ -22,7 +22,7 @@ Circuit Angel: Ketsui no Starting Grid. ![Circuit Angel: Ketsui no Starting Grid
 **Nguồn phim:** Dịch từ eng sub [[U-Q]](https://secretninjaempire.wordpress.com/category/circuit-angel/)   
 **Nguồn Kara Effect:** [Ndzora kodo](https://www.youtube.com/watch?v=PfZwJlqHosY&pp=ygUJTkRaT1JBIDE5)  
 **Định dạng & thông số:**      
-1 Tập OVA: [DVD 480p 8bit PCM][Softsub].mkv  
+1 Tập OVA: [VHS 480p 8bit PCM][Softsub].mkv  
 ## Download  
 **Download:** [1 Tập OVA ](https://terabox.com/s/16vMD6TQL2E8_JVwUNmNVBg).  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Circuit-Angel-Ketsui-no-Starting-Grid/archive/refs/heads/main.zip)  

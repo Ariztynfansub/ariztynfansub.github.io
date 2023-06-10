@@ -1,16 +1,14 @@
 ---
 title: "Cảm nhận về Maris the Chojo"
-date: 2023-06-09T22:45:00+07:00
+date: 2023-06-10T14:20:28+07:00
 description: "Nghèo đúng là cái tội mà!"
-slug: "test-post"
 image: cover-blog-maris-the-chojo.webp
 categories: Blog
 tags: ['Anime','Cảm nhận']
-draft: true
 ---
-Nguồn ảnh cover bài đăng (đã cố tìm page của artist gốc nhưng với quả chữ ký đó thì tôi chịu): [pinterest](https://co.pinterest.com/pin/715790934511982175/)  
+Nguồn ảnh cover bài đăng (đã cố tìm page của artist gốc nhưng với quả chữ ký ngoằn nghèo đó thì tôi chịu): [pinterest](https://co.pinterest.com/pin/715790934511982175/)  
 ## Đôi lời
-Mình tốn 2 tuần mới có thể hoàn thành việc dịch bộ này do bận việc upload anime rồi đùng một cái mới bị covid nữa chứ. Nay tạm thời là hết sốt rồi nên mới quởn viết bài này sau khi đã update link download cho Maris the Chojo xong.  
+Mình tốn 2 tuần mới có thể hoàn thành việc dịch bộ này do bận việc upload anime rồi đùng một cái mới bị covid nữa chứ 😷. Nay tạm thời là hết sốt rồi nên mới quởn viết bài này sau khi đã update link download cho Maris the Chojo xong.  
 ## Sơ lược về Maris the Chojo   
 OVA `Maris the Chojo` có nguồn gốc từ oneshot của [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) tác giả của `Ranma ½` và `Inuyasha`. Tựa tiếng Anh gốc của phim lẽ ra sẽ là `Supergal` nhưng vì sợ dính lùm xùm bản quyền về tên của nhân vật `Supergirl` của Warner Bros nên anime mới lấy tên là `Maris the Chojo` - `Maris Siêu phàm`. Đại khái thì câu chuyện xoay quanh Maris, một cô gái người Thanatos thuộc Đội Tuần tra Không gian Xuyên Thiên hà. Cô luôn phải sống trong khó khăn về tài chính khi phải gòng gánh người cha bợm nhậu và người mẹ khờ khạo, cũng như những khoảng nợ mà cô cùng hai người họ gây ra khi vô tình phá huỷ đồ đạc của công do thứ sức mạnh người Thanatos của họ. Do phải luôn khốn khổ vì chuyện tiền bạc, nên khi được giao nhiệm vụ giải cứu Koganemaru một anh chàng đẹp trai giàu có, nhà hành tinh phố bố làm to, cô vô cùng phấn khích khi cơ hội thoát nghèo cuối cùng cũng tới. Cô ảo tưởng rằng nếu mình giải cứu Koganemaru thì anh ta sẽ cưới mình và cô sẽ chính thức thoát cái nghèo.
 ## Cảm nhận về nội dung   
@@ -89,90 +87,4 @@ Một anh chàng đẹp trai, giàu có, vô cùng tự tin (cũng phải thôi 
 Tóm lại thì Maris the Chojo là một OVA hài hước và vô cùng giải trí với nội dung khá dễ xem với tất cả mọi người, cùng những cảnh hành động bắt mắt (cơ mà nên lưu ý là nó có cảnh tắm nude của Maris) vì chủ đề gây cười chủ yếu đến từ `cái nghèo`, thứ khá gần gũi cuộc sống chúng ta và cuộc chiến giữa những người cùng khổ nhằm đạt đến ước mơ như nhau thì lúc nào cũng thú vị cả. Bên cạnh đó nó còn phản ánh hình ảnh của lớp người trẻ trong xã hội hiện đại khi phải cố gắng làm việc trong áp lực để kiếm tiền giúp đỡ cha mẹ (dù phải công nhân bố mẹ của Maris coi bộ không thấu hiểu con mình là mấy - chắc do plot rồi). Nên nếu bạn có tầm 50 phút mà chẳng biết gì để coi giải trí mà không cần xài não nhiều quá thì cứ coi OVA này. 
 ## Link đến Anime Maris the Chojo do mình dịch
 [link](https://ariztynfansub.github.io/p/maris-the-chojo/).
-> Cảm ơn các bạn đã đọc bài blog của mình! 🙂
-
----
-## Đôi lời  
-Module của các op trong clip đều là lv 3.
-## IS-EX-8 - Broken Rain - Normal Mode  
-{{< youtube pHXu77O7_Qs >}}  
-## IS-EX-8 - Broken Rain - Challenge Mode  
-Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
-{{< youtube LL6i3oXys6A >}}  
-> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
----  
-## Tiến độ   
-Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
-## Thông tin phim   
-![Maris the Chojo Vietsub](maris-the-chojo.webp)  
-**Tên phim:** Maris the Chojo | The Supergal | Supergal | za chō onna ( sūpā gyaru ) | ザ・超女(スーパーギャル)   
-**Số tập:** 1 OVA  
-**Studio:** Pierrot   
-**Năm phát hành:** 1986   
-**Nội dung:** Maris là một người thuộc chủng tộc Thanatosian tị nạn sau khi hành tinh quê nhà đã bị phá huỷ. Dù có một người cha nghiện rượu và một người mẹ khờ nhwung vấn đề lớn nhất của cô lại chính là sức mạnh gấp 6 lần người Trái Đất của mình do là một Thanatosian. Sức mạnh + sự xui rủi đã khiến bất cứ thứ gì cô ấy đụng vào thì cũng đều hư hoặc vỡ nát cả. Nên cô luôn sống trong nợ nầng, chưa kể bất kỳ nhiệm vụ nào cô tham gia theo chỉ định của Đội Tuần tra Không gian Xuyên Thiên hà đều chỉ khiến hầu bao của cô thâm hụt nhiều hơn vì đền bù tổn thất gây ra. Nhưng may mắn là cơ hội đổi đời của cô cũng đã tới, khi được chỉ định đi giải cứu Koganemaru một anh chàng sexy, siêu giàu bị bắt cóc. Với lòng biết ơn khôn xiết của mình anh ta nhất định sẽ kết hôn với cô => cô sẽ không còn phải sống trong nỗi lo tài chính. (dịch từ [Anidb](https://anidb.net/anime/1035))  
-**Nhân sự:** Ariztyno   
-**Nguồn phim:** Dịch từ eng sub [[Orphan]](https://nyaa.si/view/1400827)     
-**Định dạng & thông số:**      
-1 Tập OVA: [LD 480p x264 10bit FLAC][Softsub].mkv  
-## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Maris-za-Chojo/archive/refs/heads/main.zip) (chưa cập nhật)  
-## Ending
-" Binbo'86 " được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
-{{< youtube rf5o0i2tg2M >}}
-## Thông tin bên lề  
-- Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
-- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo.
-> Chúc mọi người xem phim vui vẻ! 🙂
-
----
-
-## Spotify markdown short code  
-My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
-llllsnkenfnew.
-## Progress bar mardown
-![50%](https://progress-bar.dev/50)
-
-![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
-
-![Progress](https://progress-bar.dev/28/?title=progress)
-https://progress-bar.dev/28/?title=progress
-
-![Progress](https://progress-bar.dev/58/)
-https://progress-bar.dev/58/
-
-![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
-
-![Progress](https://progress-bar.dev/91/)
-https://progress-bar.dev/91/
-
-![Progress](https://progress-bar.dev/91/?title=done)
-https://progress-bar.dev/91/?title=done
-
-![Progress](https://progress-bar.dev/7/?scale=10&title=mark&suffix=X)
-https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
-
-![Progress](https://progress-bar.dev/420/?scale=500&title=funds&width=200&color=babaca&suffix=$)
-https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
-
-Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io    
-
-## Sơ lược   
-Các team đã sử dụng để clear Torron Mine lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
-## Team 1 (02-05-2023)
-### Level 1 Team    
-![torron mine team 1 level 1 02-05-2023 22:18 pm](torron-mine-team-1-level-1-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/6Mq0IVs" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}
-### Level 8 Team
-![torron mine team 1 level 8 02-05-2023 22:18 pm](torron-mine-team-1-level-8-02-05-2023-22-18.webp)
-{{< raw_html >}} 
-<p style="text-align: center;"><a class="link" href="https://imgur.com/9rfG30Y" target="_blank" rel="noopener">Nguồn HD</a></p>
-{{< /raw_html >}}   
-
-
-> Xoá draft: true để test trên localhost
+> Cảm ơn các bạn đã đọc bài blog của mình! 😏
