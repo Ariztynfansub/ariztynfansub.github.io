@@ -2,6 +2,7 @@
 title: "Cảm nhận về Maris the Chojo"
 date: 2023-06-10T14:20:28+07:00
 description: "Nghèo đúng là cái tội mà!"
+slug: "blog-maris-the-chojo"
 image: cover-blog-maris-the-chojo.webp
 categories: Blog
 tags: ['Anime','Cảm nhận']
