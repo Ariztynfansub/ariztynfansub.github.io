@@ -7,6 +7,7 @@ image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Đang tiến hành']
 keywords: ['Harbour Light Story: Fashion Lala yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
+lastmod: '2023-06-12T21:45:00+07:00'
 ---
 ## Tiến độ   
 Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
@@ -16,13 +17,13 @@ Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori
 **Số tập:** 1 OVA  
 **Studio:** Studio Pierrot   
 **Năm phát hành:** 1988   
-**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho em gái của mình, Shuri, để giúp em ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
+**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho em gái của mình, Shuri, để giúp Chị ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
 **Định dạng & thông số:**      
 1 Tập OVA: [LD 480p x264 10bit AAC][Softsub].mkv  
 ## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
+**Download:** [1 Tập OVA ](https://terabox.com/s/1d4x6CdTNSYHvR7V22AYpPQ). (chưa cập nhật)  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Harbour-Light-Story-Fashion-Lala-Yori/archive/refs/heads/main.zip) (chưa cập nhật)  
 ## Song
 {{< raw_html >}}  
@@ -48,5 +49,5 @@ Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori
 - Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
 - [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.
 - Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
-> Chúc mọi người xem phim vui vẻ! 🙂
+> Chúc mọi người xem phim vui vẻ! 🙂 Sau khi dịch xong bộ này mình sẽ dịch TV-Series `Mahou no Stage Fancy Lala` luôn nên nhớ hóng nhé! 😘
 

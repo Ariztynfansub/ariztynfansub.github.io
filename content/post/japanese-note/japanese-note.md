@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-05T22:19:00+07:00'
+lastmod: '2023-06-12T21:45:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -87,5 +87,10 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |以外|Igai|Không ngờ, bất ngờ, không tính/bàn/kể đến, ngoại lệ/trừ|
 |速やか|Sumiyaka|Nhanh nhất có thẻ, tốc độ vào, ngay lập tức, trôi chảy nhất có thể|
 |作戦|Sakusen|Kế hoạch, chiến dịch, chiến lược|
+|市長|Shichō|thị trưởng|
+|愚図|Guzu|Đần, thiếu quyết đoán|
+|布地|Nunoji|Vải vóc (nói chung)|
+|反物|Tanmono|Miếng vải, đồ tiêu dùng khô, đồ làm từ vải vóc, tấm màng (cửa sổ)|
+|織物|Orimono|vải may (bằng máy may), vải dệt|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
