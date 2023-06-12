@@ -45,7 +45,6 @@ Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori
 "Twilight Dream | トワイライト★ドリーム" được trình bày bởi [Komori Manami](https://anidb.net/creator/26262)  
 {{< youtube 69AKqKyD4wA >}}  
 ## Thông tin bên lề  
-- 
 - OVA này còn là tiền đề để Studio Pierrot làm bộ anime `Mahou no Stage Fancy Lala` (gồm 26 tập) sau này. Và anime `Mahou no Stage Fancy Lala` cũng được chuyển thể thành manga bởi `Kasuga Rurika`.
 - Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
 - [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.
