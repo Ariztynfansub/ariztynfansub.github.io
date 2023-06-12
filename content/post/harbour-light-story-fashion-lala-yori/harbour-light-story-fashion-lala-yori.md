@@ -10,7 +10,7 @@ keywords: ['Harbour Light Story: Fashion Lala yori','Fashion Lala: The Story of 
 lastmod: '2023-06-12T22:41:00+07:00'
 ---
 ## Tiến độ   
-Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 27%](https://progress-bar.dev/27%?title=tiến-độ)  
+Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 27%](https://progress-bar.dev/27?title=tiến-độ)  
 ## Thông tin phim   
 ![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
 **Tên phim:** Harbour Light Story: Fashion Lala yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
