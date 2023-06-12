@@ -7,10 +7,10 @@ image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Đang tiến hành']
 keywords: ['Harbour Light Story: Fashion Lala yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-06-12T21:45:00+07:00'
+lastmod: '2023-06-12T22:41:00+07:00'
 ---
 ## Tiến độ   
-Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 27.9%](https://progress-bar.dev/27.9%?title=tiến-độ)  
 ## Thông tin phim   
 ![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
 **Tên phim:** Harbour Light Story: Fashion Lala yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
@@ -45,6 +45,7 @@ Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori
 "Twilight Dream | トワイライト★ドリーム" được trình bày bởi [Komori Manami](https://anidb.net/creator/26262)  
 {{< youtube 69AKqKyD4wA >}}  
 ## Thông tin bên lề  
+- 
 - OVA này còn là tiền đề để Studio Pierrot làm bộ anime `Mahou no Stage Fancy Lala` (gồm 26 tập) sau này. Và anime `Mahou no Stage Fancy Lala` cũng được chuyển thể thành manga bởi `Kasuga Rurika`.
 - Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
 - [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.

@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-12T21:45:00+07:00'
+lastmod: '2023-06-12T22:41:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -92,5 +92,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |布地|Nunoji|Vải vóc (nói chung)|
 |反物|Tanmono|Miếng vải, đồ tiêu dùng khô, đồ làm từ vải vóc, tấm màng (cửa sổ)|
 |織物|Orimono|vải may (bằng máy may), vải dệt|
+|好み次第|Konomi shidai|tuỳ thích, tuỳ ý|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
