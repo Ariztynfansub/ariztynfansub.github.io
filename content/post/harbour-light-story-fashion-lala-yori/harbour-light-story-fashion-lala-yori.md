@@ -1,23 +1,23 @@
 ---
 title: "Harbour Light Story: Fashion Lala Yori"
 date: 2023-06-11T11:40:54+07:00
-description: "Anime Harbour Light Story: Fashion Lala yori LD Vietsub"
+description: "Anime Harbour Light Story: Fashion Lala Yori LD Vietsub"
 slug: "harbour-light-story-fashion-lala-yori"
 image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Đang tiến hành']
-keywords: ['Harbour Light Story: Fashion Lala yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
+keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 lastmod: '2023-06-12T22:41:00+07:00'
 ---
 ## Tiến độ   
-Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 27%](https://progress-bar.dev/27?title=tiến-độ)  
+Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 27%](https://progress-bar.dev/27?title=tiến-độ)  
 ## Thông tin phim   
 ![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
-**Tên phim:** Harbour Light Story: Fashion Lala yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
+**Tên phim:** Harbour Light Story: Fashion Lala Yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
 **Số tập:** 1 OVA  
 **Studio:** Studio Pierrot   
 **Năm phát hành:** 1988   
-**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho em gái của mình, Shuri, để giúp Chị ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
+**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
 **Định dạng & thông số:**      
@@ -30,7 +30,7 @@ Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori
 <figure align="center">{{< /raw_html >}}
 ![Harbour Light Story from Fashion LaLa ORIGINAL SOUNDTRACK](harbour-light-story-from-fashion-lala-original-soundtrack.webp)  
 {{< raw_html >}}  
-<figcaption>Cover album ost của Harbour Light Story: Fashion Lala yori | <a class="link" href="https://vgmdb.net/album/43823" target="_blank" rel="noopener">(nguồn ảnh)</a>.</figcaption>
+<figcaption>Cover album ost của Harbour Light Story: Fashion Lala Yori | <a class="link" href="https://vgmdb.net/album/43823" target="_blank" rel="noopener">(nguồn ảnh)</a>.</figcaption>
 </figure>{{< /raw_html >}}
 ### Opening
 "Destiny Light (Unmei no Hikari) | DESTINY LIGHT(運命の光)" được trình bày bởi ca sĩ [Masuda Naomi](https://anidb.net/creator/26261)  
