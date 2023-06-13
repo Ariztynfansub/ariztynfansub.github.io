@@ -7,10 +7,10 @@ image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Đang tiến hành']
 keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-06-12T22:41:00+07:00'
+lastmod: '2023-06-13T13:00:00+07:00'
 ---
 ## Tiến độ   
-Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 27%](https://progress-bar.dev/27?title=tiến-độ)  
+Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 54%](https://progress-bar.dev/54?title=tiến-độ)  
 ## Thông tin phim   
 ![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
 **Tên phim:** Harbour Light Story: Fashion Lala Yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
