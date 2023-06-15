@@ -10,7 +10,7 @@ keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of 
 lastmod: '2023-06-13T13:00:00+07:00'
 ---
 ## Tiến độ   
-Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 79%](https://progress-bar.dev/79?title=tiến-độ)  
+Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 97%](https://progress-bar.dev/97?title=tiến-độ)  
 ## Thông tin phim   
 ![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
 **Tên phim:** Harbour Light Story: Fashion Lala Yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
@@ -20,11 +20,15 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 **Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
+**Nguồn Kara Effect:**   
+- Opening: [Ndzora Kodo](https://www.youtube.com/watch?v=PfZwJlqHosY)   
+- Ending: [Ndzora Kodo](https://www.youtube.com/watch?v=PfZwJlqHosY)   
+
 **Định dạng & thông số:**      
 1 Tập OVA: [LD 480p x264 10bit AAC][Softsub].mkv  
 ## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/s/1d4x6CdTNSYHvR7V22AYpPQ). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Harbour-Light-Story-Fashion-Lala-Yori/archive/refs/heads/main.zip) (chưa cập nhật)  
+**Download:** [1 Tập OVA ](https://terabox.com/s/1d4x6CdTNSYHvR7V22AYpPQ).  
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Harbour-Light-Story-Fashion-Lala-Yori/archive/refs/heads/main.zip)  
 ## Song
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
