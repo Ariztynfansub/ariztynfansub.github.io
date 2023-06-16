@@ -7,7 +7,7 @@ image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Hoàn thành']
 keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-06-13T13:00:00+07:00'
+lastmod: '2023-06-16T15:46:00+07:00'
 ---
 ## Tiến độ   
 Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
@@ -17,7 +17,7 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 **Số tập:** 1 OVA  
 **Studio:** Studio Pierrot   
 **Năm phát hành:** 1988   
-**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
+**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong Cuộc thi Nữ hoàng Disco. Nhưng rồi khi người Cô của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
 **Nguồn Kara Effect:**   
