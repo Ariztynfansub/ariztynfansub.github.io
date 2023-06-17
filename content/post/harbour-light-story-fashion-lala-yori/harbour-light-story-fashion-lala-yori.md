@@ -17,7 +17,7 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 **Số tập:** 1 OVA  
 **Studio:** Studio Pierrot   
 **Năm phát hành:** 1988   
-**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong Cuộc thi Nữ hoàng Disco. Nhưng rồi khi người Cô của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
+**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc đầm cho cô chị họ của mình, Shuri, để giúp Chị ấy dành chiến thắng trong Cuộc thi Nữ hoàng Disco. Nhưng rồi khi người Cô của Miho đã làm hỏng chiếc đầm, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
 **Nguồn Kara Effect:**   
