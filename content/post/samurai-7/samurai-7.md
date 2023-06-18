@@ -4,7 +4,7 @@ date: 2023-04-01T16:18:51+07:00
 description: Anime Samurai 7 BD Vietsub
 image: cover-samurai-7.webp
 categories: Anime
-tags: ['Anime','BD','1080p','10bit','AAC 5.1','x265','Hoàn thành']
+tags: ['Anime','TV Series','BD','1080p','10bit','AAC 5.1','x265','Hoàn thành']
 keywords: ['Samurai 7','Samurai Sebun','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 ---
 ## Thông tin phim   

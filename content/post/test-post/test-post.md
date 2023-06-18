@@ -1,13 +1,80 @@
 ---
-title: "Cảm nhận về Harbour Light Story: Fashion Lala yori"
-date: 2023-06-16T22:04:00+07:00
-description: "Ma pháp sư thiếu nữ dùng khả năng thiết kế thời trang và nhảy múa để đem lại hoà bình"
+title: "Mahou no Stage Fancy Lala"
+date: 2023-06-18T22:45:00+07:00
+description: "Anime Mahou no Stage Fancy Lala  / Fancy Lala / Cô bé Lala DVD Vietsub"
 slug: "test-post"
-image: cover-blog-harbour-light-story-fashion-lala-yori.webp
-categories: Blog
-tags: ['Anime','Cảm nhận']
+image: cover-mahou-no-stage-fancy-lala.webp
+categories: Anime
+tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Hoàn thành']
+keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 draft: true
 ---
+## Tiến độ   
+Mahou no Stage Fancy Lala. ![Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+## Thông tin phim   
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Mahou no Stage Fancy Lala Vietsub](mahou-no-stage-fancy-lala.webp)
+{{< raw_html >}}  
+<figcaption><a class="link" href="https://www.deviantart.com/sol-ran/art/Mahou-no-stage-Fancy-Lala-790046825" target="_blank" rel="noopener">(nguồn ảnh gốc để làm cái hình này: Sol-Ran Deviantart)</a>.</figcaption>
+</figure>{{< /raw_html >}}
+**Tên phim:** Mahou no Stage Fancy Lala | Fancy Lala | Mahō no sutēji fanshīrara | 魔法のステージ ファンシーララ   
+**Số tập:** 26 Tập (TV Series)  
+**Studio:** Studio Pierrot   
+**Năm phát hành:** 1998   
+**Nội dung:** Shinohara Miho là một cô bé 9 tuổi sáng dạ của một nhà cổ sinh vật học với ước mơ là trở nên nổi tiếng vào một ngày nào đó. Rồi một hôm nọ, cô bỗng nhiên trở thành người sở hữu của những thứ mà cô tưởng là thú bông, nhưng hoá ra chúng lại là hai chú khủng long phép thuật, Pigu và Mogu. Và cô được chúng ban cho năng lực để biến những bộ quần áo cô vẽ ra trở thành hiện thực. Đồng thời cô còn có thể biến hình thành Lala - phiên bản tuổi teen của mình. Nhờ vậy cô có thể thực hiện ước mơ của mình và bắt đầu sống như một idol, nhưng liệu trở nên nổi tiếng có đáng so với vô số rắc rối đang chờ đợi phía trước không? [(Nguồn anidb)](https://anidb.net/anime/246)  
+**Nhân sự:** Ariztyno   
+**Nguồn phim:** Dịch từ eng sub của rip từ DVD gốc và mux/encode lại bởi [[Exiled-Destiny]](https://nyaa.si/view/1397573)     
+**Nguồn Kara Effect:**  
+- Opening: [Ndzora Kodo](https://www.youtube.com/watch?v=PfZwJlqHosY)   
+- Ending: [Ndzora Kodo](https://www.youtube.com/watch?v=PfZwJlqHosY)
+
+**Định dạng & thông số:**      
+26 Tập (TV Series): [DVD 480p x264 8bit AC3][Softsub].mkv  
+## Download  
+**Download:** [26 Tập (TV Series)](https://terabox.com/s/1NGPsyLJ1mKTV4DnC46tfQw). (chưa cập nhật)  
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Mahou-no-Stage-Fancy-Lala/archive/refs/heads/main.zip) (chưa cập nhật)  
+## Song
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![FANCY La La Final BEST SELECTION](FANCY-La-La-Final-BEST-SELECTION.webp)  
+{{< raw_html >}}  
+<figcaption>Cover album ost của Mahou no Stage Fancy Lala | <a class="link" href="https://vgmdb.net/album/52619" target="_blank" rel="noopener">(nguồn ảnh)</a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Opening
+"LaLaLa: Kuchibiru ni Negai o Komete | LaLaLa~くちびるに願いをこめて" được trình bày bởi [Oomori Reiko](https://anidb.net/creator/6095).  
+{{< youtube nviuxxg3w8I >}}  
+### Insert song  
+"Haru-iro Photograph | 春色フォトグラフ" được trình bày bởi [Kusachi Fumie](https://anidb.net/creator/6093)  
+{{< youtube 7msvM3_OhbU >}}  
+
+"Transparence | トランス・パランス" được trình bày bởi [Oomori Reiko](https://anidb.net/creator/6095).  
+{{< youtube QkAkaMX4Smg >}} 
+
+"Jewelry Love | JEWELRY LOVE" được trình bày bởi [Ishikawa Hideo](https://anidb.net/creator/258).  
+{{< youtube _wiO06x52Lc >}}  
+### Ending  
+"Shiawase na Kibun | しあわせな き・ぶ・ん" được trình bày bởi [Oomori Reiko](https://anidb.net/creator/6095).  
+{{< youtube s0uVyH_Rd_k >}}  
+## Thông tin bên lề  
+- `Mahou no Stage Fancy Lala` là được sinh ra dựa trên ý tưởng gốc của một OVA cũ của Studio Pierrot với tựa là [Harbour Light Story: Fashion Lala yori](https://anidb.net/anime/3530) (mình cũng đã dịch bộ này rồi click vào [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) để xem nó) cũng kể về một cô bé tên Miho được ban cho năng lực để trở thành phiên bản trưởng thành hơn của chính mình và cũng thiết kế quần áo, có khác thì nằm ở cốt truyện và bối cảnh nhân vật thôi.
+- [Oomori Reiko](https://anidb.net/creator/6095) người hát Opening, Ending và `Haru-iro Photograph (Audition Version)` trong `Ep 5` cũng như bài `Transparence` trong `Ep 9` cũng là người lồng tiếng cho `Lala` lẫn `Shinohara Miho` trong phim. 
+- [Kusachi Fumie](https://anidb.net/creator/6093) người hát bài `Haru-iro Photograph` cũng là người lồng tiếng cho `Yumeno Miki` trong phim.
+- [Ishikawa Hideo](https://anidb.net/creator/258) người hát bài `Jewelry Love` cũng là người lòng tiếng cho nhân vật `Aikawa Hiroya` trong phim.
+- Nghe đâu ngày xưa bộ này từng được chiếu trên TV vào 11 giờ trưa của kênh VTV3 hồi 2004, 2005 dưới cái tên `Cô bé Lala`. 
+- Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
+> Chúc mọi người xem phim vui vẻ! 🙂
+
+---
+## Đôi lời  
+Module của các op trong clip đều là lv 3.
+## IS-EX-8 - Broken Rain - Normal Mode  
+{{< youtube pHXu77O7_Qs >}}  
+## IS-EX-8 - Broken Rain - Challenge Mode  
+Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
+{{< youtube LL6i3oXys6A >}}  
+> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
+---  
 Nguồn ảnh cover bài đăng: [onlyshojo.com/fancylalafashionlala.htm](http://www.onlyshojo.com/fancylalafashionlala.htm)  
 ## Đôi lời
 Do bộ anime lần này có nội dung ngắn nên khó tránh khỏi việc spoil nên bạn có thể click và [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) để đến bài đăng chứa link tải phim coi phim luôn, rồi quay lại đây đọc tiếp. Đây là bộ thứ hai mang chủ đề ma pháp sư thiếu nữ mà mình dịch sau [Yume Tsukai](https://ariztynfansub.github.io/p/yume-tsukai/) và lý do pick dịch bộ này của mình là vì nội dung của nó có phần `lạ` so với các bộ cùng thể loại ma pháp sư thiếu nữ khác. Lẽ ra đã có thể hoàn thành bộ này sớm hơn tầm 2 ngày nhưng vì oải vụ dịch lyric quá nên tới hôm 16/06/2023 mới dịch xong và upload.  
@@ -101,83 +168,6 @@ Nếu phải cho điểm thì mình sẽ chấm là 5.5/10 (ờ vì viết cái 
 ## Link đến Anime Harbour Light Story: Fashion Lala yori do mình dịch
 [link](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/).
 > Cảm ơn các bạn đã đọc bài blog của mình! 🙂
-
----
-## Tiến độ   
-Harbour Light Story: Fashion Lala yori. ![Harbour Light Story: Fashion Lala yori (1988) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
-## Thông tin phim   
-![harbour-light-story-fashion-lala-yori Vietsub](harbour-light-story-fashion-lala-yori.webp)  
-**Tên phim:** Harbour Light Story: Fashion Lala yori | Fashion Lala: The Story of the Harbour Light | hābāraito monogatari [ sutōrī ] fasshonrara yori | ハーバーライト物語 [ストーリー] ファッションララより   
-**Số tập:** 1 OVA  
-**Studio:** Studio Pierrot   
-**Năm phát hành:** 1988   
-**Nội dung:** Miho 11 tuổi với ước mơ là trở thành một nhà thiết kế thời trang để may một chiếc váy cho em gái của mình, Shuri, để giúp em ấy dành chiến thắng trong cuộc thi Nữ hoàng Khiêu vũ. Nhưng rồi khi người dì của Miho đã làm hỏng chiếc váy, thì may mắn là các Tiên Fanland đã nghe được thấy lời cầu nguyện của Miho và ban cho cô ấy năng lực giúp cô biến (hình) thành Lala 16 tuổi một nhà thiết kế thời trang hàng đầu (Ờ đây là thể loại cô gái phép thuật đấy) (dịch từ và thêm mắm muối từ [Anidb](https://anidb.net/anime/3530)  
-**Nhân sự:** Ariztyno   
-**Nguồn phim:** Dịch từ eng sub của HnK đã được OCR và edit lại bởi [[TODO]](https://nyaa.si/view/1397573)     
-**Định dạng & thông số:**      
-1 Tập OVA: [LD 480p x264 10bit AAC][Softsub].mkv  
-## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Harbour-Light-Story-Fashion-Lala-Yori/archive/refs/heads/main.zip) (chưa cập nhật)  
-## Song
-{{< raw_html >}}  
-<figure align="center">{{< /raw_html >}}
-![Harbour Light Story from Fashion LaLa ORIGINAL SOUNDTRACK](harbour-light-story-from-fashion-lala-original-soundtrack.webp)  
-{{< raw_html >}}  
-<figcaption>Cover album ost của Harbour Light Story: Fashion Lala yori | <a class="link" href="https://vgmdb.net/album/43823" target="_blank" rel="noopener">(nguồn ảnh)</a>.</figcaption>
-</figure>{{< /raw_html >}}
-### Opening
-"Destiny Light (Unmei no Hikari) | DESTINY LIGHT(運命の光)" được trình bày bởi ca sĩ [Masuda Naomi](https://anidb.net/creator/26261)  
-{{< youtube RJHnx2_PHuk>}}  
-### Insert song  
-"Dreamin' | DREAMIN'" được trình bày bởi [Kosugi Yasuo](https://anidb.net/creator/4154/)  
-{{< youtube Ru_tLUyADg4 >}}  
-
-"Niji no Princess | 虹のプリンセス" được trình bày bởi [Komori Manami](https://anidb.net/creator/26262)  
-{{< youtube uylOCMsBxb0 >}}  
-### Ending  
-"Twilight Dream | トワイライト★ドリーム" được trình bày bởi [Komori Manami](https://anidb.net/creator/26262)  
-{{< youtube 69AKqKyD4wA >}}  
-## Thông tin bên lề  
-- OVA này còn là tiền đề để Studio Pierrot làm bộ anime `Mahou no Stage Fancy Lala` (gồm 26 tập) sau này. Và anime `Mahou no Stage Fancy Lala` cũng được chuyển thể thành manga bởi `Kasuga Rurika`.
-- Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
-- [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.
-- Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
-> Chúc mọi người xem phim vui vẻ! 🙂
-
----
-## Đôi lời  
-Module của các op trong clip đều là lv 3.
-## IS-EX-8 - Broken Rain - Normal Mode  
-{{< youtube pHXu77O7_Qs >}}  
-## IS-EX-8 - Broken Rain - Challenge Mode  
-Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
-{{< youtube LL6i3oXys6A >}}  
-> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
----  
-## Tiến độ   
-Maris the Chojo. ![Maris the Chojo (1986) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
-## Thông tin phim   
-![Maris the Chojo Vietsub](maris-the-chojo.webp)  
-**Tên phim:** Maris the Chojo | The Supergal | Supergal | za chō onna ( sūpā gyaru ) | ザ・超女(スーパーギャル)   
-**Số tập:** 1 OVA  
-**Studio:** Pierrot   
-**Năm phát hành:** 1986   
-**Nội dung:** Maris là một người thuộc chủng tộc Thanatosian tị nạn sau khi hành tinh quê nhà đã bị phá huỷ. Dù có một người cha nghiện rượu và một người mẹ khờ nhwung vấn đề lớn nhất của cô lại chính là sức mạnh gấp 6 lần người Trái Đất của mình do là một Thanatosian. Sức mạnh + sự xui rủi đã khiến bất cứ thứ gì cô ấy đụng vào thì cũng đều hư hoặc vỡ nát cả. Nên cô luôn sống trong nợ nầng, chưa kể bất kỳ nhiệm vụ nào cô tham gia theo chỉ định của Đội Tuần tra Không gian Xuyên Thiên hà đều chỉ khiến hầu bao của cô thâm hụt nhiều hơn vì đền bù tổn thất gây ra. Nhưng may mắn là cơ hội đổi đời của cô cũng đã tới, khi được chỉ định đi giải cứu Koganemaru một anh chàng sexy, siêu giàu bị bắt cóc. Với lòng biết ơn khôn xiết của mình anh ta nhất định sẽ kết hôn với cô => cô sẽ không còn phải sống trong nỗi lo tài chính. (dịch từ [Anidb](https://anidb.net/anime/1035))  
-**Nhân sự:** Ariztyno   
-**Nguồn phim:** Dịch từ eng sub [[Orphan]](https://nyaa.si/view/1400827)     
-**Định dạng & thông số:**      
-1 Tập OVA: [LD 480p x264 10bit FLAC][Softsub].mkv  
-## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Maris-za-Chojo/archive/refs/heads/main.zip) (chưa cập nhật)  
-## Ending
-" Binbo'86 " được trình bày bởi cặp idol [Kirara to Urara](https://anidb.net/creator/16051).  
-{{< youtube rf5o0i2tg2M >}}
-## Thông tin bên lề  
-- Anime có nguồn gốc từ oneshot đăng trên tạp chí Shōnen Sunday và sau này được xuất bản trong tuyển tập [Rumic World](https://en.wikipedia.org/wiki/Rumic_World) của nữ tác giả [Rumiko Takahashi](https://vi.wikipedia.org/wiki/Takahashi_Rumiko) (tác giả của Ranma ½ và Inuyasha).
-- Để tránh bị dính bản quyền với nhân vật "Supergal" của Warner Bros nên phim đã được sửa tên lại và xuất bản là Maris the Chojo.
-> Chúc mọi người xem phim vui vẻ! 🙂
 
 ---
 

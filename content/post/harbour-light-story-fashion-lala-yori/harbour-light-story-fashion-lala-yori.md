@@ -7,7 +7,7 @@ image: cover-harbour-light-story-fashion-lala-yori.webp
 categories: Anime
 tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Hoàn thành']
 keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-06-16T15:46:00+07:00'
+lastmod: '2023-06-18T19:17:00+07:00'
 ---
 ## Tiến độ   
 Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
@@ -27,7 +27,7 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 **Định dạng & thông số:**      
 1 Tập OVA: [LD 480p x264 10bit AAC][Softsub].mkv  
 ## Download  
-**Download:** [1 Tập OVA ](https://terabox.com/s/1d4x6CdTNSYHvR7V22AYpPQ).  
+**Download:** [1 Tập OVA](https://terabox.com/s/1d4x6CdTNSYHvR7V22AYpPQ).  
 **Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Harbour-Light-Story-Fashion-Lala-Yori/archive/refs/heads/main.zip)  
 ## Song
 {{< raw_html >}}  
@@ -50,8 +50,9 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 {{< youtube 69AKqKyD4wA >}}  
 ## Thông tin bên lề  
 - OVA này còn là tiền đề để Studio Pierrot làm bộ anime `Mahou no Stage Fancy Lala` (gồm 26 tập) sau này. Và anime `Mahou no Stage Fancy Lala` cũng được chuyển thể thành manga bởi `Kasuga Rurika`.
+- Mình có dịch `Mahou no Stage Fancy Lala` nên click vào [đây](https://ariztynfansub.github.io/p/mahou-no-stage-fancy-lala/) để xem nếu bạn muốn
 - Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
 - [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.
 - Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
-> Chúc mọi người xem phim vui vẻ! 🙂 Sau khi dịch xong bộ này mình sẽ dịch TV-Series `Mahou no Stage Fancy Lala` luôn nên nhớ hóng nhé! 😘
+> Chúc mọi người xem phim vui vẻ! 🙂 Sau khi dịch xong bộ này mình sẽ dịch TV Series `Mahou no Stage Fancy Lala` luôn nên nhớ hóng nhé! 😘
 

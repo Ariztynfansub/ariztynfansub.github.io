@@ -4,7 +4,7 @@ date: 2023-04-01T16:15:06+07:00
 description: Anime Bakuretsu Tenshi BD Vietsub
 image: cover-bakuretsu-tenshi.webp
 categories: Anime
-tags: ['Anime','OVA','BD','1080p','720p','480p','10bit','FLAC','AC3','x264','x265','Hoàn thành']
+tags: ['Anime','TV Series','OVA','BD','1080p','720p','480p','10bit','FLAC','AC3','x264','x265','Hoàn thành']
 keywords: ['Bakuretsu Tenshi','Burst Angel','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 ---
 ## Thông tin phim   
