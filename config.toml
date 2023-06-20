@@ -71,9 +71,9 @@ rssFullContent = true
 	[params.comments.giscus]
 		repo = "Ariztynfansub/ariztynfansub.github.io"
 		repoID = "R_kgDOJRqpPQ"
-		category = "General"
+		category = "Comments"
 		categoryID = "DIC_kwDOJRqpPc4CVex2"
-		mapping = "pathname"
+		mapping = "og:title"
 		reactions-enabled = 1
 		emitMetadata = 0
 		lightTheme = "light_high_contrast"
