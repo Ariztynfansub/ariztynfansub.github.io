@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-20T23:32:00+07:00'
+lastmod: '2023-06-21T14:33:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -84,7 +84,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |要塞|yōsai|Pháo đài|
 |鬱陶しい|uttōshī|Buồn tẻ, u ám, khó chịu, phiền toái|
 |使い捨て|tsukaisute|tốt thí, có thể vứt bỏ, đồ bỏ đi|
-|以外|Igai|Không ngờ, bất ngờ, không tính/bàn/kể đến, ngoại lệ/trừ|
+|以外|Igai|Không ngờ, bất ngờ, không tính/bàn/kể đến, ngoại lệ/trừ, ngược lại|
 |速やか|Sumiyaka|Nhanh nhất có thẻ, tốc độ vào, ngay lập tức, trôi chảy nhất có thể|
 |作戦|Sakusen|Kế hoạch, chiến dịch, chiến lược|
 |市長|Shichō|thị trưởng|
@@ -94,6 +94,11 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |織物|Orimono|vải may (bằng máy may), vải dệt|
 |好み次第|Konomi shidai|tuỳ thích, tuỳ ý|
 |華麗なる|Kareinaru|lộng lẫy|
-|きゅっ|Ki~yu~tsu/kyutsu|Chặt/chật, cảm giác khít)
+|きゅっ|Ki~yu~tsu/kyutsu|Chặt/chật, cảm giác khít)|
+|タレント|tarento|người nổi tiếng trong làng giải trí (từ mượn tiếng Anh Talent)(là những người hoạt náo gây kịch tính cho chương trình, không cần phải thật sự có tài năng gì)|
+|上がっちゃって|agacchatte|lo lắng, đông cứng, đầu óc hoàng toàn trống rỗng, cứng đờ (vai, gáy), căng thẳng (thần kinh)|
+|しどろもどろ|shidoro modoro|ấp úng, quá căng thẳng nên nói lắp bắp, hoặc xỉn rồi nên nói năng chả ra từ gì cả|
+|万引|Manbiki|trộm đồ trong cửa hàng|
+|要りません|irimasen|không cần| 
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
