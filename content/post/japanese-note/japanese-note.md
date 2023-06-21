@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-21T14:33:00+07:00'
+lastmod: '2023-06-21T21:10:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -99,6 +99,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |上がっちゃって|agacchatte|lo lắng, đông cứng, đầu óc hoàng toàn trống rỗng, cứng đờ (vai, gáy), căng thẳng (thần kinh)|
 |しどろもどろ|shidoro modoro|ấp úng, quá căng thẳng nên nói lắp bắp, hoặc xỉn rồi nên nói năng chả ra từ gì cả|
 |万引|Manbiki|trộm đồ trong cửa hàng|
-|要りません|irimasen|không cần| 
+|要りません|irimasen|không cần|
+|明日/あす|Asu/Ashita|Ngày mai| 
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
