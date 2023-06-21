@@ -7,11 +7,12 @@ image: cover-mahou-no-stage-fancy-lala.webp
 categories: Anime
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Đang tiến hành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
+lastmod: '2023-06-21T23:22:00+07:00'
 ---
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
 ## Tiến độ   
-Mahou no Stage Fancy Lala. ![Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+- EP 1 - Mahou no Stage Fancy Lala. ![Mahou no Stage Fancy Lala (1998) - 81%](https://progress-bar.dev/81?title=tiến-độ)  
 ## Thông tin phim   
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}

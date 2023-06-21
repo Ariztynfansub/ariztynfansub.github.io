@@ -100,6 +100,8 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |しどろもどろ|shidoro modoro|ấp úng, quá căng thẳng nên nói lắp bắp, hoặc xỉn rồi nên nói năng chả ra từ gì cả|
 |万引|Manbiki|trộm đồ trong cửa hàng|
 |要りません|irimasen|không cần|
-|明日/あす|Asu/Ashita|Ngày mai| 
+|明日/あす|Asu/Ashita|Ngày mai|
+|roke|(location) vị trí, địa điểm, chỗ| 
+|企画な|Kikakuna|Lên kế hoạch, dự án, kế hoạch, thiết kế|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
