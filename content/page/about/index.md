@@ -37,7 +37,7 @@ Có 3 lý do:
 ### Tuyển thành viên?   
 Chưa từng nghĩ đến... lủi thủi một mình quen rồi. Cơ mà nếu là hợp tác để dịch bộ nào đó thì OK!
 ## Thông báo về hệ thống bình luận   
-> Do hệ thống bình luận **[Cusdis](https://cusdis.com/)** hồi tháng trước mới sập (mà dạo này cũng chập chờn quá, vô Dashboard load lâu thật sự). Nên giờ mình chuyển sang dùng [Giscus](https://giscus.app/vi) - để bình luận trên bài viết hoặc trang thì các bạn cần tạo tài khoản Github rồi đăng nhập nó tại ô bình luận là có thể gửi bình luận cho mình được rồi.  
+> Do hệ thống bình luận **[Cusdis](https://cusdis.com/)** hồi tháng trước (05) mới sập (mà dạo này cũng chập chờn quá, vô Dashboard load lâu thật sự). Nên giờ mình chuyển sang dùng **[Giscus](https://giscus.app/vi)** - Do đó, để bình luận trên bài viết hoặc trang thì các bạn cần tạo tài khoản Github rồi đăng nhập nó tại ô bình luận trong trang hoặc bài đăng là có thể gửi bình luận được rồi.  
 ## Liên hệ  
 - Gửi mail về đây: [ariztynfansub@gmail.com](mailto:ariztynfansub@gmail.com).
 - Facebook Fanpage: [Ariztyn-Fansub](https://www.facebook.com/AriztynFansub/).
