@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-06-23T11:40:00+07:00'
+lastmod: '2023-06-27T21:11:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -105,5 +105,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |企画な|Kikakuna|Lên kế hoạch, dự án, kế hoạch, thiết kế|
 |次回|Jikai|Lần tới|
 |それどころじゃない|Sore dokoro janai|đó không phải vấn đề, giờ không phải lúc, tôi/cậu còn có vấn đề lớn hơn chuyện này kìa, đó là thứ cuối cùng mà tối sẽ nghĩ đến|
+|目立って|Medatte|Gây nghi ngờ, nổi bật|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
