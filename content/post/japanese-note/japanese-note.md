@@ -101,7 +101,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |万引|Manbiki|trộm đồ trong cửa hàng|
 |要りません|irimasen|không cần|
 |明日/あす|Asu/Ashita|Ngày mai|
-|roke|(location) vị trí, địa điểm, chỗ| 
+|ロケ|roke|(location) vị trí, địa điểm, chỗ| 
 |企画な|Kikakuna|Lên kế hoạch, dự án, kế hoạch, thiết kế|
 |次回|Jikai|Lần tới|
 |それどころじゃない|Sore dokoro janai|đó không phải vấn đề, giờ không phải lúc, tôi/cậu còn có vấn đề lớn hơn chuyện này kìa, đó là thứ cuối cùng mà tối sẽ nghĩ đến|
