@@ -108,6 +108,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |目立って|Medatte|Gây nghi ngờ, nổi bật|
 |撮影|satsuei|buổi chụp, photo shoot|
 |急病|kyūbyō|Đột ngột ngã bệnh|
-|ぶつぶつ|butsubutsu|{{< raw_html >}}&bull; Lầm bầm, càu nhàu.<br/>&bull; Mụn nhọt, đốm, phát ban, mẩn đỏ.<br/>&bull; Bầm nhuyễn (bằng dao).<br/>&bull; Sôi máu, đun sôi.{{< /raw_html >}}
+|ぶつぶつ|butsubutsu|{{< raw_html >}}&bull; Lầm bầm, càu nhàu.<br/>&bull; Mụn nhọt, đốm, phát ban, mẩn đỏ.<br/>&bull; Bầm nhuyễn (bằng dao).<br/>&bull; Sôi máu, đun sôi.{{< /raw_html >}}|
+|真っ赤な|makkana|Đỏ tươi|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
