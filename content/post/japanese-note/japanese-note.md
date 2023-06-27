@@ -104,5 +104,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |roke|(location) vị trí, địa điểm, chỗ| 
 |企画な|Kikakuna|Lên kế hoạch, dự án, kế hoạch, thiết kế|
 |次回|Jikai|Lần tới|
+|それどころじゃない|Sore dokoro janai|đó không phải vấn đề, giờ không phải lúc, tôi/cậu còn có vấn đề lớn hơn chuyện này kìa, đó là thứ cuối cùng mà tối sẽ nghĩ đến|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
