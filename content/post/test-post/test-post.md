@@ -1,16 +1,29 @@
 ---
-title: "Mahou no Stage Fancy Lala"
-date: 2023-06-18T22:45:00+07:00
-description: "Anime Mahou no Stage Fancy Lala  / Fancy Lala / Cô bé Lala DVD Vietsub"
+title: "Final Singularity Memorial Quest"
+date: 2023-06-29T21:17:00+07:00
+description: "Fate/Grand Order - 6th Aniversary Commemorative Campaign -"
 slug: "test-post"
-image: cover-mahou-no-stage-fancy-lala.webp
-categories: Anime
+image: cover-fgo-6th-aniversary-commemorative-campaign.webp
+categories: Gaming
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Hoàn thành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 draft: true
 ---
-## Tiến độ   
-Mahou no Stage Fancy Lala. ![Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+## Đôi lời   
+Lâu quá không đánh nên timming khúc cuối hơi bị ngu, nhưng hên là XX còn sống. 😅  
+## Team + CE
+- Tamamo-no-Mae có mở append skill 2.
+- Mysterious Heroine XX Lv 100 NP4.  
+
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Final Singularity Memorial Quest](team-final-singularity-memorial-quest.webp)
+{{< raw_html >}}  
+<figcaption>Team Final Singularity Memorial Quest <a class="link" href="https://www.deviantart.com/sol-ran/art/Mahou-no-stage-Fancy-Lala-790046825" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
+## Video
+{{< youtube -BA8UGQecNA >}}
+
 ## Thông tin phim   
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
