@@ -1,5 +1,5 @@
 ---
-title: "Final Singularity Memorial Quest"
+title: "Test post"
 date: 2023-06-29T21:17:00+07:00
 description: "Fate/Grand Order - 6th Aniversary Commemorative Campaign -"
 slug: "test-post"
