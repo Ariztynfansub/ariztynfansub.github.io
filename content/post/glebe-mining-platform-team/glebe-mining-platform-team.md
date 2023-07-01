@@ -6,7 +6,7 @@ description: Arknights - Glebe Mining Platform Team
 image: glebe-mining-platform-team.webp
 categories: Gaming
 tags: ['Arknights','Stationary Security Service']
-lastmod: '2023-05-03T11:34:00+07:00'
+lastmod: '2023-07-01T23:05:00+07:00'
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear Glebe Mining Platform lấy secret medal (vượt qua tất cả 8 tầng trong một lần chơi duy nhất, không thoát ra chơi lại).
@@ -32,4 +32,16 @@ Các team đã sử dụng để clear Glebe Mining Platform lấy secret medal 
 {{< raw_html >}} 
 <p style="text-align: center;"><a class="link" href="https://imgur.com/4yYJo2H" target="_blank" rel="noopener">Nguồn HD</a></p>
 {{< /raw_html >}}  
-
+## Team 3 (01-07-2023)
+### Level 1 Team    
+![glebe mining platform team 1 level 1 01-07-2023 23:05 pm](glebe-mining-platform-team-1-level-1-01-07-2023-23-05.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/xhHDsKZ.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+### Level 8 Team
+![glebe mining platform team 1 level 8 01-07-2023 23:05 pm](glebe-mining-platform-team-1-level-8-01-07-2023-23-05.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/Yl8kxyB.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+#### Video LT-8 Long Journey
+{{< youtube -3eOWIb21Rs >}}  
