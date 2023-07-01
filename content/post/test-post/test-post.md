@@ -1,6 +1,6 @@
 ---
 title: "Test post"
-date: 2023-06-29T21:17:00+07:00
+date: 2023-07-01T10:34:00+07:00
 description: "Fate/Grand Order - 6th Aniversary Commemorative Campaign -"
 slug: "test-post"
 image: cover-fgo-6th-aniversary-commemorative-campaign.webp
@@ -186,7 +186,7 @@ Nếu phải cho điểm thì mình sẽ chấm là 5.5/10 (ờ vì viết cái 
 
 ## Spotify markdown short code  
 My mix tape  
-{{< spotify type="playlist" id="27Ilw4aEFDKPclYgv1kxxS" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
+{{< spotify type="playlist" id="5NeXqXIGLxg18YN2NMWdxr" width="100%" height="352" theme="?utm_source=generator&theme=0" >}}
 llllsnkenfnew.
 ## Progress bar mardown
 ![50%](https://progress-bar.dev/50)
