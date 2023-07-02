@@ -45,3 +45,16 @@ Các team đã sử dụng để clear Glebe Mining Platform lấy secret medal 
 {{< /raw_html >}}
 #### Video LT-8 Long Journey
 {{< youtube -3eOWIb21Rs >}}  
+## Team 4 (02-07-2023)
+### Level 1 Team    
+![glebe mining platform team 1 level 1 02-07-2023 22:38 pm](glebe-mining-platform-team-1-level-1-02-07-2023-22-38.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/TKrvXKC.jpg" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+### Level 8 Team
+![glebe mining platform team 1 level 8 02-07-2023 22:38 pm](glebe-mining-platform-team-1-level-8-02-07-2023-22-38.webp)
+{{< raw_html >}} 
+<p style="text-align: center;"><a class="link" href="https://i.imgur.com/gzwi56D.png" target="_blank" rel="noopener">Nguồn HD</a></p>
+{{< /raw_html >}}
+#### Video LT-8 Long Journey
+{{< youtube xQzDcHtpdCU >}}  
