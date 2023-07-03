@@ -1,6 +1,6 @@
 ---
 title: "Test post"
-date: 2023-07-01T10:34:00+07:00
+date: 2023-07-03T07:51:00+07:00
 description: "Fate/Grand Order - 6th Aniversary Commemorative Campaign -"
 slug: "test-post"
 image: cover-fgo-6th-aniversary-commemorative-campaign.webp
@@ -9,6 +9,11 @@ tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Hoàn thành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 draft: true
 ---
+{{< raw_html >}}
+|Ảnh|Tên & Loại của Figure|
+|---|---|
+|{{< raw_html >}}<div style="margin-left:18.89px; margin-top:9.4px"><a href="https://myfigurecollection.net/item/6588" target="_blank" rel="noopener"><img src="https://r.hpoi.net/gk/cover/s/2015/03/db1ebc6dd2564f9d873b4085ca35f1f1.jpg" width="100px" loading="lazy" alt="Black ★ Rock Shooter - 1/8 (Good Smile Company)"></a></div>{{< /raw_html >}}|{{< raw_html >}}<a class="link" href="https://myfigurecollection.net/item/6588" target="_blank" rel="noopener"><b>Black ★ Rock Shooter - 1/8 (Good Smile Company)</b></a><br/>{{< /raw_html >}} `scale Figure`, `Prepainted`|
+|{{< raw_html >}}<div style="margin-left:18.89px; margin-top:9.4px"><a href="https://myfigurecollection.net/item/6588" target="_blank" rel="noopener"><img src="https://r.hpoi.net/gk/cover/s/2015/03/db1ebc6dd2564f9d873b4085ca35f1f1.jpg" width="100px" loading="lazy" alt="Black ★ Rock Shooter - 1/8 (Good Smile Company)"></a></div>{{< /raw_html >}}|{{< raw_html >}}<a class="link" href="https://myfigurecollection.net/item/6588" target="_blank" rel="noopener"><b>Black ★ Rock Shooter - 1/8 (Good Smile Company)</b></a><br/>{{< /raw_html >}} `scale Figure`, `Prepainted`|
 ## Đôi lời   
 Lâu quá không đánh nên timming khúc cuối hơi bị ngu, nhưng hên là XX còn sống. 😅  
 ## Team + CE

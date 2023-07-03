@@ -1,0 +1,21 @@
+<!--
+Note: chạy dưới localhost thì ảnh sẽ không hiện. Để hiện thì phải ghi là url="/Ariztyn-Fansub/[ tên file ảnh].[ đuôi ảnh ]"
+còn upload/commit thì phải ghi là url="/[ tên file ảnh].[ đuôi ảnh ]"
+Parameters:
+    url - (Required) Link có đuôi là .webp / .png / .jpg / etc
+	alt - (Required) alt text cho image lấy từ url
+    caption_source - (Required) Nguồn ảnh HD/Link ảnh gốc
+	url_source - (Required) Link bào viết chứa nguồn ảnh HD/Link ảnh gốc,...
+    caption - (Required) chú thích cho ảnh
+-->
+{{ if .IsNamedParams }}
+<figure align="center">
+	<img src="{{ .Get "url" }}" loading="lazy" alt="{{ .Get "alt"}}">
+	<figcaption>{{ .Get "caption"}} <a class="link" href="{{ .Get "url_source"}}" target="_blank" rel="noopener"><b>({{ .Get "caption_source" }})</b></a>.</figcaption>
+</figure>
+{{ else }}
+<figure align="center">
+	<img src="{{ .Get 0 }}" loading="lazy" alt="{{ .Get 1}}">
+	<figcaption>{{ .Get 2 }} <a class="link" href="{{ .Get 3 }}" target="_blank" rel="noopener"><b>({{ .Get 4 }})</b></a>.</figcaption>
+</figure>
+{{ end }}
