@@ -133,7 +133,7 @@ title = "Danh mục"
 type = "tag-cloud"
 
   [params.widgets.homepage.params]
-  limit = 20
+  limit = 15
 
 [[params.widgets.page]]
 type = "toc"
