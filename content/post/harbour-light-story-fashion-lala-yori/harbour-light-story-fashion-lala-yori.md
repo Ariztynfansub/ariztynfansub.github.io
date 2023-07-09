@@ -9,6 +9,8 @@ tags: ['Anime','OVA','LD','480p','10bit','AAC','x264','Hoàn thành']
 keywords: ['Harbour Light Story: Fashion Lala Yori','Fashion Lala: The Story of the Harbour Light','hābāraito monogatari [ sutōrī ] fasshonrara yori','ハーバーライト物語 [ストーリー] ファッションララより','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 lastmod: '2023-06-18T19:17:00+07:00'
 ---
+## Đôi lời  
+Sau này Studio Pierrot đã lấy ý tưởng từ OVA này để làm nên TV Series [Mahou no Stage Fancy Lala - (mình có Vietsub bộ này nên bấm vào đây để đến bài viết đó)](https://ariztynfansub.github.io/p/mahou-no-stage-fancy-lala/).
 ## Tiến độ   
 Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori (1988) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 ## Thông tin phim   
@@ -50,7 +52,7 @@ Harbour Light Story: Fashion Lala Yori. ![Harbour Light Story: Fashion Lala Yori
 {{< youtube 69AKqKyD4wA >}}  
 ## Thông tin bên lề  
 - OVA này còn là tiền đề để Studio Pierrot làm bộ anime `Mahou no Stage Fancy Lala` (gồm 26 tập) sau này. Và anime `Mahou no Stage Fancy Lala` cũng được chuyển thể thành manga bởi `Kasuga Rurika`.
-- Mình có dịch `Mahou no Stage Fancy Lala` nên click vào [đây](https://ariztynfansub.github.io/p/mahou-no-stage-fancy-lala/) để xem nếu bạn muốn
+- Mình có dịch `Mahou no Stage Fancy Lala` nên click vào [đây](https://ariztynfansub.github.io/p/mahou-no-stage-fancy-lala/) để xem nếu bạn muốn.
 - Bài Opening `Destiny Light (Unmei no Hikari)` ngoài việc được dùng cho Opening còn được sử dụng làm Insert song cho cảnh cuối của phim.
 - [Komori Manami](https://anidb.net/creator/26262) người hát bài ending và insert song `Niji no Princess` của anime này cũng là người lồng tiếng cho nhân vật `Marie`.
 - Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
