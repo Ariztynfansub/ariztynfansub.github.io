@@ -7,15 +7,16 @@ image: cover-mahou-no-stage-fancy-lala.webp
 categories: Anime
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Đang tiến hành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-07-01T19:12:00+07:00'
+lastmod: '2023-07-09T13:32:00+07:00'
 ---
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
-## Tiến độ (2/26)  
+## Tiến độ (3/26)  
 > Vì để đảm bảo chất lượng tốt nhất, nên chỉ khi dịch xong hết 26 Ep mình mới up link down.
 - EP 1 - Mahou no Stage Fancy Lala. ![EP 1 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 - EP 2 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 3 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)  
+- EP 3 - Mahou no Stage Fancy Lala. ![EP 3 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành) 
+- EP 4 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)   
 ## Thông tin phim   
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
@@ -62,6 +63,7 @@ Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (
 "Shiawase na Kibun | しあわせな き・ぶ・ん" được trình bày bởi [Oomori Reiko](https://anidb.net/creator/6095).  
 {{< youtube s0uVyH_Rd_k >}}  
 ## Thông tin bên lề  
+- Ep 3 đoạn review Ep 4 Miho có bảo là `đi hẹn hò với ba mình.` Và tựa 	Ep 4 - `Cuộc hẹn hò đôi ngày Chủ nhật` cũng ám chỉ là `Hẹn hò` thú thật thì họ dùng từ hẹn hò cho cuộc đi chơi giữa cha và con thấy cứ kì kì thế nào ấy. Nhưng mà nếu dịch khác thì lại khiến tựa Ep 3 trong lạc quẻ nên mình quyết định dịch là hẹn hò.
 - `Mahou no Stage Fancy Lala` là được sinh ra dựa trên ý tưởng gốc của một OVA cũ của Studio Pierrot với tựa là [Harbour Light Story: Fashion Lala yori](https://anidb.net/anime/3530) (mình cũng đã dịch bộ này rồi click vào [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) để xem nó) cũng kể về một cô bé tên Miho được ban cho năng lực để trở thành phiên bản trưởng thành hơn của chính mình và cũng thiết kế quần áo, có khác thì nằm ở cốt truyện và bối cảnh nhân vật thôi.
 - [Oomori Reiko](https://anidb.net/creator/6095) người hát Opening, Ending và `Haru-iro Photograph (Audition Version)` trong `Ep 5` cũng như bài `Transparence` trong `Ep 9` cũng là người lồng tiếng cho `Lala` lẫn `Shinohara Miho` trong phim. 
 - [Kusachi Fumie](https://anidb.net/creator/6093) người hát bài `Haru-iro Photograph` cũng là người lồng tiếng cho `Yumeno Miki` trong phim.
