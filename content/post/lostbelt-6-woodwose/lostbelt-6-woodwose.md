@@ -1,5 +1,5 @@
 ---
-title: "Lostbelt 6 Woodwose"
+title: "Lostbelt No. 6 Woodwose"
 date: 2023-07-13T11:00:34+07:00
 description: "Fate/Grand Order - Lostbelt No.6 Woodwose Boss fight"
 slug: "lostbelt-6-woodwose"
