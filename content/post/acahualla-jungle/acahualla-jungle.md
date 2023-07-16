@@ -6,9 +6,13 @@ slug: "acahualla-jungle-team"
 image: cover-acahualla-jungle-team.webp
 categories: Gaming
 tags: ['Arknights','Stationary Security Service']
+lastmod: '2023-07-16T19:02:00+07:00'
 ---
 ## Sơ lược   
 Các team đã sử dụng để clear `Acahualla Jungle` lấy secret medal (vượt qua tất cả 6 tầng trong một lần chơi duy nhất, không thoát ra chơi lại hoặc thất bại bất kỳ tầng nào).
+## Danh sách secret medal
+### Secret medal (Standard mode)
+{{< image_centered_with_caption_and_source url="/acahualla-jungle-standard-secret-medal.webp" alt="Acahualla Jungle Standard Mode Secret Medal" caption="Acahualla Jungle Standard Mode Secret Medal" url_source="https://i.imgur.com/Ug7OnBM.png" caption_source="Ảnh HD">}}
 ## Đánh giá & tip pick team  
 - Mấy tầng `LT-2,LT-3,LT-4` có vẻ khó hơn so với tầng `LT-6`.
 - Vì kẻ địch di chuyển nhanh và nhiều nên ưu tiên nâng ground operator lấy `Block count` -> Xài `Defender` trong đội hình + `Gavial 6*`.
