@@ -7,7 +7,6 @@ image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
 ---
-
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
 {{< raw_html >}}  
@@ -18,4 +17,14 @@ Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama ch�
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube kfy4w-e4DyQ >}}
+## [High Difficulty] II: Master and Pupil of Light and Shadow (Revival)
+Arash max append skill 2.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Master and Pupil of Light and Shadow (Revival)](2-master-and-pupil-light-and-shadow.webp)
+{{< raw_html >}}  
+<figcaption>Team II: Master and Pupil of Light and Shadow (Revival) <a class="link" href="https://i.imgur.com/aC2DLPp.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube ZxAU6B5XY0g >}}
 
