@@ -27,4 +27,20 @@ Arash max append skill 2.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube ZxAU6B5XY0g >}}
+## [High Difficulty] III: Parade of Hassans (Revival)
+Thay Irisviel bằng bất kỳ ser nào có xoá debuff hoặc heal cũng được.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Parade of Hassans (Revival)](3-parade-of-hassans.webp)
+{{< raw_html >}}  
+<figcaption>Team III: Parade of Hassans (Revival) <a class="link" href="https://i.imgur.com/4i1YMQm.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
+## [High Difficulty] IV: Demonic Dragon Descends Again (Revival)
+Arash max append skill 2. Các ser khác max skill lv 10.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Demonic Dragon Descends Again (Revival)](4-demonic-dragon-descends-again.webp)
+{{< raw_html >}}  
+<figcaption>Team IV: Demonic Dragon Descends Again (Revival) <a class="link" href="https://i.imgur.com/TAFnecy.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
 
