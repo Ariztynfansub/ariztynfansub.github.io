@@ -6,7 +6,7 @@ slug: "japanese-note"
 image: japanese-note.webp
 categories: Guide
 tags: ['Tiếng Nhật']
-lastmod: '2023-07-05T21:48:00+07:00'
+lastmod: '2023-08-02T22:21:00+07:00'
 ---
 ## Đôi lời   
 Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải, để tiện tra cứu sau này nếu gặp lại khi dịch phim. Tính chính xác của chúng thì tuỳ theo thông tin mình google được với bối cảnh nó được sử dụng trong anime mà mình thấy.   
@@ -113,5 +113,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |春休み|haruyasumi|kì nghỉ xuân|
 |ナンパ|nanpa|{{< raw_html >}}&bull; Nói chuyện ngọt, dân chơi, tay sát gái.<br/>&bull; Cưa cẩm phụ nữ/làm quen phụ nữ => thường vì mục tiêu thường là tình dục (ngoài đường).<br/>&bull; Buổi tiệc vừa, vừa.<br/>&bull; Câu chuyện xã hội, chuyên đề xã hội (trên báo).<br/>&bull; Người trade gấu (đại loại sơ đồ chứng khoán gấu là tụt giá và những người trade gấu là những người sẽ đợi những lúc như vầy để vào lệnh giao dịch), con gấu trong (Chứng khoáng).{{< /raw_html >}}|
 |女優|Joyu|Nữ diễn viên|
+|納得いかない|Nattokuikanai|không thuyết phục/chấp nhận/bỏ quả/có chuyện đó, vô lý|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
