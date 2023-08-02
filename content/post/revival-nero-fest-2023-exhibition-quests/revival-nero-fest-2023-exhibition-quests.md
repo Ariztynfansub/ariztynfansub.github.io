@@ -43,4 +43,24 @@ Arash max append skill 2. Các ser khác max skill lv 10.
 {{< raw_html >}}  
 <figcaption>Team IV: Demonic Dragon Descends Again (Revival) <a class="link" href="https://i.imgur.com/TAFnecy.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
 </figure>{{< /raw_html >}}
+## [High Difficulty] V: Mother of All Warriors (Revival)
+Wave 3 hạ 2 con mob A và B rồi Nuke NP của Shiki vào Boss là xong. Không cần Arash với Habetrot cũng được.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Mother of All Warriors (Revival)](5-mother-of-all-warriors.webp)
+{{< raw_html >}}  
+<figcaption>Team V: Mother of All Warriors (Revival) <a class="link" href="https://i.imgur.com/Uj1arCY.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube t2J91PLNfD4 >}}
+## [High Difficulty] VI: The Oldest Hero (Revival)
+Double Castoria + Nagao Kagetora.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team The Oldest Hero (Revival)](6-the-oldest-hero.webp)
+{{< raw_html >}}  
+<figcaption>Team VI: The Oldest Hero (Revival) <a class="link" href="https://i.imgur.com/gzX67xr.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube 0ddLOxcouDU >}}
 
