@@ -63,4 +63,12 @@ Double Castoria + Nagao Kagetora.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube 0ddLOxcouDU >}}
+## [High Difficulty] VII Grand Finale: All-Out Battle + Prototype (Revival)
+Có Muramasa thì 2 trận này sẽ dễ thở hơn. Xài Morgan + skill issue nên kết quả là bay 1 lệnh mỗi trận.  
+{{< raw_html >}}  
+<figure align="center">{{< /raw_html >}}
+![Team Grand Finale: All-Out Battle + Prototype (Revival)](7-grand-finale-all-out-battle-prototype.webp)
+{{< raw_html >}}  
+<figcaption>Team VII: Grand Finale: All-Out Battle + Prototype (Revival) <a class="link" href="https://i.imgur.com/xyug0Py.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
+</figure>{{< /raw_html >}}
 

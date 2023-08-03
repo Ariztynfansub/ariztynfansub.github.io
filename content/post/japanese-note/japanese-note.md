@@ -114,5 +114,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |ナンパ|nanpa|{{< raw_html >}}&bull; Nói chuyện ngọt, dân chơi, tay sát gái.<br/>&bull; Cưa cẩm phụ nữ/làm quen phụ nữ => thường vì mục tiêu thường là tình dục (ngoài đường).<br/>&bull; Buổi tiệc vừa, vừa.<br/>&bull; Câu chuyện xã hội, chuyên đề xã hội (trên báo).<br/>&bull; Người trade gấu (đại loại sơ đồ chứng khoán gấu là tụt giá và những người trade gấu là những người sẽ đợi những lúc như vầy để vào lệnh giao dịch), con gấu trong (Chứng khoáng).{{< /raw_html >}}|
 |女優|Joyu|Nữ diễn viên|
 |納得いかない|Nattokuikanai|không thuyết phục/chấp nhận/bỏ quả/có chuyện đó, vô lý|
+|取りつかれた|Toritsukareta|bị nhập/ám|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
