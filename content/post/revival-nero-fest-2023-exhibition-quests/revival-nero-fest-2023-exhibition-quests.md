@@ -6,6 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
+lastmod: '2023-08-04T20:17:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -71,4 +72,14 @@ Có Muramasa thì 2 trận này sẽ dễ thở hơn. Xài Morgan + skill issue 
 {{< raw_html >}}  
 <figcaption>Team VII: Grand Finale: All-Out Battle + Prototype (Revival) <a class="link" href="https://i.imgur.com/xyug0Py.png" target="_blank" rel="noopener"><b>(Ảnh HD)</a></b>.</figcaption>
 </figure>{{< /raw_html >}}
+## [High Difficulty] Exhibition I: Super Regeneration Muscle (Revival)
+MHXX NP4 lv 100 và dàn xe.  
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team Super Regeneration Muscle (Revival)](exhibition-1-super-regeneration-muscle-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition I: Super Regeneration Muscle (Revival) <a class="link" href="https://i.imgur.com/zvLyNXm.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube 3szuHiHNrsc >}}
 
