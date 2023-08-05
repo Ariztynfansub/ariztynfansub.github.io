@@ -115,5 +115,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |女優|Joyu|Nữ diễn viên|
 |納得いかない|Nattokuikanai|không thuyết phục/chấp nhận/bỏ quả/có chuyện đó, vô lý|
 |取りつかれた|Toritsukareta|bị nhập/ám|
+|ちょくちょく|chokuchoku|lâu lâu, đôi khi, đôi lúc|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 

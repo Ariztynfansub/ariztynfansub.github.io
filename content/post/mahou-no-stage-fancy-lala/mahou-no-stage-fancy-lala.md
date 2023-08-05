@@ -7,11 +7,11 @@ image: cover-mahou-no-stage-fancy-lala.webp
 categories: Anime
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Đang tiến hành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-07-29T23:18:00+07:00'
+lastmod: '2023-08-06T23:00:00+07:00'
 ---
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
-## Tiến độ (6/26)  
+## Tiến độ (7/26)  
 > Vì để đảm bảo chất lượng tốt nhất, nên chỉ khi dịch xong hết 26 Ep mình mới up link down.
 - EP 1 - Mahou no Stage Fancy Lala. ![EP 1 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 - EP 2 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
@@ -19,7 +19,8 @@ Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (
 - EP 4 - Mahou no Stage Fancy Lala. ![EP 4 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 - EP 5 - Mahou no Stage Fancy Lala. ![EP 5 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 - EP 6 - Mahou no Stage Fancy Lala. ![EP 6 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 7 - Mahou no Stage Fancy Lala. ![EP 7 - Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)   
+- EP 7 - Mahou no Stage Fancy Lala. ![EP 7 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
+- EP 8 - Mahou no Stage Fancy Lala. ![EP 8 - Mahou no Stage Fancy Lala (1998) - 0%](https://progress-bar.dev/0?title=tiến-độ)   
 ## Thông tin phim   
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
