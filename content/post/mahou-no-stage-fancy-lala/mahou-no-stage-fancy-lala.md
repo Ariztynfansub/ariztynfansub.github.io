@@ -7,7 +7,7 @@ image: cover-mahou-no-stage-fancy-lala.webp
 categories: Anime
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Đang tiến hành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
-lastmod: '2023-08-06T23:00:00+07:00'
+lastmod: '2023-08-06T09:25:00+07:00'
 ---
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
@@ -68,6 +68,7 @@ Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (
 {{< youtube s0uVyH_Rd_k >}}  
 ## Thông tin bên lề  
 - Ep 3 đoạn review Ep 4 Miho có bảo là `đi hẹn hò với ba mình.` Và tựa 	Ep 4 - `Cuộc hẹn hò đôi ngày Chủ nhật` cũng ám chỉ là `Hẹn hò` thú thật thì họ dùng từ hẹn hò cho cuộc đi chơi giữa cha và con thấy cứ kì kì thế nào ấy. Nhưng mà nếu dịch khác thì lại khiến tựa Ep 3 trong lạc quẻ nên mình quyết định dịch là hẹn hò.
+- Con mèo ước nguyện ở Ep 7 thực chất là mèo thần tài nhưng vì nó được dùng để chứa những mảnh giấy điều ước nên Miho mới nói nó là "mèo ước nguyện."
 - `Mahou no Stage Fancy Lala` là được sinh ra dựa trên ý tưởng gốc của một OVA cũ của Studio Pierrot với tựa là [Harbour Light Story: Fashion Lala yori](https://anidb.net/anime/3530) (mình cũng đã dịch bộ này rồi click vào [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) để xem nó) cũng kể về một cô bé tên Miho được ban cho năng lực để trở thành phiên bản trưởng thành hơn của chính mình và cũng thiết kế quần áo, có khác thì nằm ở cốt truyện và bối cảnh nhân vật thôi.
 - [Oomori Reiko](https://anidb.net/creator/6095) người hát Opening, Ending và `Haru-iro Photograph (Audition Version)` trong `Ep 5` cũng như bài `Transparence` trong `Ep 9` cũng là người lồng tiếng cho `Lala` lẫn `Shinohara Miho` trong phim. 
 - [Kusachi Fumie](https://anidb.net/creator/6093) người hát bài `Haru-iro Photograph` cũng là người lồng tiếng cho `Yumeno Miki` trong phim.
