@@ -6,7 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
-lastmod: '2023-08-04T20:17:00+07:00'
+lastmod: '2023-08-06T09:20:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -82,4 +82,14 @@ MHXX NP4 lv 100 và dàn xe.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube 3szuHiHNrsc >}}
+## [High Difficulty] Exhibition II: Cursing Ootakemaru (Suzuka Gozen) (Revival)
+Morgan lv 120 np 4 và Castoria + Tammamo no Mae.  
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team Cursing Ootakemaru (Suzuka Gozen) (Revival)](exhibition-2-cursing-ootakemaru-suzuka-gozen-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition II: Cursing Ootakemaru (Suzuka Gozen) (Revival) <a class="link" href="https://i.imgur.com/iw2Ngkx.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube HxnXS4sxkS8 >}}
 
