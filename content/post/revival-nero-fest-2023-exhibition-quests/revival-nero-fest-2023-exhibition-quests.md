@@ -83,7 +83,7 @@ MHXX NP4 lv 100 và dàn xe.
 ### Video
 {{< youtube 3szuHiHNrsc >}}
 ## [High Difficulty] Exhibition II: Cursing Ootakemaru (Suzuka Gozen) (Revival)
-Morgan lv 120 np 4 và Castoria + Tammamo no Mae.  
+Morgan lv 120 np 4 và Castoria + Tamamo no Mae.  
 {{< raw_html >}}
 <figure align="center">{{< /raw_html >}}
 ![Team Cursing Ootakemaru (Suzuka Gozen) (Revival)](exhibition-2-cursing-ootakemaru-suzuka-gozen-revival.webp)
@@ -93,7 +93,7 @@ Morgan lv 120 np 4 và Castoria + Tammamo no Mae.
 ### Video
 {{< youtube HxnXS4sxkS8 >}}
 ## [High Difficulty] Exhibition III: Stellar Rainfall (Arash) (Revival)
-Morgan lv 120 np 4 và Castoria + Tammamo no Mae.  
+Castoria + Tamamo no Mae.  
 {{< raw_html >}}
 <figure align="center">{{< /raw_html >}}
 ![Team Stellar Rainfall (Arash) (Revival)](exhibition-3-stellar-rainfall-arash-revival.webp)
