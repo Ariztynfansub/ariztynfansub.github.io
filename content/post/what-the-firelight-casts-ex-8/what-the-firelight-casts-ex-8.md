@@ -12,5 +12,4 @@ Module của các op trong clip đều là lv 3.
 ## FC-EX-8 - Her Flame - Normal Mode  
 {{< youtube dltlNmetUkI >}}  
 ## FC-EX-8 - Her Flame - Challenge Mode  
-Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
 {{< youtube yBWAryhABgQ >}}  
