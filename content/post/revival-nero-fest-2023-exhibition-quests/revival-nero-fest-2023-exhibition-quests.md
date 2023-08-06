@@ -92,4 +92,14 @@ Morgan lv 120 np 4 và Castoria + Tammamo no Mae.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube HxnXS4sxkS8 >}}
+## [High Difficulty] Exhibition III: Stellar Rainfall (Arash) (Revival)
+Morgan lv 120 np 4 và Castoria + Tammamo no Mae.  
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team Stellar Rainfall (Arash) (Revival)](exhibition-3-stellar-rainfall-arash-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition III: Stellar Rainfall (Arash)) (Revival) <a class="link" href="https://i.imgur.com/p32rRpr.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube NwHFh0HNwZs >}}
 
