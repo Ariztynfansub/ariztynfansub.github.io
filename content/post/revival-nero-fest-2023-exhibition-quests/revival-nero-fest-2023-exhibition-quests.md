@@ -6,7 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
-lastmod: '2023-08-06T16:36:00+07:00'
+lastmod: '2023-08-07T19:36:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -98,8 +98,18 @@ Castoria + Tamamo no Mae.
 <figure align="center">{{< /raw_html >}}
 ![Team Stellar Rainfall (Arash) (Revival)](exhibition-3-stellar-rainfall-arash-revival.webp)
 {{< raw_html >}}
-<figcaption>Team Exhibition III: Stellar Rainfall (Arash)) (Revival) <a class="link" href="https://i.imgur.com/p32rRpr.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+<figcaption>Team Exhibition III: Stellar Rainfall (Arash) (Revival) <a class="link" href="https://i.imgur.com/p32rRpr.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube NwHFh0HNwZs >}}
+## Exhibition IV: The Brothers of Black and White (Karna & Arjuna) (Revival)
+Arash bị thiếu damage nên phải 4 turn.
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team Stellar Rainfall (Arash) (Revival)](exhibition-4-brothers-black-and-white-karna-arjuna-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition IV: The Brothers of Black and White (Karna & Arjuna) (Revival) <a class="link" href="https://i.imgur.com/k7QYWlk.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube TLXPiiezfhk >}}
 
