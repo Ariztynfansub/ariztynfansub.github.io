@@ -113,7 +113,7 @@ Arash bị thiếu damage nên phải 4 turn.
 ### Video
 {{< youtube TLXPiiezfhk >}}
 ## [High Difficulty] Exhibition V: The Last Supper (Leonardo da Vinci) (Revival)
-Mượn Muramasa. Xài hai lệnh turn cuối để buff NP của Castoria với Muramasa để vả con Sprigan. CE cụt bị để sai lẽ ra phải xài CE khác có ích hơn.
+Mượn Muramasa. Xài hai lệnh turn cuối để buff NP của Castoria với Muramasa để vả con Spriggan. CE cụt bị để sai lẽ ra phải xài CE khác có ích hơn.
 {{< raw_html >}}
 <figure align="center">{{< /raw_html >}}
 ![Team The Last Supper (Leonardo da Vinci) (Revival)](exhibition-5-last-supper-leonardo-da-vinci-revival.webp)
