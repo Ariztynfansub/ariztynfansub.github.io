@@ -6,7 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
-lastmod: '2023-08-07T19:36:00+07:00'
+lastmod: '2023-08-08T21:25:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -102,7 +102,7 @@ Castoria + Tamamo no Mae.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube NwHFh0HNwZs >}}
-## Exhibition IV: The Brothers of Black and White (Karna & Arjuna) (Revival)
+## [High Difficulty] Exhibition IV: The Brothers of Black and White (Karna & Arjuna) (Revival)
 Arash bị thiếu damage nên phải 4 turn.
 {{< raw_html >}}
 <figure align="center">{{< /raw_html >}}
@@ -112,4 +112,14 @@ Arash bị thiếu damage nên phải 4 turn.
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube TLXPiiezfhk >}}
+## [High Difficulty] Exhibition V: The Last Supper (Leonardo da Vinci) (Revival)
+Mượn Muramasa. Xài hai lệnh turn cuối để buff NP của Castoria với Muramasa để vả con Sprigan. CE cụt bị để sai lẽ ra phải xài CE khác có ích hơn.
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team The Last Supper (Leonardo da Vinci) (Revival)](exhibition-5-last-supper-leonardo-da-vinci-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition V: The Last Supper (Leonardo da Vinci) (Revival) <a class="link" href="https://i.imgur.com/1GCrMXm.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube nGG6PlIAVm4 >}}
 
