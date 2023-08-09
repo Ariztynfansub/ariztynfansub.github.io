@@ -6,7 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
-lastmod: '2023-08-08T21:25:00+07:00'
+lastmod: '2023-08-09T13:42:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -122,4 +122,14 @@ Mượn Muramasa. Xài hai lệnh turn cuối để buff NP của Castoria với
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube nGG6PlIAVm4 >}}
+## [High Difficulty] Exhibition VI: At The Abyss (First Hassan) (Revival)
+Irisviel stall buff guts liên tục để đỡ NP của King Hassan. Morgan phá break bar xong hẹo do RNG. Một lệnh để buff NP và win bằng BB (4*).  
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team At The Abyss (First Hassan) (Revival)](exhibition-6-at-the-abyss-first-hassan-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition VI: At The Abyss (First Hassan) (Revival) <a class="link" href="https://i.imgur.com/PWpxLqv.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+### Video
+{{< youtube Id3-Zs_fcAo >}}
 
