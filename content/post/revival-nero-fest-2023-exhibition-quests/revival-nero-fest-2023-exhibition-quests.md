@@ -132,4 +132,16 @@ Irisviel stall buff guts liên tục để đỡ NP của King Hassan. Morgan ph
 </figure>{{< /raw_html >}}
 ### Video
 {{< youtube Id3-Zs_fcAo >}}
+## [High Difficulty] Exhibition VII: Grand Finale: The Crimson Olympian + Encore (Revival)
+Bay một lệnh đánh Encore do skill issue với xài áo đổi người, hên là pha cuối đủ sát thương chứ lười đánh lại vãi. Nên xài áo Atlas như map thường là tốt nhất.  
+{{< raw_html >}}
+<figure align="center">{{< /raw_html >}}
+![Team Grand Finale: The Crimson Olympian + Encore (Revival)](exhibition-7-grand-finale-crimson-olympian-encore-revival.webp)
+{{< raw_html >}}
+<figcaption>Team Exhibition VII: Grand Finale: The Crimson Olympian (xài áo đổi người) + Encore (xài áo Atlas như trên hình) (Revival) <a class="link" href="https://i.imgur.com/Qrqxw86.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
+</figure>{{< /raw_html >}}
+## Video  
+{{< youtube nHTBpQ4UzH8 >}}
+## Video Encore  
+{{< youtube 5x6Ikm94G88 >}}
 
