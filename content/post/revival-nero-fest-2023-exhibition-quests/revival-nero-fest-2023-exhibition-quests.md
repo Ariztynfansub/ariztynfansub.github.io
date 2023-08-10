@@ -6,7 +6,7 @@ description: "Fate/Grand Order - Revival Nero Fest 2023 Exhibition Quests"
 image: cover-fgo-revival-nero-fest-2023-exhibition-quests.webp
 categories: Gaming
 tags: ['Fate/GO']
-lastmod: '2023-08-09T13:42:00+07:00'
+lastmod: '2023-08-10T11:55:00+07:00'
 ---
 ## [High Difficulty] I: The Twelve Labors (Revival)
 Chơi team charm là chính. Vì Euryale có bonus damage lên Male và Kama chỉ có NP 1 nên ưu tiên cho Kama cầm CE +Damage event.  
@@ -140,8 +140,8 @@ Bay một lệnh đánh Encore do skill issue với xài áo đổi người, h�
 {{< raw_html >}}
 <figcaption>Team Exhibition VII: Grand Finale: The Crimson Olympian (xài áo đổi người) + Encore (xài áo Atlas như trên hình) (Revival) <a class="link" href="https://i.imgur.com/Qrqxw86.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
 </figure>{{< /raw_html >}}
-## Video  
+## Video (Xài áo đổi người)  
 {{< youtube nHTBpQ4UzH8 >}}
-## Video Encore  
+## Video Encore  (Xài áo Atlas)
 {{< youtube 5x6Ikm94G88 >}}
 
