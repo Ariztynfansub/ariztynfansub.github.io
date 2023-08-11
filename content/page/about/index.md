@@ -53,5 +53,5 @@ Ariztyn#8241
 <figure align="center">{{< /raw_html >}}
 ![QR Momo](momo.jpg)  
 {{< raw_html >}}  
-<figcaption>Quét để donate bằng Momo.</figcaption>
+<figcaption>Quét mã QR trên để donate bằng Momo.</figcaption>
 </figure>{{< /raw_html >}}
