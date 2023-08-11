@@ -19,18 +19,18 @@ Các team đã sử dụng để clear `Under-Contruction Dossoles Plate` lấy 
 
 ## Standard Mode
 ### Team 1 (10-08-2023)  
-### Level 1 Team (10-08-2023)  
+#### Level 1 Team (10-08-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-under-construction-dossoles-plate-standard-mode-level-1.webp" alt="Team 1 Under-Contruction Dossoles Plate Standard Mode Level 1" caption="Team 1 Under-Contruction Dossoles Plate Standard Mode Level 1" url_source="https://i.imgur.com/MZ7ThB3.png" caption_source="Ảnh HD">}}
-### Level 6 Team (10-08-2023)  
+#### Level 6 Team (10-08-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-under-construction-dossoles-plate-standard-mode-level-6.webp" alt="Team 1 Under-Contruction Dossoles Plate Standard Mode Level 6" caption="Team 1 Under-Contruction Dossoles Plate Standard Mode Level 6" url_source="https://i.imgur.com/t57zF1g.png" caption_source="Ảnh HD">}}
-#### Video (LT-6)
+##### Video (LT-6)
 {{< youtube t9RMmdKXc80 >}}
 ## Challenge Mode
 ### Team 1 (11-08-2023)  
-### Level 1 Team (11-08-2023)  
+#### Level 1 Team (11-08-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-under-construction-dossoles-plate-challenge-mode-level-1.webp" alt="Team 1 Under-Contruction Dossoles Plate challenge Mode Level 1" caption="Team 1 Under-Contruction Dossoles Plate Challenge Mode Level 1" url_source="https://i.imgur.com/MZ7ThB3.png" caption_source="Ảnh HD">}}
-### Level 6 Team (11-08-2023)  
+#### Level 6 Team (11-08-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-under-construction-dossoles-plate-challenge-mode-level-6.webp" alt="Team 1 Under-Contruction Dossoles Plate challenge Mode Level 6" caption="Team 1 Under-Contruction Dossoles Plate Challenge Mode Level 6" url_source="https://i.imgur.com/adHsPYd.jpg" caption_source="Ảnh HD">}}
-#### Video (LT-6)
+##### Video (LT-6)
 {{< youtube N8_22n_QBBY >}}
 

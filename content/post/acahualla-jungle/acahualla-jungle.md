@@ -22,17 +22,17 @@ Các team đã sử dụng để clear `Acahualla Jungle` lấy secret medal (v�
 
 ## Standard Mode
 ### Team 1 (16-07-2023)  
-### Level 1 Team (16-07-2023)  
+#### Level 1 Team (16-07-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-acahualla-jungle-standard-mode-level-1.webp" alt="Team 1 Acahualla Jungle Standard Mode Level 1" caption="Team 1 Acahualla Jungle Standard Mode Level 1" url_source="https://i.imgur.com/12F8xL9.png" caption_source="Ảnh HD">}}
-### Level 6 Team (16-07-2023)  
+#### Level 6 Team (16-07-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-acahualla-jungle-standard-mode-level-6.webp" alt="Team 1 Acahualla Jungle Standard Mode Level 6" caption="Team 1 Acahualla Jungle Standard Mode Level 6" url_source="https://i.imgur.com/FU3U78i.jpg" caption_source="Ảnh HD">}}
-#### Video (LT-6)
+##### Video (LT-6)
 {{< youtube 299yy861SJA >}}
 ## Emergency Mode  
 ### Team 1 (17-07-2023)
-### Level 1 Team (17-07-2023)  
+#### Level 1 Team (17-07-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-acahualla-jungle-emergency-mode-level-1.webp" alt="Team 1 Acahualla Jungle Emergency Mode Level 1" caption="Team 1 Acahualla Jungle Emergency Mode Level 1" url_source="https://i.imgur.com/12F8xL9.png" caption_source="Ảnh HD">}}
-### Level 6 Team (17-07-2023)  
+#### Level 6 Team (17-07-2023)  
 {{< image_centered_with_caption_and_source url="/team-1-acahualla-jungle-emergency-mode-level-6.webp" alt="Team 1 Acahualla Jungle Emergency Mode Level 6" caption="Team 1 Acahualla Jungle Emergency Mode Level 6" url_source="https://i.imgur.com/MDJOMpF.jpg" caption_source="Ảnh HD">}}
-#### Video (LT-6)
+##### Video (LT-6)
 {{< youtube fkxhNn0AKfo >}}
