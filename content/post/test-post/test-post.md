@@ -78,15 +78,6 @@ Lâu quá không đánh nên timming khúc cuối hơi bị ngu, nhưng hên là
 - Bộ sưu tập ảnh, artbook của phim (nhìn giống mấy tấm hình vẽ A4 hồi cấp 1 lũ bạn hay mua ở căn tin về để tô màu thật): [Link](http://www.onlyshojo.com/fancylalafashionlala.htm).
 > Chúc mọi người xem phim vui vẻ! 🙂
 
----
-## Đôi lời  
-Module của các op trong clip đều là lv 3.
-## IS-EX-8 - Broken Rain - Normal Mode  
-{{< youtube pHXu77O7_Qs >}}  
-## IS-EX-8 - Broken Rain - Challenge Mode  
-Điều kiện: `Ít dân thường Siracusan hơn` => thanh `Blood Debt` không còn tự động giảm nữa => `Famiglia Silent Cleaner` xuất hiện nhiều hơn.  
-{{< youtube LL6i3oXys6A >}}  
-> Đã lâu rồi mới tận hưởng được cái cảm giác clear stage EX-8 mà không cần dòm guide 😌
 ---  
 Nguồn ảnh cover bài đăng: [onlyshojo.com/fancylalafashionlala.htm](http://www.onlyshojo.com/fancylalafashionlala.htm)  
 ## Đôi lời
@@ -181,6 +172,16 @@ Nếu phải cho điểm thì mình sẽ chấm là 5.5/10 (ờ vì viết cái 
 ## Link đến Anime Harbour Light Story: Fashion Lala yori do mình dịch
 [link](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/).
 > Cảm ơn các bạn đã đọc bài blog của mình! 🙂
+
+Cảm nhận về 13 tập đầu.
+Tập 1: Giới thiệu -> khơi dậy tính tò mò của người xem
+Tập 2: Pha debut làm người mẫu của Miho 
+Tập 3: Khó khăn khi làm hai việc cùng lúc. Miho cuối cùng cũng có quyết tâm làm đến cùng việc trở thành người nổi tiếng. trả thù Taro bằng pha cuối phim.
+Tập 4: Đi hẹn hò đôi => mở đầu cuộc sống của một đứa nhỏ làm 2,3 việc cùng một lúc nhưng cũng mang tính hài hước.
+Tập 5: "Cái tội của việc không biết nói không" dẫn đến nhiều sai lầm tai hại. Miho cũng biết thế nào là chuyên nghiệp trong công việc.
+Tập 6: Giới thiệu đối thủ của Miho, Yumeno, một cô nàng "chảnh nhiều riết quen" -> Hình như cũng thích Aikawa Hiroya.
+Tập 7: Câu chuyện về ngôi trường bị ma ám. Tập này giải trí là chính và khẳng định chắc nịch việc Taro có cảm tình cho Miho.
+Tập 8: Miho dùng ma thuật để tạo ra mèo. Và quả kết trầm cảm vcl. Xuyên suốt tập đã có hint về số phận của Lilu nếu tin mắt thì bạn sẽ thấy. Còn câu nói Pigu nhận ra số phận của Lilu ở đầu phim là ám chỉ việc Lilu sẽ tan biến nhưng vì Miho quá vui mừng vì Lilu nên Pigu giữ im lặng về việc này.
 
 ---
 
