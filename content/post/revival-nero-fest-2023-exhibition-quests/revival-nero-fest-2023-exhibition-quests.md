@@ -140,8 +140,8 @@ Bay một lệnh đánh Encore do skill issue với xài áo đổi người, h�
 {{< raw_html >}}
 <figcaption>Team Exhibition VII: Grand Finale: The Crimson Olympian (xài áo đổi người) + Encore (xài áo Atlas như trên hình) (Revival) <a class="link" href="https://i.imgur.com/Qrqxw86.png" target="_blank" rel="noopener"><b>(Ảnh HD)</b></a>.</figcaption>
 </figure>{{< /raw_html >}}
-## Video (Xài áo đổi người)  
+### Video (Xài áo đổi người)  
 {{< youtube nHTBpQ4UzH8 >}}
-## Video Encore  (Xài áo Atlas)
+### Video Encore  (Xài áo Atlas)
 {{< youtube 5x6Ikm94G88 >}}
 
