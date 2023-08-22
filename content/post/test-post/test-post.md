@@ -183,6 +183,10 @@ Tập 6: Giới thiệu đối thủ của Miho, Yumeno, một cô nàng "chản
 Tập 7: Câu chuyện về ngôi trường bị ma ám. Tập này giải trí là chính và khẳng định chắc nịch việc Taro có cảm tình cho Miho.
 Tập 8: Miho dùng ma thuật để tạo ra mèo. Và quả kết trầm cảm vcl. Xuyên suốt tập đã có hint về số phận của Lilu nếu tin mắt thì bạn sẽ thấy. Còn câu nói Pigu nhận ra số phận của Lilu ở đầu phim là ám chỉ việc Lilu sẽ tan biến nhưng vì Miho quá vui mừng vì Lilu nên Pigu giữ im lặng về việc này.
 Tập 9: Miho chính thức ra mắt làm ca sĩ sau khi vượt qua mặc cảm về giọng của chính mình
+Tập 10: Đi lưu diễn và quản bả được Taro ủng hộ.
+Tập 11: Miho chơi bóng chày.
+Tập 12: Miho lạ vào xứ sở song song?
+Tập 13: Tai tiếng giữa Lala và Hiroya.
 ---
 
 ## Spotify markdown short code  
