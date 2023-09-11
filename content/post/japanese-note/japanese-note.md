@@ -119,5 +119,7 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |雑誌 - ざっし|Zasshi|Tờ báo (Cục làm báo)|
 |午前|gozen| nghĩa là “a.m.” nếu câu nhắc đến có giờ giấc (buổi sáng). Ví dụ "10 giờ sáng"|
 |午後|gogo| nghĩa là pm “p.m.” nếu câu nhắc đến có giờ giấc (buổi chiều). ví dụ 15 giờ chiều|
+|宿題（しゅくだい）|shikudai|bài tập về nhà|
+|見かけ|Mikake|bề ngoại, diện mạo|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
