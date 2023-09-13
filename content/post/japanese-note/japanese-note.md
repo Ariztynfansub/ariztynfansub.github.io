@@ -121,5 +121,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |午後|gogo| nghĩa là pm “p.m.” nếu câu nhắc đến có giờ giấc (buổi chiều). ví dụ 15 giờ chiều|
 |宿題（しゅくだい）|shikudai|bài tập về nhà|
 |見かけ|Mikake|bề ngoại, diện mạo|
+|推論|Suiron|suy luận|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
