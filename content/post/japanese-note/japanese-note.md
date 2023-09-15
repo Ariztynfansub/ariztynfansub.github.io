@@ -122,5 +122,6 @@ Bài đăng sẽ viết những cụm từ tiếng Nhật mà mình gặp phải
 |宿題（しゅくだい）|shikudai|bài tập về nhà|
 |見かけ|Mikake|bề ngoại, diện mạo|
 |推論|Suiron|suy luận|
+|事務所(じむしょ)|Jimusho|văn phòng|
 |Đang cập nhật       |Đang cập nhật         |Đang cập nhật          |
 
