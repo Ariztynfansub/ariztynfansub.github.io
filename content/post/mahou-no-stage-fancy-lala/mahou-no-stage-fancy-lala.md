@@ -12,7 +12,6 @@ lastmod: '2023-09-17T22:36:00+07:00'
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
 ## Tiến độ (26/26)  
-> Đã dịch xong đang upload, khi nào up xong mình sẽ cập nhật lại trạng thái và xoá luôn dòng này!
 - EP 1 - Mahou no Stage Fancy Lala. ![EP 1 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
 - EP 2 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 - EP 3 - Mahou no Stage Fancy Lala. ![EP 3 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành) 
@@ -60,8 +59,8 @@ Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (
 **Định dạng & thông số:**      
 26 Tập (TV Series): [DVD 480p x264 8bit AC3][Softsub].mkv  
 ## Download  
-**Download:** [26 Tập (TV Series)](https://terabox.com/s/1NGPsyLJ1mKTV4DnC46tfQw). (chưa cập nhật)  
-**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Mahou-no-Stage-Fancy-Lala/archive/refs/heads/main.zip) (chưa cập nhật)  
+**Download:** [26 Tập (TV Series)](https://terabox.com/s/1NGPsyLJ1mKTV4DnC46tfQw). (phim có sẵn sub rồi nên không cần tải sub rời đâu) 
+**Fonts:** [Fonts](https://github.com/Ariztynfansub/Fonts-Mahou-no-Stage-Fancy-Lala/archive/refs/heads/main.zip)  
 ## Song
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
