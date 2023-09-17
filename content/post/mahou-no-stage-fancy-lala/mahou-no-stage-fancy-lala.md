@@ -5,39 +5,14 @@ description: "Anime Mahou no Stage Fancy Lala  / Fancy Lala / Cô bé Lala DVD V
 slug: "mahou-no-stage-fancy-lala"
 image: cover-mahou-no-stage-fancy-lala.webp
 categories: Anime
-tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Đang tiến hành']
+tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Hoàn thành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
 lastmod: '2023-09-17T22:36:00+07:00'
 ---
 ## Đôi lời  
 Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
 ## Tiến độ (26/26)  
-- EP 1 - Mahou no Stage Fancy Lala. ![EP 1 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)  
-- EP 2 - Mahou no Stage Fancy Lala. ![EP 2 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 3 - Mahou no Stage Fancy Lala. ![EP 3 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành) 
-- EP 4 - Mahou no Stage Fancy Lala. ![EP 4 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 5 - Mahou no Stage Fancy Lala. ![EP 5 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 6 - Mahou no Stage Fancy Lala. ![EP 6 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 7 - Mahou no Stage Fancy Lala. ![EP 7 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 8 - Mahou no Stage Fancy Lala. ![EP 8 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 9 - Mahou no Stage Fancy Lala. ![EP 9 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 10 - Mahou no Stage Fancy Lala. ![EP 10 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 11 - Mahou no Stage Fancy Lala. ![EP 11 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 12 - Mahou no Stage Fancy Lala. ![EP 12 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 13 - Mahou no Stage Fancy Lala. ![EP 13 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 14 - Mahou no Stage Fancy Lala. ![EP 14 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 15 - Mahou no Stage Fancy Lala. ![EP 15 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 16 - Mahou no Stage Fancy Lala. ![EP 16 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 17 - Mahou no Stage Fancy Lala. ![EP 17 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 18 - Mahou no Stage Fancy Lala. ![EP 18 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 19 - Mahou no Stage Fancy Lala. ![EP 19 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 20 - Mahou no Stage Fancy Lala. ![EP 20 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 21 - Mahou no Stage Fancy Lala. ![EP 21 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 22 - Mahou no Stage Fancy Lala. ![EP 22 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 23 - Mahou no Stage Fancy Lala. ![EP 23 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 24 - Mahou no Stage Fancy Lala. ![EP 24 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 25 - Mahou no Stage Fancy Lala. ![EP 25 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
-- EP 26 - Mahou no Stage Fancy Lala. ![EP 26 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
+- EP 01-26   - Mahou no Stage Fancy Lala. ![EP 01-26 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 ## Thông tin phim   
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
