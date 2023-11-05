@@ -3,7 +3,7 @@ title: "Test post"
 date: 2023-07-11T11:00:00+07:00
 description: "Fate/Grand Order - 6th Aniversary Commemorative Campaign -"
 slug: "test-post"
-image: cover-fgo-lostbelt-6-part-1.webp
+image: cover-blog-mahou-no-stage-fancy-lala.webp
 categories: Gaming
 tags: ['Anime','TV Series','DVD','480p','8bit','AC3','x264','Hoàn thành']
 keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrara','魔法のステージ ファンシーララ','anime','anime vietsub','vietsub','anime fansub','fansub','Ariztyn-Fansub','Ariztyn Fansub','Ariztyn','Ariztyno']
@@ -81,7 +81,7 @@ Lâu quá không đánh nên timming khúc cuối hơi bị ngu, nhưng hên là
 ---  
 Nguồn ảnh cover bài đăng: [onlyshojo.com/fancylalafashionlala.htm](http://www.onlyshojo.com/fancylalafashionlala.htm)  
 ## Đôi lời
-Do bộ anime lần này có nội dung ngắn nên khó tránh khỏi việc spoil nên bạn có thể click và [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) để đến bài đăng chứa link tải phim coi phim luôn, rồi quay lại đây đọc tiếp. Đây là bộ thứ hai mang chủ đề ma pháp sư thiếu nữ mà mình dịch sau [Yume Tsukai](https://ariztynfansub.github.io/p/yume-tsukai/) và lý do pick dịch bộ này của mình là vì nội dung của nó có phần `lạ` so với các bộ cùng thể loại ma pháp sư thiếu nữ khác. Lẽ ra đã có thể hoàn thành bộ này sớm hơn tầm 2 ngày nhưng vì oải vụ dịch lyric quá nên tới hôm 16/06/2023 mới dịch xong và upload.  
+Bài viết này không tránh khỏi việc spoil nội dung phim (mình sẽ cố để không spoil nhiều quá) nên hãy cân nhắc trước khi đọc tiếp.
 ## Sơ lược về Harbour Light Story: Fashion Lala yori   
 OVA `Harbour Light Story: Fashion Lala yori` xoay quanh câu chuyện về Miho (11 tuổi) một cô bé sống chung với gia đình của cô mình và những cô con gái của bà ấy. Vì muốn giúp chị họ của mình, Shuri, giành chiến thắng trong Cuộc thi Nữ hoàng Disco nên Miho đã may cho cô một chiếc đầm để thi đấu (ờ thì vì trang phục cũng là danh mục để chấm điểm), nhưng người cô ngu ngốc (bẩn tính) đã phá huỷ chiếc đầm đó. Các tiên Faland vì thấy tội nghiệp trước hoàn cảnh của Miho nên đã ban cho cô sức mạnh để biến thành Fashion Lala (16 tuổi) với khả năng thiết kế thời trang hàng đầu (còn hàng đầu do đâu thì xem phim rồi bạn sẽ hiểu hoặc đọc tiếp để biết nhé).
 ## Cảm nhận về nội dung (   

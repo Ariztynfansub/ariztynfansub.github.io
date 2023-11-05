@@ -24,7 +24,7 @@ Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (
 **Số tập:** 26 Tập (TV Series)  
 **Studio:** Studio Pierrot   
 **Năm phát hành:** 1998   
-**Nội dung:** Shinohara Miho là một cô bé 9 tuổi sáng dạ của một nhà cổ sinh vật học với ước mơ là trở nên nổi tiếng vào một ngày nào đó. Rồi một hôm nọ, cô bỗng nhiên trở thành người sở hữu của những thứ mà cô tưởng là thú bông, nhưng hoá ra chúng lại là hai chú khủng long phép thuật, Pigu và Mogu. Và cô được chúng ban cho năng lực để biến những bộ quần áo cô vẽ ra trở thành hiện thực. Đồng thời cô còn có thể biến hình thành Lala - phiên bản tuổi teen của mình. Nhờ vậy cô có thể thực hiện ước mơ của mình và bắt đầu sống như một idol, nhưng liệu trở nên nổi tiếng có đáng so với vô số rắc rối đang chờ đợi phía trước không? [(Nguồn anidb)](https://anidb.net/anime/246)  
+**Nội dung:** Shinohara Miho là một cô bé 9 tuổi sáng dạ của một nhà cổ sinh vật học với ước mơ là trở nên nổi tiếng vào một ngày nào đó (dù mới đầu con bé lầm tưởng rằng mình muốn làm hoạ nô :v). Rồi một hôm nọ, cô bỗng nhiên trở thành người sở hữu của những thứ mà cô tưởng là thú bông, nhưng hoá ra chúng lại là hai chú khủng long phép thuật, Pigu và Mogu. Và cô được chúng ban cho năng lực để biến những bộ quần áo cô vẽ ra trở thành hiện thực. Đồng thời cô còn có thể biến hình thành Lala - phiên bản tuổi teen của mình. Nhờ vậy cô có thể thực hiện ước mơ của mình và bắt đầu sống như một idol, nhưng liệu trở nên nổi tiếng có đáng so với vô số rắc rối đang chờ đợi phía trước không? [(Nguồn anidb)](https://anidb.net/anime/246)  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub của rip từ DVD gốc và mux/encode lại bởi [[Exiled-Destiny]](https://nyaa.si/view/1397573)     
 **Nguồn Kara Effect:**  
