@@ -25,6 +25,7 @@ Lâu quá không đánh nên timming khúc cuối hơi bị ngu, nhưng hên là
 {{< youtube -BA8UGQecNA >}}
 
 ## Thông tin phim   
+[ff](https://github.com/Ariztynfansub/Fonts--Yokohama-Kaidashi-Kikou--1998_2002-/archive/refs/heads/main.zip)  
 {{< raw_html >}}  
 <figure align="center">{{< /raw_html >}}
 ![Mahou no Stage Fancy Lala Vietsub](mahou-no-stage-fancy-lala.webp)

@@ -10,7 +10,7 @@ keywords: ['Mahou no Stage Fancy Lala','Fancy Lala','Mahō no sutēji fanshīrar
 lastmod: '2023-09-17T22:36:00+07:00'
 ---
 ## Đôi lời  
-Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/) 
+Mình có dịch `Harbour Light Story: Fashion Lala Yori` là bộ anime gốc (gồm 1 OVA khá ngắn) để Studio Pierrot lấy ý tưởng và làm nên `Mahou No Stage Fancy Lala`, nên nếu bạn thích thì có thể xem nó tại [đây](https://ariztynfansub.github.io/p/harbour-light-story-fashion-lala-yori/). 
 ## Tiến độ (26/26)  
 - EP 01-26   - Mahou no Stage Fancy Lala. ![EP 01-26 - Mahou no Stage Fancy Lala (1998) - 100%](https://progress-bar.dev/100?title=hoàn-thành)
 ## Thông tin phim   
