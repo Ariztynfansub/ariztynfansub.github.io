@@ -21,7 +21,7 @@ keywords: ['Yokohama Kaidashi Kikou Quiet Country Cafe','ヨコハマ買い出�
 **Tên phim:** Yokohama Kaidashi Kikou Quiet Country Cafe | Yokohama Kaidashi Kikō Quiet Country Cafe | ヨコハマ買い出し紀行 Quiet Country Cafe   
 **Số tập:** 2 Tập (OVA)  
 **Studio:** Ajia-do   
-**Năm phát hành:** 1998   
+**Năm phát hành:** 2002   
 **Nội dung:** Nối tiếp câu chuyện phần trước lần này Alpha quyết định sẽ đi một chuyến hành trình để khám phá thế giới ngoài kia cũng như kiếm tiền để sửa quán cà phê sau khi quán của cô đã bị cơn bão phá huỷ.  
 **Nhân sự:** Ariztyno   
 **Nguồn phim:** Dịch từ eng sub bởi [[ARC]](https://nyaa.si/view/1382966)   
